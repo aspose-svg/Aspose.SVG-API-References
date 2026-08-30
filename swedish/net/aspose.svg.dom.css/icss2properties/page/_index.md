@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Page
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se sidegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.Page"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Page egenskap. Se definitionen av page‑egenskapen i CSS2"
 type: docs
-weight: 850
+weight: 880
 url: /sv/net/aspose.svg.dom.css/icss2properties/page/
 ---
 ## ICSS2Properties.Page property
 
-Se sidegenskapsdefinitionen i CSS2.
+Se egendefinitionen för page i CSS2.
 
 ```csharp
 public string Page { get; set; }
@@ -16,12 +16,10 @@ public string Page { get; set; }
 
 ### Returvärde
 
-sida egendom
+page egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

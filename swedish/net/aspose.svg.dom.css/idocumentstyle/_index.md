@@ -1,14 +1,14 @@
 ---
-title: Interface IDocumentStyle
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Css.IDocumentStyle gränssnitt. DocumentStylegränssnittet tillhandahåller en mekanism genom vilken stilmallarna som är inbäddade i ett dokument kan hämtas. Förväntningen är att en instans av DocumentStylegränssnittet kan erhållas genom att använda bindningsspecifika castingmetoder på en instans av Documentgränssnittet.
+title: "IDocumentStyle‑gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Css.IDocumentStyle‑gränssnitt. DocumentStyle‑gränssnittet tillhandahåller en mekanism för att hämta de stilark som är inbäddade i ett dokument. Förväntningen är att en instans av DocumentStyle‑gränssnittet kan erhållas genom att använda bindningsspecifika kastmetoder på en instans av Document‑gränssnittet."
 type: docs
-weight: 700
+weight: 2700
 url: /sv/net/aspose.svg.dom.css/idocumentstyle/
 ---
 ## IDocumentStyle interface
 
-DocumentStyle-gränssnittet tillhandahåller en mekanism genom vilken stilmallarna som är inbäddade i ett dokument kan hämtas. Förväntningen är att en instans av DocumentStyle-gränssnittet kan erhållas genom att använda bindningsspecifika castingmetoder på en instans av Document-gränssnittet.
+DocumentStyle‑gränssnittet tillhandahåller en mekanism för att hämta de stilmallar som är inbäddade i ett dokument. Förväntningen är att en instans av DocumentStyle‑gränssnittet kan erhållas genom att använda bindningsspecifika cast‑metoder på en instans av Document‑gränssnittet.
 
 ```csharp
 public interface IDocumentStyle
@@ -16,13 +16,11 @@ public interface IDocumentStyle
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | En lista som innehåller alla stilmallar som är explicit länkade till eller inbäddade i ett dokument. För HTML-dokument inkluderar detta externa stilmallar, inkluderade via HTML LINK-elementet, och inline STYLE-element. |
+| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets/) { get; } | En lista som innehåller alla stilmallar som uttryckligen länkas in eller bäddas in i ett dokument. För HTML‑dokument inkluderar detta externa stilmallar, inkluderade via HTML‑LINK‑elementet, samt inbäddade STYLE‑element. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

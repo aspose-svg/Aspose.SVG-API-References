@@ -1,14 +1,14 @@
 ---
-title: Document.OnMouseEnter
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnMouseEnterhändelse.
+title: "Document.OnMouseEnter"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnMouseEnter‑händelse. Hämtar eller anger händelsehanterare för OnMouseEnter‑händelsen."
 type: docs
 weight: 520
 url: /sv/net/aspose.svg.dom/document/onmouseenter/
 ---
 ## Document.OnMouseEnter event
 
-Hämtar eller ställer in händelsehanterare för OnMouseEnter-händelse.
+Hämtar eller anger händelsehanterare för OnMouseEnter-händelse.
 
 ```csharp
 public event DOMEventHandler OnMouseEnter;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseEnter;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

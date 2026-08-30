@@ -1,27 +1,25 @@
 ---
-title: Url.Password
-second_title: Aspose.SVG för .NET API Referens
-description: Url fast egendom. Hämtar eller ställer in en strängrepresentation för det angivna URLlösenordet.
+title: "Url.Password"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Url Password egenskap. Hämtar eller anger en strängrepresentation för det angivna URL-lösenordet"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg/url/password/
 ---
 ## Url.Password property
 
-Hämtar eller ställer in en strängrepresentation för det angivna URL-lösenordet.
+Hämtar eller anger en strängrepresentation för det angivna URL-lösenordet.
 
 ```csharp
 public string Password { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Lösenordet.
 
 ### Se även
 
 * class [Url](../)
-* namnutrymme [Aspose.Svg](../../url/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

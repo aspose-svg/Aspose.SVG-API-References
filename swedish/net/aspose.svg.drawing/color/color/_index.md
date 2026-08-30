@@ -1,14 +1,14 @@
 ---
-title: Color.Color
-second_title: Aspose.SVG för .NET API Referens
-description: Color byggare. Initierar en ny instans avColor class. Som standard är färgen svart.
+title: "Color"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color-konstruktorn. Initierar en ny instans av Color-klassen. Som standard är färgen svart."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/color/color/
 ---
 ## Color() {#constructor}
 
-Initierar en ny instans av[`Color`](../) class. Som standard är färgen svart.
+Initierar en ny instans av klassen [`Color`](../). Som standard är färgen svart.
 
 ```csharp
 public Color()
@@ -17,14 +17,14 @@ public Color()
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float) {#constructor_5}
+## Color(*float, float, float*) {#constructor_5}
 
-Initierar en ny instans av[`Color`](../) class. Alla färgkomponenter måste vara i intervallet 0-1.
+Initierar en ny instans av klassen [`Color`](../). Alla färgkomponenter måste ligga i intervallet 0‑1.
 
 ```csharp
 public Color(float red, float green, float blue)
@@ -32,21 +32,21 @@ public Color(float red, float green, float blue)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| red | Single | Den röda komponenten i färgen. |
-| green | Single | Den gröna komponenten i färgen. |
-| blue | Single | Den blå komponenten i färgen. |
+| röd | Single | Den röda komponenten i färgen. |
+| grön | Single | Den gröna komponenten i färgen. |
+| blå | Single | Den blå komponenten i färgen. |
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(float, float, float, float) {#constructor_6}
+## Color(*float, float, float, float*) {#constructor_6}
 
-Initierar en ny instans av[`Color`](../) class. Alla färgkomponenter måste vara i intervallet 0-1.
+Initierar en ny instans av klassen [`Color`](../). Alla färgkomponenter måste ligga i intervallet 0‑1.
 
 ```csharp
 public Color(float red, float green, float blue, float alpha)
@@ -54,22 +54,22 @@ public Color(float red, float green, float blue, float alpha)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| red | Single | Den röda komponenten i färgen. |
-| green | Single | Den gröna komponenten i färgen. |
-| blue | Single | Den blå komponenten i färgen. |
-| alpha | Single | Färgens alfakomponent. |
+| röd | Single | Den röda komponenten i färgen. |
+| grön | Single | Den gröna komponenten i färgen. |
+| blå | Single | Den blå komponenten i färgen. |
+| alfa | Single | Alfakomponenten i färgen. |
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte) {#constructor_1}
+## Color(*byte, byte, byte*) {#constructor_1}
 
-Initierar en ny instans av[`Color`](../)class. Alla färgkomponenter måste vara i intervallet 0-255.
+Initierar en ny instans av klassen [`Color`](../). Alla färgkomponenter måste ligga i intervallet 0‑255.
 
 ```csharp
 public Color(byte red, byte green, byte blue)
@@ -77,21 +77,21 @@ public Color(byte red, byte green, byte blue)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| red | Byte | Den röda komponenten i färgen. |
-| green | Byte | Den gröna komponenten i färgen. |
-| blue | Byte | Den blå komponenten i färgen. |
+| röd | Byte | Den röda komponenten i färgen. |
+| grön | Byte | Den gröna komponenten i färgen. |
+| blå | Byte | Den blå komponenten i färgen. |
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(byte, byte, byte, byte) {#constructor_2}
+## Color(*byte, byte, byte, byte*) {#constructor_2}
 
-Initierar en ny instans av[`Color`](../)class. Alla färgkomponenter måste vara i intervallet 0-255.
+Initierar en ny instans av klassen [`Color`](../). Alla färgkomponenter måste ligga i intervallet 0‑255.
 
 ```csharp
 public Color(byte red, byte green, byte blue, byte alpha)
@@ -99,22 +99,22 @@ public Color(byte red, byte green, byte blue, byte alpha)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| red | Byte | En byte som representerar den röda komponenten i färgen. |
-| green | Byte | En byte som representerar den gröna komponenten i färgen. |
-| blue | Byte | En byte som representerar den blå komponenten i färgen. |
-| alpha | Byte | En byte som representerar färgens alfakomponent. |
+| röd | Byte | En byte som representerar den röda komponenten i färgen. |
+| grön | Byte | En byte som representerar den gröna komponenten i färgen. |
+| blå | Byte | En byte som representerar den blå komponenten i färgen. |
+| alfa | Byte | En byte som representerar alfa-komponenten i färgen. |
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int) {#constructor_3}
+## Color(*int, int, int*) {#constructor_3}
 
-Initierar en ny instans av[`Color`](../)class. Alla färgkomponenter måste vara i intervallet 0-255.
+Initierar en ny instans av klassen [`Color`](../). Alla färgkomponenter måste ligga i intervallet 0‑255.
 
 ```csharp
 public Color(int red, int green, int blue)
@@ -122,21 +122,21 @@ public Color(int red, int green, int blue)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| red | Int32 | Den röda komponenten i färgen. |
-| green | Int32 | Den gröna komponenten i färgen. |
-| blue | Int32 | Den blå komponenten i färgen. |
+| röd | Int32 | Den röda komponenten i färgen. |
+| grön | Int32 | Den gröna komponenten i färgen. |
+| blå | Int32 | Den blå komponenten i färgen. |
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Color(int, int, int, int) {#constructor_4}
+## Color(*int, int, int, int*) {#constructor_4}
 
-Initierar en ny instans av[`Color`](../)class. Alla färgkomponenter måste vara i intervallet 0-255.
+Initierar en ny instans av klassen [`Color`](../). Alla färgkomponenter måste ligga i intervallet 0‑255.
 
 ```csharp
 public Color(int red, int green, int blue, int alpha)
@@ -144,15 +144,13 @@ public Color(int red, int green, int blue, int alpha)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| red | Int32 | Den röda komponenten i färgen. |
-| green | Int32 | Den gröna komponenten i färgen. |
-| blue | Int32 | Den blå komponenten i färgen. |
-| alpha | Int32 | Färgens alfakomponent. |
+| röd | Int32 | Den röda komponenten i färgen. |
+| grön | Int32 | Den gröna komponenten i färgen. |
+| blå | Int32 | Den blå komponenten i färgen. |
+| alfa | Int32 | Alfakomponenten i färgen. |
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

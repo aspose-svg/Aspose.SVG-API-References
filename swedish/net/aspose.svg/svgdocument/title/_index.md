@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.Title
-second_title: Aspose.SVG för .NET API Referens
-description: SVGDocument fast egendom. Titeln på ett dokument som specificeras av underelementet title i rotelementet svg dvs.Här är titeln... 
+title: "SVGDocument.Title"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGDocument Title‑egenskap. Titeln på ett dokument som specificeras av title‑under‑elementet i svg‑rotnoden, t.ex. Här är titeln"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/svgdocument/title/
 ---
 ## SVGDocument.Title property
 
-Titeln på ett dokument som specificeras av underelementet 'title' i rotelementet 'svg' (dvs.Här är titeln... )
+Dokumentets titel som anges av ‘title’-underelementet i ‘svg’-rootelementet (dvs. Här är titeln…)
 
 ```csharp
 public string Title { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Titeln på ett dokument.
 
 ### Se även
 
 * class [SVGDocument](../)
-* namnutrymme [Aspose.Svg](../../svgdocument/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

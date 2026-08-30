@@ -1,7 +1,7 @@
 ---
-title: IXPathResult.StringValue
-second_title: Aspose.SVG för .NET API Referens
-description: IXPathResult fast egendom. Värdet för detta strängresultat.
+title: "IXPathResult.StringValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IXPathResult StringValue‑egenskap. Värdet av detta strängresultat"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.dom.xpath/ixpathresult/stringvalue/
@@ -16,14 +16,12 @@ public string StringValue { get; }
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: höjt om`resultatTyp` är inte `Sträng` typ. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: uppstår om `resultType` inte är av typen `String`. |
 
 ### Se även
 
 * interface [IXPathResult](../)
-* namnutrymme [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

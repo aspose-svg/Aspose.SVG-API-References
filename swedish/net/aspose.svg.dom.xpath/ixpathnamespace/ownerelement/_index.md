@@ -1,14 +1,14 @@
 ---
-title: IXPathNamespace.OwnerElement
-second_title: Aspose.SVG för .NET API Referens
-description: IXPathNamespace fast egendom. DenElementdär namnområdet var i omfattning när det begärdes. Detta ändras inte på en returnerad namnområdesnod även om dokumentet ändras så att namnområdet går utanför räckvidden på det elementet och denna nod inte längre hittas där av XPath.
+title: "IXPathNamespace.OwnerElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IXPathNamespace OwnerElement-egenskap. Elementet som namnutrymmet var i scope för när det begärdes. Detta ändras inte på en returnerad namnrymdsnod även om dokumentet förändras så att namnrymmet går ur scope på det elementet och denna nod inte längre hittas där av XPath."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.xpath/ixpathnamespace/ownerelement/
 ---
 ## IXPathNamespace.OwnerElement property
 
-Den[`Element`](../../../aspose.svg.dom/element/)där namnområdet var i omfattning när det begärdes. Detta ändras inte på en returnerad namnområdesnod även om dokumentet ändras så att namnområdet går utanför räckvidden på det elementet och denna nod inte längre hittas där av XPath.
+Det [`Element`](../../../aspose.svg.dom/element/) som namnrymmet var i scope för när det begärdes. Detta ändras inte på en returnerad namnrymdsnod även om dokumentet förändras så att namnrymmet går ur scope på det elementet och denna nod inte längre hittas där av XPath.
 
 ```csharp
 public Element OwnerElement { get; }
@@ -18,7 +18,5 @@ public Element OwnerElement { get; }
 
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IXPathNamespace](../)
-* namnutrymme [Aspose.Svg.Dom.XPath](../../ixpathnamespace/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

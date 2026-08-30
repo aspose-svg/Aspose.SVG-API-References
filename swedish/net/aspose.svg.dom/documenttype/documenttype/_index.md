@@ -1,14 +1,14 @@
 ---
-title: DocumentType.DocumentType
-second_title: Aspose.SVG för .NET API Referens
-description: DocumentType byggare. Initierar en ny instans avDocumentType class.
+title: "DocumentType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DocumentType-konstruktor. Initierar en ny instans av klassen DocumentType"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/documenttype/documenttype/
 ---
 ## DocumentType constructor
 
-Initierar en ny instans av[`DocumentType`](../) class.
+Initierar en ny instans av klassen [`DocumentType`](../).
 
 ```csharp
 public DocumentType(string name, string publicId, string systemId, string internalSubset, 
@@ -17,17 +17,15 @@ public DocumentType(string name, string publicId, string systemId, string intern
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Entitetens namn. |
-| publicId | String | Det offentliga id. |
-| systemId | String | System-id. |
+| namn | String | Entitetsnamnet. |
+| publicId | String | Det offentliga id:t. |
+| systemId | String | System-id:t. |
 | internalSubset | String | Den interna delmängden. |
-| doc | Document | Dokumentet. |
+| doc | Dokument | Dokumentet. |
 
 ### Se även
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* namnutrymme [Aspose.Svg.Dom](../../documenttype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,30 +1,28 @@
 ---
-title: Enum UrlRestriction
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Saving.UrlRestriction uppräkning. Denna uppräkning representerar begränsningar som tillämpas på webbadresser för bearbetade resurser.
+title: "UrlRestriction Enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Saving.UrlRestriction enum. Denna enum representerar begränsningar som tillämpas på URL:er för bearbetade resurser"
 type: docs
-weight: 3690
+weight: 5820
 url: /sv/net/aspose.svg.saving/urlrestriction/
 ---
 ## UrlRestriction enumeration
 
-Denna uppräkning representerar begränsningar som tillämpas på webbadresser för bearbetade resurser.
+Denna enum representerar begränsning som tillämpas på URL:er för bearbetade resurser.
 
 ```csharp
 public enum UrlRestriction
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| RootAndSubFolders | `0` | Endast resurser som finns i rot- och undermapparna bearbetas. |
-| SameHost | `1` | Endast resurser som finns i samma värd bearbetas. |
+| RootAndSubFolders | `0` | Endast resurser som finns i rot- och undermappar bearbetas. |
+| SameHost | `1` | Endast resurser som finns på samma värd bearbetas. |
 | None | `2` | Alla resurser bearbetas. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

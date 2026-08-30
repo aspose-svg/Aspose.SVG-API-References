@@ -1,14 +1,14 @@
 ---
-title: Node.DOCUMENT_TYPE_NODE
-second_title: Aspose.SVG för .NET API Referens
-description: Node fält. En dokumenttyp node
+title: "Node.DOCUMENT_TYPE_NODE"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node DOCUMENT_TYPE_NODE-fält. En dokumenttypnod"
 type: docs
-weight: 370
+weight: 350
 url: /sv/net/aspose.svg.dom/node/document_type_node/
 ---
 ## Node.DOCUMENT_TYPE_NODE field
 
-En dokumenttyp node
+En dokumenttypnod
 
 ```csharp
 public const ushort DOCUMENT_TYPE_NODE;
@@ -17,7 +17,5 @@ public const ushort DOCUMENT_TYPE_NODE;
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

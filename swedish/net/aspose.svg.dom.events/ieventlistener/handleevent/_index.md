@@ -1,14 +1,14 @@
 ---
-title: IEventListener.HandleEvent
-second_title: Aspose.SVG för .NET API Referens
-description: IEventListener metod. Denna metod anropas närhelst en händelse inträffar av den typ för vilkenIEventListener gränssnittet registrerades.
+title: "IEventListener.HandleEvent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IEventListener HandleEvent-metod. Denna metod anropas varje gång ett händelse inträffar av den typ för vilken IEventListener-gränssnittet registrerades."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.events/ieventlistener/handleevent/
 ---
 ## IEventListener.HandleEvent method
 
-Denna metod anropas närhelst en händelse inträffar av den typ för vilken[`IEventListener`](../) gränssnittet registrerades.
+Denna metod anropas varje gång ett händelse inträffar av den typ för vilken [`IEventListener`](../)‑gränssnittet registrerades.
 
 ```csharp
 public void HandleEvent(Event @event)
@@ -16,13 +16,11 @@ public void HandleEvent(Event @event)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| event | Event | Den[`Event`](../../event/) innehåller kontextuell information om händelsen. Den innehåller också[`StopPropagation`](../../event/stoppropagation/) och[`PreventDefault`](../../event/preventdefault/) metoder som används för att bestämma händelsens flöde och standardåtgärd. |
+| event | Event | [`Event`](../../event/) innehåller kontextuell information om händelsen. Den innehåller också metoderna [`StopPropagation`](../../event/stoppropagation/) och [`PreventDefault`](../../event/preventdefault/) som används för att bestämma händelsens flöde och standardåtgärd. |
 
 ### Se även
 
 * class [Event](../../event/)
 * interface [IEventListener](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../ieventlistener/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

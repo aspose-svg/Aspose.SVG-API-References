@@ -1,14 +1,14 @@
 ---
-title: Size.Size
-second_title: Aspose.SVG för .NET API Referens
-description: Size byggare. Initierar en ny instans avSize class.
+title: "Size"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Size konstruktor. Initierar en ny instans av klassen Size"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/size/size/
 ---
 ## Size() {#constructor}
 
-Initierar en ny instans av[`Size`](../) class.
+Initierar en ny instans av klassen [`Size`](../).
 
 ```csharp
 public Size()
@@ -17,14 +17,14 @@ public Size()
 ### Se även
 
 * class [Size](../)
-* namnutrymme [Aspose.Svg.Drawing](../../size/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(int, int) {#constructor_2}
+## Size(*int, int*) {#constructor_2}
 
-Initierar en ny instans av[`Size`](../) klass och ange en höjd och bredd i pixlar.
+Initierar en ny instans av klassen [`Size`](../) och specificerar en höjd och bredd i pixlar.
 
 ```csharp
 public Size(int width, int height)
@@ -38,14 +38,14 @@ public Size(int width, int height)
 ### Se även
 
 * class [Size](../)
-* namnutrymme [Aspose.Svg.Drawing](../../size/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Size(Length, Length) {#constructor_1}
+## Size(*[Length](../../length/), [Length](../../length/)*) {#constructor_1}
 
-Initierar en ny instans av[`Size`](../) class.
+Initierar en ny instans av klassen [`Size`](../).
 
 ```csharp
 public Size(Length width, Length height)
@@ -60,7 +60,5 @@ public Size(Length width, Length height)
 
 * class [Length](../../length/)
 * class [Size](../)
-* namnutrymme [Aspose.Svg.Drawing](../../size/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

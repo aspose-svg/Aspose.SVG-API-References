@@ -1,20 +1,20 @@
 ---
-title: Margin.Left
-second_title: Aspose.SVG för .NET API Referens
-description: Margin fast egendom. Hämtar eller ställer in vänster.
+title: "Margin.Left"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Margin Left-egenskap. Hämtar eller ställer in den vänstra."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.drawing/margin/left/
 ---
 ## Margin.Left property
 
-Hämtar eller ställer in vänster.
+Hämtar eller anger vänster.
 
 ```csharp
 public LengthOrAuto Left { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den vänstra.
 
@@ -22,7 +22,5 @@ Den vänstra.
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* namnutrymme [Aspose.Svg.Drawing](../../margin/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

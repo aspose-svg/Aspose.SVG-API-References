@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnUnload
-second_title: Aspose.SVG för .NET API Referens
-description: IWindowEventHandlers händelse. Hämtar eller ställer in händelsehanterare
+title: "IWindowEventHandlers.OnUnload"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindowEventHandlers OnUnload händelse. Hämtar eller anger händelsehanterare"
 type: docs
 weight: 120
 url: /sv/net/aspose.svg.window/iwindoweventhandlers/onunload/
 ---
 ## IWindowEventHandlers.OnUnload event
 
-Hämtar eller ställer in händelsehanterare
+Hämtar eller anger händelsehanterare
 
 ```csharp
 public event DOMEventHandler OnUnload;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnUnload;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

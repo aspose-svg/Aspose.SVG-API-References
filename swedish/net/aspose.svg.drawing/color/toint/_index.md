@@ -1,14 +1,14 @@
 ---
-title: Color.ToInt
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Kodar Color ARGBkomponenterna till int.
+title: "Color.ToInt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color ToInt-metoden. Kodar Color ARGB-komponenterna till int"
 type: docs
 weight: 360
 url: /sv/net/aspose.svg.drawing/color/toint/
 ---
 ## Color.ToInt method
 
-Kodar Color ARGB-komponenterna till int.
+Kodar färgens ARGB-komponenter till int.
 
 ```csharp
 public int ToInt()
@@ -16,12 +16,10 @@ public int ToInt()
 
 ### Returvärde
 
-Kodad int.
+Kodat int.
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,17 +1,17 @@
 ---
-title: ITextureBrush.Opacity
-second_title: Aspose.SVG för .NET API Referens
-description: ITextureBrush fast egendom. Få opacitetsvärde i en färgomvandlingsmatris.
+title: "ITextureBrush.Opacity"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ITextureBrush Opacity-egenskap. Hämta opacitetsvärdet i en färgtransformationsmatris"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.drawing/itexturebrush/opacity/
 ---
 ## ITextureBrush.Opacity property
 
-Få opacitetsvärde i en färgomvandlingsmatris.
+Hämta opacitetsvärde i en färgtransformationsmatris.
 
 ```csharp
-public float Opacity { get; }
+public float Opacity { get; set; }
 ```
 
 ### Returvärde
@@ -21,7 +21,5 @@ Opacitet.
 ### Se även
 
 * interface [ITextureBrush](../)
-* namnutrymme [Aspose.Svg.Drawing](../../itexturebrush/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

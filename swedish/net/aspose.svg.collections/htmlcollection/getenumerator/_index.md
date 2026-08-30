@@ -1,7 +1,7 @@
 ---
-title: HTMLCollection.GetEnumerator
-second_title: Aspose.SVG för .NET API Referens
-description: HTMLCollection metod. Hämtar enumeratorn.
+title: "HTMLCollection.GetEnumerator"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "HTMLCollection GetEnumerator-metoden. Hämtar enumeratorn."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.collections/htmlcollection/getenumerator/
@@ -16,13 +16,11 @@ public abstract IEnumerator<Element> GetEnumerator()
 
 ### Returvärde
 
-AnIEnumerator objekt som kan användas för att iterera genom samlingen.
+Ett IEnumerator-objekt som kan användas för att iterera genom samlingen.
 
 ### Se även
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* namnutrymme [Aspose.Svg.Collections](../../htmlcollection/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

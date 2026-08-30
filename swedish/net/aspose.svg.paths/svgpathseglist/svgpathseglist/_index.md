@@ -1,14 +1,14 @@
 ---
-title: SVGPathSegList.SVGPathSegList
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathSegList byggare. Initierar en ny instans avSVGPathSegList class.
+title: "SVGPathSegList"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathSegList-konstruktor. Initierar en ny instans av klassen SVGPathSegList"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.paths/svgpathseglist/svgpathseglist/
 ---
 ## SVGPathSegList() {#constructor}
 
-Initierar en ny instans av[`SVGPathSegList`](../) class.
+Initierar en ny instans av klassen [`SVGPathSegList`](../).
 
 ```csharp
 public SVGPathSegList()
@@ -17,14 +17,14 @@ public SVGPathSegList()
 ### Se även
 
 * class [SVGPathSegList](../)
-* namnutrymme [Aspose.Svg.Paths](../../svgpathseglist/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGPathSegList(IEnumerable&lt;SVGPathSeg&gt;) {#constructor_1}
+## SVGPathSegList(*IEnumerable&lt;SVGPathSeg&gt;*) {#constructor_1}
 
-Initierar en ny instans av[`SVGPathSegList`](../) class.
+Initierar en ny instans av klassen [`SVGPathSegList`](../).
 
 ```csharp
 public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
@@ -32,13 +32,11 @@ public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | Det uppräknade. |
+| enumererbar | IEnumerable`1 | Den enumererbara. |
 
 ### Se även
 
 * class [SVGPathSeg](../../svgpathseg/)
 * class [SVGPathSegList](../)
-* namnutrymme [Aspose.Svg.Paths](../../svgpathseglist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

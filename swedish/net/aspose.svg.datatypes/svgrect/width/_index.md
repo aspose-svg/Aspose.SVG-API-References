@@ -1,7 +1,7 @@
 ---
-title: SVGRect.Width
-second_title: Aspose.SVG för .NET API Referens
-description: SVGRect fast egendom. Breddkoordinaten för rektangeln i användarenheter.
+title: "SVGRect.Width"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGRect Width property. Breddkoordinaten för rektangeln i användarenheter"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.datatypes/svgrect/width/
@@ -14,20 +14,18 @@ Breddkoordinaten för rektangeln, i användarenheter.
 public float Width { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Breddkoordinaten för rektangeln, i användarenheter.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Ökas när rektangeln motsvarar ett skrivskyddat attribut eller när själva objektet är skrivskyddat. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Uppstår när rektangeln motsvarar ett skrivskyddat attribut eller när objektet självt är skrivskyddat. |
 
 ### Se även
 
 * class [SVGRect](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgrect/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

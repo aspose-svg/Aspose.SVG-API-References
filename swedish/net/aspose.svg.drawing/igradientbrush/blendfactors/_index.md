@@ -1,17 +1,17 @@
 ---
-title: IGradientBrush.BlendFactors
-second_title: Aspose.SVG för .NET API Referens
-description: IGradientBrush fast egendom. Få blandningsfaktorerna som definierar en anpassad falloff för gradienten.
+title: "IGradientBrush.BlendFactors"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGradientBrush BlendFactors-egenskapen. Hämtar eller anger blandningsfaktorerna som definierar ett anpassat avtagande för gradienten"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/igradientbrush/blendfactors/
 ---
 ## IGradientBrush.BlendFactors property
 
-Få blandningsfaktorerna som definierar en anpassad falloff för gradienten.
+Hämtar eller anger blandningsfaktorerna som definierar ett anpassat avtagande för gradienten.
 
 ```csharp
-public float[] BlendFactors { get; }
+public float[] BlendFactors { get; set; }
 ```
 
 ### Returvärde
@@ -21,7 +21,5 @@ Blandningsfaktorer.
 ### Se även
 
 * interface [IGradientBrush](../)
-* namnutrymme [Aspose.Svg.Drawing](../../igradientbrush/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

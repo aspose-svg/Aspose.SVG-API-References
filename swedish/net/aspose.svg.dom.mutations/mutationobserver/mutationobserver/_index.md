@@ -1,14 +1,14 @@
 ---
-title: MutationObserver.MutationObserver
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserver byggare. Konstruerar ett MutationObserverobjekt och ställer in dessMutationCallback att ringa tillbaka. Återuppringningen anropas med en lista med MutationRecordobjekt som första argument och det konstruerade MutationObserverobjektet som andra argument. Det anropas efter noder registrerade medObserveNode IMutationObserverInit metod är muterade.
+title: "MutationObserver"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserver-konstruktor. Skapar ett MutationObserver-objekt och sätter dess MutationCallback till callback. Callbacken anropas med en lista av MutationRecord-objekt som första argument och det konstruerade MutationObserver-objektet som andra argument. Den anropas efter att noder registrerade med Observe‑metoden har muterats."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.mutations/mutationobserver/mutationobserver/
 ---
 ## MutationObserver constructor
 
-Konstruerar ett MutationObserver-objekt och ställer in dess[`MutationCallback`](../../mutationcallback/) att ringa tillbaka. Återuppringningen anropas med en lista med MutationRecord-objekt som första argument och det konstruerade MutationObserver-objektet som andra argument. Det anropas efter noder registrerade med!:Observe(Node, IMutationObserverInit) metod, är muterade.
+Skapar ett MutationObserver-objekt och sätter dess [`MutationCallback`](../../mutationcallback/) till callback. Callbacken anropas med en lista av MutationRecord-objekt som första argument och det konstruerade MutationObserver-objektet som andra argument. Den anropas efter att noder registrerade med [`Observe`](../observe/)-metoden har muterats.
 
 ```csharp
 public MutationObserver(MutationCallback callback)
@@ -16,13 +16,11 @@ public MutationObserver(MutationCallback callback)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| callback | MutationCallback | Återuppringningen. |
+| återuppringning | MutationCallback | Återuppringningen. |
 
 ### Se även
 
 * delegate [MutationCallback](../../mutationcallback/)
 * class [MutationObserver](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

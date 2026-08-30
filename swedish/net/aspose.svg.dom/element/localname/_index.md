@@ -1,27 +1,25 @@
 ---
-title: Element.LocalName
-second_title: Aspose.SVG för .NET API Referens
-description: Element fast egendom. Returnerar den lokala delen av det kvalificerade namnet på denna nod. För noder av någon annan typ än ELEMENT_NODE och ATTRIBUTE_NODE och noder skapade med en DOM Level 1metod som Document.createElement är detta alltid null.
+title: "Element.LocalName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element LocalName-egenskapen. Returnerar den lokala delen av det kvalificerade namnet för denna nod. För noder av någon typ annat än ELEMENT_NODE och ATTRIBUTE_NODE samt noder skapade med en DOM Level 1-metod såsom Document.createElement är detta alltid null."
 type: docs
 weight: 110
 url: /sv/net/aspose.svg.dom/element/localname/
 ---
 ## Element.LocalName property
 
-Returnerar den lokala delen av det kvalificerade namnet på denna nod. För noder av någon annan typ än ELEMENT_NODE och ATTRIBUTE_NODE och noder skapade med en DOM Level 1-metod, som Document.createElement(), är detta alltid null.
+Returnerar den lokala delen av det kvalificerade namnet för denna nod. För noder av någon annan typ än ELEMENT_NODE och ATTRIBUTE_NODE samt noder skapade med en DOM Level 1-metod, såsom Document.createElement(), är detta alltid null.
 
 ```csharp
 public override string LocalName { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet på den lokala.
 
 ### Se även
 
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

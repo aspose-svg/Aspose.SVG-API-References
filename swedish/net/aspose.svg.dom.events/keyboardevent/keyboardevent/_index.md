@@ -1,14 +1,14 @@
 ---
-title: KeyboardEvent.KeyboardEvent
-second_title: Aspose.SVG för .NET API Referens
-description: KeyboardEvent byggare. Initierar en ny instans avKeyboardEvent class.
+title: "KeyboardEvent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "KeyboardEvent konstruktor. Skapar en ny instans av KeyboardEvent‑klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.events/keyboardevent/keyboardevent/
 ---
-## KeyboardEvent(string) {#constructor}
+## KeyboardEvent(*string*) {#constructor}
 
-Initierar en ny instans av[`KeyboardEvent`](../) class.
+Skapar en ny instans av [`KeyboardEvent`](../) klassen.
 
 ```csharp
 public KeyboardEvent(string type)
@@ -21,14 +21,14 @@ public KeyboardEvent(string type)
 ### Se även
 
 * class [KeyboardEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## KeyboardEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## KeyboardEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Initierar en ny instans av[`KeyboardEvent`](../) class.
+Skapar en ny instans av [`KeyboardEvent`](../) klassen.
 
 ```csharp
 public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | type | String | Händelsetypen. |
-| eventInitDict | IDictionary`2 | Händelsens initialiseringsordbok. |
+| eventInitDict | IDictionary`2 | Händelsens initieringsordbok. |
 
 ### Se även
 
 * class [KeyboardEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../keyboardevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

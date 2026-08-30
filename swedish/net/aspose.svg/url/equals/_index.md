@@ -1,14 +1,14 @@
 ---
-title: Url.Equals
-second_title: Aspose.SVG för .NET API Referens
-description: Url metod. Bestämmer om den angivnaObject  är lika med denna instans.
+title: "Url.Equals"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Url Equals metod. Avgör om det angivna Object är lika med den här instansen"
 type: docs
 weight: 140
 url: /sv/net/aspose.svg/url/equals/
 ---
 ## Url.Equals method
 
-Bestämmer om den angivnaObject , är lika med denna instans.
+Bestämmer om det angivna objektet är lika med den här instansen.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +16,14 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Objekt | Objektet att jämföra med den här instansen. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`sant` om det angivna objektet är lika med den här instansen; annars, `falskt`.
 
 ### Se även
 
 * class [Url](../)
-* namnutrymme [Aspose.Svg](../../url/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

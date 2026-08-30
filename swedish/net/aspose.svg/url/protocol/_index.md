@@ -1,27 +1,25 @@
 ---
-title: Url.Protocol
-second_title: Aspose.SVG för .NET API Referens
-description: Url fast egendom. Hämtar eller ställer in en strängrepresentation för det angivna URLschemat.
+title: "Url.Protocol"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Url Protocol egenskap. Hämtar eller anger en strängrepresentation för det angivna URL-schemat"
 type: docs
 weight: 100
 url: /sv/net/aspose.svg/url/protocol/
 ---
 ## Url.Protocol property
 
-Hämtar eller ställer in en strängrepresentation för det angivna URL-schemat.
+Hämtar eller anger en strängrepresentation för det angivna URL-schemat.
 
 ```csharp
 public string Protocol { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Protokollet.
 
 ### Se även
 
 * class [Url](../)
-* namnutrymme [Aspose.Svg](../../url/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

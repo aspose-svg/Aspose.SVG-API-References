@@ -1,14 +1,14 @@
 ---
-title: IWindowEventHandlers.OnBeforePrint
-second_title: Aspose.SVG för .NET API Referens
-description: IWindowEventHandlers händelse. Hämtar eller ställer in händelsehanterare
+title: "IWindowEventHandlers.OnBeforePrint"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindowEventHandlers OnBeforePrint händelse. Hämtar eller anger händelsehanterare"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.window/iwindoweventhandlers/onbeforeprint/
 ---
 ## IWindowEventHandlers.OnBeforePrint event
 
-Hämtar eller ställer in händelsehanterare
+Hämtar eller anger händelsehanterare
 
 ```csharp
 public event DOMEventHandler OnBeforePrint;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnBeforePrint;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindoweventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

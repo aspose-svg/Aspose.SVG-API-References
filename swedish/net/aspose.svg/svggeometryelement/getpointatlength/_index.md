@@ -1,14 +1,14 @@
 ---
-title: SVGGeometryElement.GetPointAtLength
-second_title: Aspose.SVG för .NET API Referens
-description: SVGGeometryElement metod. Returnerar xykoordinaten i användarutrymmet som är avståndsenheter längs vägen med hjälp av användaragentens algoritm för avstånd längs en väg.
+title: "SVGGeometryElement.GetPointAtLength"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Metoden SVGGeometryElement GetPointAtLength. Returnerar xy‑koordinaten i användarutrymmet som är avståndsenheter längs banan med hjälp av användaragentens distance‑along‑a‑path‑algoritm."
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.svg/svggeometryelement/getpointatlength/
 ---
 ## SVGGeometryElement.GetPointAtLength method
 
-Returnerar (x,y)-koordinaten i användarutrymmet som är avståndsenheter längs vägen, med hjälp av användaragentens algoritm för avstånd längs en väg.
+Returnerar (x,y)-koordinaten i användarutrymmet som är avståndsenheter längs vägen, med hjälp av användaragentens distance-along-a-path-algoritm.
 
 ```csharp
 public SVGPoint GetPointAtLength(float distance)
@@ -16,7 +16,7 @@ public SVGPoint GetPointAtLength(float distance)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| distance | Single | Avståndet längs banan, i förhållande till banans början, som ett avstånd i det aktuella användarkoordinatsystemet. |
+| avstånd | Single | Avståndet längs banan, relativt banans start, som ett avstånd i det aktuella användarkoordinatsystemet. |
 
 ### Returvärde
 
@@ -26,7 +26,5 @@ Den returnerade punkten i användarutrymmet.
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGGeometryElement](../)
-* namnutrymme [Aspose.Svg](../../svggeometryelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

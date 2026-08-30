@@ -1,14 +1,14 @@
 ---
-title: UnitType.In
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType fält. Måtten är i tum
+title: "UnitType.In"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType In‑fält. Måttet är i tum"
 type: docs
 weight: 120
 url: /sv/net/aspose.svg.drawing/unittype/in/
 ---
 ## UnitType.In field
 
-Måtten är i tum
+Mätning är i tum
 
 ```csharp
 public static readonly UnitType In;
@@ -17,7 +17,5 @@ public static readonly UnitType In;
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

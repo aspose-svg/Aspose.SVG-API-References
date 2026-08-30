@@ -1,14 +1,14 @@
 ---
-title: Document.Evaluate
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Utvärderar en XPathuttryckssträng och returnerar ett resultat av den angivna typen om möjligt.
+title: "Document.Evaluate"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document Evaluate‑metod. Utvärderar en XPath‑uttrycksträng och returnerar ett resultat av den angivna typen om möjligt"
 type: docs
 weight: 950
 url: /sv/net/aspose.svg.dom/document/evaluate/
 ---
 ## Document.Evaluate method
 
-Utvärderar en XPath-uttryckssträng och returnerar ett resultat av den angivna typen om möjligt.
+Utvärderar en XPath-uttrycksträng och returnerar ett resultat av den angivna typen om möjligt.
 
 ```csharp
 public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolver resolver, 
@@ -17,15 +17,15 @@ public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolv
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| expression | String | XPath-uttryckssträngen som ska tolkas och utvärderas. |
-| contextNode | Node | Kontexten är kontextnod för utvärderingen av detta XPath-uttryck. |
-| resolver | IXPathNSResolver | Resolvern tillåter översättning av alla prefix, inklusive namnområdesprefixet xml , inom XPath-uttrycket till lämpliga namnområdes-URI:er. |
+| expression | String | XPath-uttrycksträngen som ska parsas och utvärderas. |
+| contextNode | Node | Kontexten är kontextnod för utvärderingen av detta XPath‑uttryck. |
+| resolver | IXPathNSResolver | Resolvern tillåter översättning av alla prefix, inklusive xml‑namnrymdsprefixet, inom XPath‑uttrycket till lämpliga namnrymd‑URI:er. |
 | type | XPathResultType | Om en specifik typ anges, kommer resultatet att returneras som motsvarande typ. |
-| result | Object | Resultatet anger ett specifikt resultatobjekt som kan återanvändas och returneras med denna metod. |
+| result | Objekt | Resultatet specificerar ett specifikt resultatobjekt som kan återanvändas och returneras av denna metod. |
 
 ### Returvärde
 
-Resultatet av utvärderingen av XPath-uttrycket.
+Resultatet av utvärderingen av XPath‑uttrycket.
 
 ### Se även
 
@@ -34,7 +34,5 @@ Resultatet av utvärderingen av XPath-uttrycket.
 * interface [IXPathNSResolver](../../../aspose.svg.dom.xpath/ixpathnsresolver/)
 * enum [XPathResultType](../../../aspose.svg.dom.xpath/xpathresulttype/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

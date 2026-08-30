@@ -1,28 +1,26 @@
 ---
-title: SVGLineElement.Y2
-second_title: Aspose.SVG för .NET API Referens
-description: SVGLineElement fast egendom. Motsvarar attributet y2 på det givna lineelementet.
+title: "SVGLineElement.Y2"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGLineElement Y2 property. Motsvarar attributet y2 på det angivna linjeelementet."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg/svglineelement/y2/
 ---
 ## SVGLineElement.Y2 property
 
-Motsvarar attributet 'y2' på det givna 'line'-elementet.
+Motsvarar attributet ‘y2’ på det givna ‘line’-elementet.
 
 ```csharp
 public SVGAnimatedLength Y2 { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'y2' för det givna 'line'-elementet.
+Attributet ‘y2’ på det angivna ‘line’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGLineElement](../)
-* namnutrymme [Aspose.Svg](../../svglineelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

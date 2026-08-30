@@ -1,17 +1,17 @@
 ---
-title: Device2.CubicBezierTo
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Lägger till en kubisk Bézierkurva till den aktuella sökvägen. Kurvan sträcker sig från den aktuella punkten till punkten pt2 med pt1 och pt2 som Bézierkontrollpunkter. Den nya aktuella punkten är pt3.
+title: "Device-2.CubicBezierTo"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device CubicBezierTo-metod. Lägger till en kubisk Bézier-kurva i den aktuella vägen. Kurvan sträcker sig från den aktuella punkten till punkten pt2 med pt1 och pt2 som Bézier-kontrollpunkter. Den nya aktuella punkten är pt3"
 type: docs
-weight: 90
+weight: 120
 url: /sv/net/aspose.svg.rendering/device-2/cubicbezierto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.CubicBezierTo method
+## Device<TGraphicContext,TRenderingOptions>.CubicBezierTo method
 
-Lägger till en kubisk Bézier-kurva till den aktuella sökvägen. Kurvan sträcker sig från den aktuella punkten till punkten pt2, med pt1 och pt2 som Bézier-kontrollpunkter. Den nya aktuella punkten är pt3.
+Lägger till en kubisk Bézier-kurva till den aktuella vägen. Kurvan sträcker sig från den aktuella punkten till punkten pt2, med pt1 och pt2 som Bézier-kontrollpunkter. Den nya aktuella punkten är pt3.
 
 ```csharp
-public abstract void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
+public virtual void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ```
 
 | Parameter | Typ | Beskrivning |
@@ -23,7 +23,5 @@ public abstract void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ### Se även
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

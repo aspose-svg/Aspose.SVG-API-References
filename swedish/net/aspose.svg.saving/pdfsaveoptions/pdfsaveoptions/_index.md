@@ -1,14 +1,14 @@
 ---
-title: PdfSaveOptions.PdfSaveOptions
-second_title: Aspose.SVG för .NET API Referens
-description: PdfSaveOptions byggare. Default_Constructor
+title: "PdfSaveOptions"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PdfSaveOptions konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.saving/pdfsaveoptions/pdfsaveoptions/
 ---
 ## PdfSaveOptions constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public PdfSaveOptions()
@@ -17,7 +17,5 @@ public PdfSaveOptions()
 ### Se även
 
 * class [PdfSaveOptions](../)
-* namnutrymme [Aspose.Svg.Saving](../../pdfsaveoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

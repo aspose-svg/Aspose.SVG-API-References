@@ -1,28 +1,26 @@
 ---
-title: SVGRectElement.Ry
-second_title: Aspose.SVG för .NET API Referens
-description: SVGRectElement fast egendom. Motsvarar attributet ry på det givna rectelementet.
+title: "SVGRectElement.Ry"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGRectElement Ry-egenskap. Motsvarar attributet ry på det givna rect-elementet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svgrectelement/ry/
 ---
 ## SVGRectElement.Ry property
 
-Motsvarar attributet 'ry' på det givna 'rect'-elementet.
+Motsvarar attributet ‘ry’ på det givna ‘rect’-elementet.
 
 ```csharp
 public SVGAnimatedLength Ry { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'ry' för det givna 'rect'-elementet.
+Attributet ‘ry’ för det givna ‘rect’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* namnutrymme [Aspose.Svg](../../svgrectelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Pause
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se definitionen av pausegenskapen i CSS2.
+title: "ICSS2Properties.Pause"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Pause egenskap. Se definitionen av pause egenskap i CSS2"
 type: docs
-weight: 890
+weight: 920
 url: /sv/net/aspose.svg.dom.css/icss2properties/pause/
 ---
 ## ICSS2Properties.Pause property
 
-Se definitionen av pausegenskapen i CSS2.
+Se egendefinitionen för pause i CSS2.
 
 ```csharp
 public string Pause { get; set; }
@@ -16,12 +16,10 @@ public string Pause { get; set; }
 
 ### Returvärde
 
-pausa egendom
+pause egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

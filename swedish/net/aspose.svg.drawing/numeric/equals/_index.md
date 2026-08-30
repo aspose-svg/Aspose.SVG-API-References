@@ -1,14 +1,14 @@
 ---
-title: Numeric.Equals
-second_title: Aspose.SVG för .NET API Referens
-description: Numeric metod. Bestämmer om den angivnaUnit  är lika med denna instans.
+title: "Numeric.Equals"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Numeric Equals-metoden. Avgör om den angivna Unit är lika med den här instansen"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.drawing/numeric/equals/
 ---
 ## Numeric.Equals method
 
-Bestämmer om den angivna[`Unit`](../../unit/) , är lika med denna instans.
+Avgör om den angivna [`Unit`](../../unit/) är lika med den här instansen.
 
 ```csharp
 public override bool Equals(Unit other)
@@ -16,17 +16,15 @@ public override bool Equals(Unit other)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| other | Unit | De[`Unit`](../../unit/) att jämföra med det här exemplet. |
+| other | Unit | Den [`Unit`](../../unit/) som ska jämföras med den här instansen. |
 
 ### Returvärde
 
-`Sann` om det angivna[`Unit`](../../unit/) är lika med denna instans; annat,`falsk` .
+`true` om den angivna [`Unit`](../../unit/) är lika med den här instansen; annars `false`.
 
 ### Se även
 
 * class [Unit](../../unit/)
 * class [Numeric](../)
-* namnutrymme [Aspose.Svg.Drawing](../../numeric/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

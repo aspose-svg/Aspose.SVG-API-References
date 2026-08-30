@@ -1,14 +1,14 @@
 ---
-title: UrlResolver.UrlResolver
-second_title: Aspose.SVG för .NET API Referens
-description: UrlResolver byggare. Default_Constructor
+title: "UrlResolver"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Konstruktorn UrlResolver. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/urlresolver/urlresolver/
 ---
 ## UrlResolver constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public UrlResolver()
@@ -17,7 +17,5 @@ public UrlResolver()
 ### Se även
 
 * class [UrlResolver](../)
-* namnutrymme [Aspose.Svg.Net](../../urlresolver/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

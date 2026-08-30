@@ -1,14 +1,14 @@
 ---
-title: SplinePathBuilder.Tension
-second_title: Aspose.SVG för .NET API Referens
-description: SplinePathBuilder fast egendom. Värdet på spänningarna påverkar hur skarpt kurvan böjs vid de interpolerade kontrollpunkterna. Det måste vara i intervallet från 0 till 1. Eventuella högre eller lägre värden kommer att anpassas till minimi och maximivärdena för detta område i enlighet därmed.
+title: "SplinePathBuilder.Tension"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SplinePathBuilder Tension-egenskap. Värdet på spänningarna påverkar hur skarpt kurvan böjer sig vid de interpolerade kontrollpunkterna. Det måste ligga i intervallet 0 till 1. Alla högre eller lägre värden kommer att justeras till minimum- respektive maximumvärdet för detta intervall."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.imagevectorization/splinepathbuilder/tension/
 ---
 ## SplinePathBuilder.Tension property
 
-Värdet på spänningarna påverkar hur skarpt kurvan böjs vid de (interpolerade) kontrollpunkterna. Det måste vara i intervallet från 0 till 1. Eventuella högre eller lägre värden kommer att anpassas till minimi- och maximivärdena för detta område, i enlighet därmed.
+Värdet på spänningarna påverkar hur skarpt kurvan böjer sig vid de (interpolerade) kontrollpunkterna. Det måste ligga i intervallet 0 till 1. Alla högre eller lägre värden kommer att justeras till respektive minimum- respektive maximumvärde i detta intervall.
 
 ```csharp
 public float Tension { get; set; }
@@ -17,7 +17,5 @@ public float Tension { get; set; }
 ### Se även
 
 * class [SplinePathBuilder](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../splinepathbuilder/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

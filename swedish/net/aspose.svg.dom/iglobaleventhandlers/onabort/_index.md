@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnAbort
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnAborthändelse.
+title: "IGlobalEventHandlers.OnAbort"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnAbort‑händelse. Hämtar eller anger händelsehanterare för OnAbort‑händelsen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/onabort/
 ---
 ## IGlobalEventHandlers.OnAbort event
 
-Hämtar eller ställer in händelsehanterare för OnAbort-händelse.
+Hämtar eller anger händelsehanterare för OnAbort‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnAbort;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnAbort;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

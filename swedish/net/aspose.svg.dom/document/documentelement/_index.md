@@ -1,20 +1,20 @@
 ---
-title: Document.DocumentElement
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Detta är ett bekvämlighetsattribut som tillåter direkt åtkomst till den underordnade noden som är dokumentelementet i dokumentet.
+title: "Document.DocumentElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document DocumentElement‑egenskap. Detta är ett bekvämt attribut som möjliggör direkt åtkomst till barnnoden som är dokumentelementet i dokumentet."
 type: docs
 weight: 100
 url: /sv/net/aspose.svg.dom/document/documentelement/
 ---
 ## Document.DocumentElement property
 
-Detta är ett bekvämlighetsattribut som tillåter direkt åtkomst till den underordnade noden som är dokumentelementet i dokumentet.
+Detta är ett bekvämlighetsattribut som möjliggör direkt åtkomst till barnnoden som är dokumentelementet i dokumentet.
 
 ```csharp
 public Element DocumentElement { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Dokumentelementet.
 
@@ -22,7 +22,5 @@ Dokumentelementet.
 
 * class [Element](../../element/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

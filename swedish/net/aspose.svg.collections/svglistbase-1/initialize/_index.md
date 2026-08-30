@@ -1,14 +1,14 @@
 ---
-title: SVGListBase1.Initialize
-second_title: Aspose.SVG för .NET API Referens
-description: SVGListBase metod. Rensar alla befintliga aktuella objekt från listan och återinitierar listan så att den innehåller det enda objektet som anges av parametern.
+title: "SVGListBase-1.Initialize"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGListBase Initialize-metod. Rensar alla befintliga objekt från listan och initierar om listan för att hålla det enda objektet som anges av parametern."
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.collections/svglistbase-1/initialize/
 ---
-## SVGListBase&lt;T&gt;.Initialize method
+## SVGListBase<T>.Initialize method
 
-Rensar alla befintliga aktuella objekt från listan och återinitierar listan så att den innehåller det enda objektet som anges av parametern.
+Rensar alla befintliga aktuella objekt från listan och initierar om listan för att hålla det enda objektet som anges av parametern.
 
 ```csharp
 public T Initialize(T newItem)
@@ -16,7 +16,7 @@ public T Initialize(T newItem)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| newItem | T | Objektet som ska bli den enda medlemmen på listan. |
+| newItem | T | Objektet som ska bli den enda medlemmen i listan. |
 
 ### Returvärde
 
@@ -24,14 +24,12 @@ Objektet som infogas i listan.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Koda[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Ökas när listan inte kan ändras. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Utlöst när listan inte kan modifieras. |
 
 ### Se även
 
 * class [SVGListBase&lt;T&gt;](../)
-* namnutrymme [Aspose.Svg.Collections](../../svglistbase-1/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

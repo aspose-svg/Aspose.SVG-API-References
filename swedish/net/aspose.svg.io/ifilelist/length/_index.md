@@ -1,14 +1,14 @@
 ---
-title: IFileList.Length
-second_title: Aspose.SVG för .NET API Referens
-description: IFileList fast egendom. Returlängd för lista med filer.
+title: "IFileList.Length"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IFileList Length egenskap. Returnerar längden för listan av filer"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.io/ifilelist/length/
 ---
 ## IFileList.Length property
 
-Returlängd för lista med filer.
+Returnera längden för fillistan.
 
 ```csharp
 public long Length { get; }
@@ -17,7 +17,5 @@ public long Length { get; }
 ### Se även
 
 * interface [IFileList](../)
-* namnutrymme [Aspose.Svg.IO](../../ifilelist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

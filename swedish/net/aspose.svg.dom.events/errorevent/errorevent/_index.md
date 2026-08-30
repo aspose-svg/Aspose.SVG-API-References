@@ -1,14 +1,14 @@
 ---
-title: ErrorEvent.ErrorEvent
-second_title: Aspose.SVG för .NET API Referens
-description: ErrorEvent byggare. Initierar en ny instans avErrorEvent class.
+title: "ErrorEvent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ErrorEvent‑konstruktor. Initierar en ny instans av klassen ErrorEvent."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.events/errorevent/errorevent/
 ---
-## ErrorEvent(Exception) {#constructor_1}
+## ErrorEvent(*Exception*) {#constructor_1}
 
-Initierar en ny instans av[`ErrorEvent`](../) class.
+Initierar en ny instans av klassen [`ErrorEvent`](../).
 
 ```csharp
 public ErrorEvent(Exception exception)
@@ -16,19 +16,19 @@ public ErrorEvent(Exception exception)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| exception | Exception | Undantaget. |
+| undantag | Undantag | Undantaget. |
 
 ### Se även
 
 * class [ErrorEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../errorevent/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
+## ErrorEvent(*IDictionary&lt;string, object&gt;*) {#constructor}
 
-Initierar en ny instans av[`ErrorEvent`](../) class.
+Initierar en ny instans av klassen [`ErrorEvent`](../).
 
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)
@@ -41,7 +41,5 @@ public ErrorEvent(IDictionary<string, object> eventInitDict)
 ### Se även
 
 * class [ErrorEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../errorevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

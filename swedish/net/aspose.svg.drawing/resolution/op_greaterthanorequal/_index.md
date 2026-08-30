@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_GreaterThanOrEqual
-second_title: Aspose.SVG för .NET API Referens
-description: Resolution metod. Implementerar operatorn .
+title: "Resolution.op_GreaterThanOrEqual"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Resolution op_GreaterThanOrEqual-metod. Implementerar operatorn"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.drawing/resolution/op_greaterthanorequal/
@@ -25,15 +25,13 @@ Resultatet av operatorn.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | Argument har olika typer |
+| ArgumentException | Argumenten har olika typer |
 | ArgumentNullException | Ett argument är null |
 
 ### Se även
 
 * class [Resolution](../)
-* namnutrymme [Aspose.Svg.Drawing](../../resolution/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

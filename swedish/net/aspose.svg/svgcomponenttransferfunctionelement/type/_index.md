@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Type
-second_title: Aspose.SVG för .NET API Referens
-description: SVGComponentTransferFunctionElement fast egendom. Motsvarar attributet type på det givna elementet. Tar en av SVG_FECOMPONENTTRANSFER_TYPE_ konstanterna som definierats i detta gränssnitt.
+title: "SVGComponentTransferFunctionElement.Type"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGComponentTransferFunctionElement Type-egenskap. Motsvarar attributet type på det givna elementet. Accepterar en av SVG_FECOMPONENTTRANSFER_TYPE_-konstanterna som definieras på detta gränssnitt"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg/svgcomponenttransferfunctionelement/type/
 ---
 ## SVGComponentTransferFunctionElement.Type property
 
-Motsvarar attributet 'type' på det givna elementet. Tar en av SVG_FECOMPONENTTRANSFER_TYPE_* konstanterna som definierats i detta gränssnitt.
+Motsvarar attributet ‘type’ på det givna elementet. Accepterar en av SVG_FECOMPONENTTRANSFER_TYPE_*-konstanterna som definieras i detta gränssnitt.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'type' för det givna elementet.
+Attributet ‘type’ för det givna elementet.
 
 ### Se även
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGComponentTransferFunctionElement](../)
-* namnutrymme [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

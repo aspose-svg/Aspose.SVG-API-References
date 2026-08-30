@@ -1,14 +1,14 @@
 ---
-title: Class SVGNumber
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.DataTypes.SVGNumber klass. Används för attribut av grundläggande typnummer.
+title: "SVGNumber klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.DataTypes.SVGNumber klass. Används för attribut av grundtypen number."
 type: docs
-weight: 250
+weight: 2240
 url: /sv/net/aspose.svg.datatypes/svgnumber/
 ---
 ## SVGNumber class
 
-Används för attribut av grundläggande typnummer.
+Används för attribut av den grundläggande typen nummer.
 
 ```csharp
 public class SVGNumber : SVGValueType
@@ -16,22 +16,20 @@ public class SVGNumber : SVGValueType
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Value](../../aspose.svg.datatypes/svgnumber/value/) { get; set; } | Värdet för det givna attributet. |
+| [Value](../../aspose.svg.datatypes/svgnumber/value/) { get; set; } | Värdet på det angivna attributet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
-| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring/)() | Returnerar enString som representerar denna instans. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
+| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring/)() | Returnerar en sträng som representerar den här instansen. |
 
 ### Se även
 
 * class [SVGValueType](../svgvaluetype/)
-* namnutrymme [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

@@ -1,20 +1,20 @@
 ---
-title: MutationRecord.AddedNodes
-second_title: Aspose.SVG för .NET API Referens
-description: MutationRecord fast egendom. Returnera noderna som lagts till.
+title: "MutationRecord.AddedNodes"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationRecord AddedNodes egenskap. Returnerar de tillagda noderna."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.mutations/mutationrecord/addednodes/
 ---
 ## MutationRecord.AddedNodes property
 
-Returnera noderna som lagts till.
+Returnera de tillagda noderna.
 
 ```csharp
 public NodeList AddedNodes { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De tillagda noderna.
 
@@ -22,7 +22,5 @@ De tillagda noderna.
 
 * class [NodeList](../../../aspose.svg.collections/nodelist/)
 * class [MutationRecord](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

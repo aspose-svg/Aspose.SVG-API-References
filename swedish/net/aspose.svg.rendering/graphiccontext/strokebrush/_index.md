@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.StrokeBrush
-second_title: Aspose.SVG för .NET API Referens
-description: GraphicContext fast egendom. Ställer in eller hämtar penselobjektet som används för streckade banor.
+title: "GraphicContext.StrokeBrush"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GraphicContext StrokeBrush-egenskap. Ställer in eller hämtar penselobjektet som används för strokade banor"
 type: docs
 weight: 140
 url: /sv/net/aspose.svg.rendering/graphiccontext/strokebrush/
 ---
 ## GraphicContext.StrokeBrush property
 
-Ställer in eller hämtar penselobjektet som används för streckade banor.
+Ställer in eller hämtar penselobjektet som används för strokade banor.
 
 ```csharp
 public virtual IBrush StrokeBrush { get; set; }
@@ -18,7 +18,5 @@ public virtual IBrush StrokeBrush { get; set; }
 
 * interface [IBrush](../../../aspose.svg.drawing/ibrush/)
 * class [GraphicContext](../)
-* namnutrymme [Aspose.Svg.Rendering](../../graphiccontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

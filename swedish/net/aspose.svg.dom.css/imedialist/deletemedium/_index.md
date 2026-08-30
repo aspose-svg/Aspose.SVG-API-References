@@ -1,14 +1,14 @@
 ---
-title: IMediaList.DeleteMedium
-second_title: Aspose.SVG för .NET API Referens
-description: IMediaList metod. Tar bort mediet som indikeras av oldMedium från listan.
+title: "IMediaList.DeleteMedium"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IMediaList DeleteMedium metod. Tar bort mediet som anges av oldMedium från listan"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.dom.css/imedialist/deletemedium/
 ---
 ## IMediaList.DeleteMedium method
 
-Tar bort mediet som indikeras av oldMedium från listan.
+Tar bort mediet som anges av oldMedium från listan.
 
 ```csharp
 public void DeleteMedium(string oldMedium)
@@ -21,7 +21,5 @@ public void DeleteMedium(string oldMedium)
 ### Se även
 
 * interface [IMediaList](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../imedialist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

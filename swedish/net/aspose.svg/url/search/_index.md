@@ -1,27 +1,25 @@
 ---
-title: Url.Search
-second_title: Aspose.SVG för .NET API Referens
-description: Url fast egendom. Hämtar eller ställer in en strängrepresentation för det angivna webbadressens söksegment.
+title: "Url.Search"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Url Search-egenskap. Hämtar eller anger en strängrepresentation för det angivna URL-söksegmentet"
 type: docs
 weight: 110
 url: /sv/net/aspose.svg/url/search/
 ---
 ## Url.Search property
 
-Hämtar eller ställer in en strängrepresentation för det angivna webbadressens söksegment.
+Hämtar eller anger en strängrepresentation för det angivna URL-söksegmentet.
 
 ```csharp
 public string Search { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Sökningen.
 
 ### Se även
 
 * class [Url](../)
-* namnutrymme [Aspose.Svg](../../url/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

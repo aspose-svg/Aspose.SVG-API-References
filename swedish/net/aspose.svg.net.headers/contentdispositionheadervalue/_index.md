@@ -1,14 +1,14 @@
 ---
-title: Class ContentDispositionHeaderValue
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.Headers.ContentDispositionHeaderValue klass. Representerar ContentDisposition headervärde.
+title: "ContentDispositionHeaderValue-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.Headers.ContentDispositionHeaderValue-klass. Representerar ett Content-Disposition-headervärde"
 type: docs
-weight: 2260
+weight: 4330
 url: /sv/net/aspose.svg.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class
 
-Representerar Content-Disposition header-värde.
+Representerar Content‑Disposition‑rubrikvärde.
 
 ```csharp
 public class ContentDispositionHeaderValue
@@ -16,29 +16,27 @@ public class ContentDispositionHeaderValue
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(string) | Skapa en ny instans av denna dispositionstyp. |
+| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(*string*) | Skapa en ny instans av denna dispositionstyp. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | Hämta eller ställ in dispositionstyp |
+| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | Hämta eller ange dispositionstyp |
 | [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename/) { get; set; } | Namnet på den lagrade filen. |
-| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | Namnet på en innehållskroppsdel. |
-| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | Hämta samling av parametrar |
+| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name/) { get; set; } | Namnet för en innehållsdel. |
+| [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters/) { get; } | Hämta samling av parametrar. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(object) | Bestämmer om den angivnaObject är lika med denna instans. |
-| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals/)(*object*) | Bestämmer om det angivna Object är lika med den här instansen. |
+| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring/)() | Returnerar en sträng som representerar den här instansen. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

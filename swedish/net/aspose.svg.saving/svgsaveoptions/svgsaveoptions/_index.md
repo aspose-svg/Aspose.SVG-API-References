@@ -1,14 +1,14 @@
 ---
-title: SVGSaveOptions.SVGSaveOptions
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSaveOptions byggare. Default_Constructor
+title: "SVGSaveOptions"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSaveOptions konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.saving/svgsaveoptions/svgsaveoptions/
 ---
 ## SVGSaveOptions constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public SVGSaveOptions()
@@ -17,7 +17,5 @@ public SVGSaveOptions()
 ### Se även
 
 * class [SVGSaveOptions](../)
-* namnutrymme [Aspose.Svg.Saving](../../svgsaveoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

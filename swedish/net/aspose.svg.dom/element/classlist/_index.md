@@ -1,14 +1,14 @@
 ---
-title: Element.ClassList
-second_title: Aspose.SVG för .NET API Referens
-description: Element fast egendom. Returnerar en levande DOMTokenList som innehåller tokens som tagits emot från att analysera classattributet.
+title: "Element.ClassList"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element ClassList-egenskap. Returnerar en levande DOMTokenList som innehåller token som erhållits från tolkning av klassattributet."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.dom/element/classlist/
 ---
 ## Element.ClassList property
 
-Returnerar en levande DOMTokenList som innehåller tokens som tagits emot från att analysera "class"-attributet.
+Returnerar en levande DOMTokenList som innehåller token erhållna från parsning av "class"-attributet.
 
 ```csharp
 public DOMTokenList ClassList { get; }
@@ -18,7 +18,5 @@ public DOMTokenList ClassList { get; }
 
 * class [DOMTokenList](../../../aspose.svg.collections/domtokenlist/)
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

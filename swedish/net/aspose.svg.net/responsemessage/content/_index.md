@@ -1,20 +1,20 @@
 ---
-title: ResponseMessage.Content
-second_title: Aspose.SVG för .NET API Referens
-description: ResponseMessage fast egendom. Hämtar eller ställer in svarsinnehållet.
+title: "ResponseMessage.Content"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ResponseMessage Content‑egenskap. Hämtar eller anger svarsinnehållet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.net/responsemessage/content/
 ---
 ## ResponseMessage.Content property
 
-Hämtar eller ställer in svarsinnehållet.
+Hämtar eller anger svarsinnehållet.
 
 ```csharp
 public Content Content { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Kroppen.
 
@@ -22,7 +22,5 @@ Kroppen.
 
 * class [Content](../../content/)
 * class [ResponseMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../responsemessage/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

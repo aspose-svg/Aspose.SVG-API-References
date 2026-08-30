@@ -1,14 +1,14 @@
 ---
-title: DOMException.TIMEOUT_ERR
-second_title: Aspose.SVG för .NET API Referens
-description: DOMException fält. Operationen tog timeout.
+title: "DOMException.TIMEOUT_ERR"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMException TIMEOUT_ERR-fält. Operationen tidsgränsen löpte ut"
 type: docs
 weight: 260
 url: /sv/net/aspose.svg.dom/domexception/timeout_err/
 ---
 ## DOMException.TIMEOUT_ERR field
 
-Operationen tog timeout.
+Operationen har gått ut i tid.
 
 ```csharp
 public const ushort TIMEOUT_ERR;
@@ -17,7 +17,5 @@ public const ushort TIMEOUT_ERR;
 ### Se även
 
 * class [DOMException](../)
-* namnutrymme [Aspose.Svg.Dom](../../domexception/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

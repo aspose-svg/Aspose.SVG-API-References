@@ -1,14 +1,14 @@
 ---
-title: Class XpsSaveOptions
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Saving.XpsSaveOptions klass. Dataklass för specifika alternativ.
+title: "XpsSaveOptions Klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Saving.XpsSaveOptions class. Specifik alternativdataklass"
 type: docs
-weight: 3700
+weight: 5830
 url: /sv/net/aspose.svg.saving/xpssaveoptions/
 ---
 ## XpsSaveOptions class
 
-Dataklass för specifika alternativ.
+Specifik alternativdataklass.
 
 ```csharp
 public class XpsSaveOptions : XpsRenderingOptions
@@ -16,24 +16,22 @@ public class XpsSaveOptions : XpsRenderingOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [XpsSaveOptions](xpssaveoptions/)() | Default_Constructor |
+| [XpsSaveOptions](xpssaveoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Hämtar eller sätterColor som kommer att fylla bakgrunden på varje sida. Standardvärdet ärTransparent . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Får en[`CssOptions`](../../aspose.svg.rendering/cssoptions/) objekt som används för konfiguration av css-egenskapsbearbetning. |
-| virtual [HorizontalResolution](../../aspose.svg.rendering/renderingoptions/horizontalresolution/) { get; set; } | Ställer in eller får horisontell upplösning för interna (som används under filterbearbetning) bilder, i pixlar per tum. Som standard är den här egenskapen 300 dpi. |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Hämtar ett sidinställningar objekt används för konfigurationsutdata siduppsättning. |
-| virtual [VerticalResolution](../../aspose.svg.rendering/renderingoptions/verticalresolution/) { get; set; } | Ställer in eller får vertikal upplösning för interna (som används under filterbearbetning) bilder, i pixlar per tum. Som standard är den här egenskapen 300 dpi. |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Hämtar eller anger färg som kommer att fylla bakgrunden på varje sida. Standardvärdet är Transparent. |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Hämtar ett [`CssOptions`](../../aspose.svg.rendering/cssoptions/)‑objekt som används för konfiguration av bearbetning av CSS‑egenskaper. |
+| virtual [HorizontalResolution](../../aspose.svg.rendering/renderingoptions/horizontalresolution/) { get; set; } | Anger eller hämtar horisontell upplösning för interna (som används under filterbearbetning) bilder, i pixlar per tum. Som standard är denna egenskap 300 dpi. |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Hämtar ett sidinställningsobjekt som används för konfiguration av utdata siduppsättning. |
+| virtual [VerticalResolution](../../aspose.svg.rendering/renderingoptions/verticalresolution/) { get; set; } | Anger eller hämtar vertikal upplösning för interna (som används under filterbearbetning) bilder, i pixlar per tum. Som standard är denna egenskap 300 dpi. |
 
 ### Se även
 
 * class [XpsRenderingOptions](../../aspose.svg.rendering.xps/xpsrenderingoptions/)
-* namnutrymme [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

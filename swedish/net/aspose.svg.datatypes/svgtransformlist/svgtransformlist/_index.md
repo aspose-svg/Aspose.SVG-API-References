@@ -1,14 +1,14 @@
 ---
-title: SVGTransformList.SVGTransformList
-second_title: Aspose.SVG för .NET API Referens
-description: SVGTransformList byggare. Initierar en ny instans avSVGTransformList class.
+title: "SVGTransformList"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGTransformList constructor. Initierar en ny instans av klassen SVGTransformList"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.datatypes/svgtransformlist/svgtransformlist/
 ---
 ## SVGTransformList() {#constructor}
 
-Initierar en ny instans av[`SVGTransformList`](../) class.
+Initierar en ny instans av klassen [`SVGTransformList`](../).
 
 ```csharp
 public SVGTransformList()
@@ -17,14 +17,14 @@ public SVGTransformList()
 ### Se även
 
 * class [SVGTransformList](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGTransformList(IEnumerable&lt;SVGTransform&gt;) {#constructor_1}
+## SVGTransformList(*IEnumerable&lt;SVGTransform&gt;*) {#constructor_1}
 
-Initierar en ny instans av[`SVGTransformList`](../) class.
+Initierar en ny instans av klassen [`SVGTransformList`](../).
 
 ```csharp
 public SVGTransformList(IEnumerable<SVGTransform> enumerable)
@@ -32,13 +32,11 @@ public SVGTransformList(IEnumerable<SVGTransform> enumerable)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | Det uppräknade. |
+| enumererbar | IEnumerable`1 | Den enumererbara. |
 
 ### Se även
 
 * class [SVGTransform](../../svgtransform/)
 * class [SVGTransformList](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgtransformlist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

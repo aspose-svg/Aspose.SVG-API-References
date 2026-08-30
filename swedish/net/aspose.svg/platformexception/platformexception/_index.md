@@ -1,14 +1,14 @@
 ---
-title: PlatformException.PlatformException
-second_title: Aspose.SVG för .NET API Referens
-description: PlatformException byggare. Initierar en ny instans avPlatformException class.
+title: "PlatformException"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PlatformException-konstruktor. Initierar en ny instans av klassen PlatformException"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/platformexception/platformexception/
 ---
 ## PlatformException() {#constructor}
 
-Initierar en ny instans av[`PlatformException`](../) class.
+Initierar en ny instans av klassen [`PlatformException`](../).
 
 ```csharp
 public PlatformException()
@@ -17,14 +17,14 @@ public PlatformException()
 ### Se även
 
 * class [PlatformException](../)
-* namnutrymme [Aspose.Svg](../../platformexception/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PlatformException(string) {#constructor_1}
+## PlatformException(*string*) {#constructor_1}
 
-Initierar en ny instans av[`PlatformException`](../) klass med ett specificerat felmeddelande.
+Initierar en ny instans av klassen [`PlatformException`](../) med ett specificerat felmeddelande.
 
 ```csharp
 public PlatformException(string message)
@@ -37,14 +37,14 @@ public PlatformException(string message)
 ### Se även
 
 * class [PlatformException](../)
-* namnutrymme [Aspose.Svg](../../platformexception/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PlatformException(string, Exception) {#constructor_2}
+## PlatformException(*string, Exception*) {#constructor_2}
 
-Initierar en ny instans av[`PlatformException`](../) klass med ett specificerat felmeddelande och en referens till det inre undantaget som är orsaken till detta undantag.
+Initierar en ny instans av klassen [`PlatformException`](../) med ett specificerat felmeddelande och en referens till den inre undantaget som är orsaken till detta undantag.
 
 ```csharp
 public PlatformException(string message, Exception innerException)
@@ -53,12 +53,10 @@ public PlatformException(string message, Exception innerException)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | message | String | Felmeddelandet som förklarar orsaken till undantaget. |
-| innerException | Exception | Undantaget som är orsaken till det aktuella undantaget, eller en nollreferens om inget inre undantag anges. |
+| innerException | Undantag | Undantaget som är orsaken till det aktuella undantaget, eller en null-referens om inget inre undantag har specificerats. |
 
 ### Se även
 
 * class [PlatformException](../)
-* namnutrymme [Aspose.Svg](../../platformexception/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

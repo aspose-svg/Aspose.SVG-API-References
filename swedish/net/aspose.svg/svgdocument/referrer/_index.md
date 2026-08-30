@@ -1,27 +1,25 @@
 ---
-title: SVGDocument.Referrer
-second_title: Aspose.SVG för .NET API Referens
-description: SVGDocument fast egendom. Returnerar URI för sidan som länkade till denna sida. Värdet är en tom sträng om användaren navigerade till sidan direkt inte via en länk utan t.ex. via ett bokmärke.
+title: "SVGDocument.Referrer"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGDocument Referrer‑egenskap. Returnerar URI:n för sidan som länkat till den här sidan. Värdet är en tom sträng om användaren navigerade till sidan direkt, inte via en länk, utan till exempel via ett bokmärke"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svgdocument/referrer/
 ---
 ## SVGDocument.Referrer property
 
-Returnerar URI för sidan som länkade till denna sida. Värdet är en tom sträng om användaren navigerade till sidan direkt (inte via en länk, utan t.ex. via ett bokmärke).
+Returnerar URI:n för sidan som länkade till denna sida. Värdet är en tom sträng om användaren navigerade direkt till sidan (inte via en länk, utan exempelvis via ett bokmärke).
 
 ```csharp
 public string Referrer { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Hänvisaren.
+Refereraren.
 
 ### Se även
 
 * class [SVGDocument](../)
-* namnutrymme [Aspose.Svg](../../svgdocument/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

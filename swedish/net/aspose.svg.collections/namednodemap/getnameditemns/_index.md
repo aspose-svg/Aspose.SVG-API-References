@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.GetNamedItemNS
-second_title: Aspose.SVG för .NET API Referens
-description: NamedNodeMap metod. Hämtar en nod specificerad av lokalt namn och namnområdesURI.
+title: "NamedNodeMap.GetNamedItemNS"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "NamedNodeMap GetNamedItemNS-metoden. Hämtar en nod som specificeras av lokalt namn och namnrymds-URI."
 type: docs
-weight: 50
+weight: 40
 url: /sv/net/aspose.svg.collections/namednodemap/getnameditemns/
 ---
 ## NamedNodeMap.GetNamedItemNS method
 
-Hämtar en nod specificerad av lokalt namn och namnområdes-URI.
+Hämtar en nod som specificeras av lokalt namn och namnrymds‑URI.
 
 ```csharp
 public Attr GetNamedItemNS(string namespaceURI, string localName)
@@ -16,8 +16,8 @@ public Attr GetNamedItemNS(string namespaceURI, string localName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceURI | String | Namnutrymmets URI. |
-| localName | String | Lokalens namn. |
+| namespaceURI | String | Namnrymd‑URI:n. |
+| localName | String | Namnet på den lokala. |
 
 ### Returvärde
 
@@ -27,7 +27,5 @@ Returnerar nod.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* namnutrymme [Aspose.Svg.Collections](../../namednodemap/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

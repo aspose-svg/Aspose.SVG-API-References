@@ -1,7 +1,7 @@
 ---
-title: Color.GetHashCode
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Returnerar en hashkod.
+title: "Color.GetHashCode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color GetHashCode-metoden. Returnerar en hashkod."
 type: docs
 weight: 320
 url: /sv/net/aspose.svg.drawing/color/gethashcode/
@@ -21,7 +21,5 @@ En hashkod.
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

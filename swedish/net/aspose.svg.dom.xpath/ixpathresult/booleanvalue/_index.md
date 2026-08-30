@@ -1,7 +1,7 @@
 ---
-title: IXPathResult.BooleanValue
-second_title: Aspose.SVG för .NET API Referens
-description: IXPathResult fast egendom. Värdet för detta booleska resultat.
+title: "IXPathResult.BooleanValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IXPathResult BooleanValue-egenskap. Värdet av detta booleska resultat"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.xpath/ixpathresult/booleanvalue/
@@ -16,14 +16,12 @@ public bool BooleanValue { get; }
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: höjt om`resultatTyp` är inte `Boolean` typ. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: kastas om `resultType` inte är av typen `Boolean`. |
 
 ### Se även
 
 * interface [IXPathResult](../)
-* namnutrymme [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

@@ -1,35 +1,33 @@
 ---
-title: Aspose.Svg.ImageVectorization
-second_title: Aspose.SVG för .NET API Referens
-description: Den Aspose.Svg.ImageVectorizationnamnutrymmet innehåller klasser för vektorisering av rasterbilder och omvandling av dem till SVGdokument. Denna process innebär att bitmappar reduceras till geometriska former som består av banelement och lagras som SVG. Namnutrymmet innehåller klasser för att bygga vägsegment förenkla och jämna ut spårpunkter och konfigurera vektoriseringsalternativ.
+title: "Aspose.Svg.ImageVectorization"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Den Aspose.Svg.ImageVectorization namnutrymmet innehåller klasser för att vektorisera rasterbilder och konvertera dem till SVG-dokument. Denna process innebär att reducera bitmappar till geometriska former bestående av banelement och lagra dem som SVG. Namnutrymmet inkluderar klasser för att bygga bansegment, förenkla och jämna ut spårpunkter samt konfigurera vektoriseringsalternativ."
 type: docs
-weight: 170
+weight: 190
 url: /sv/net/aspose.svg.imagevectorization/
 ---
-Den **Aspose.Svg.ImageVectorization**namnutrymmet innehåller klasser för vektorisering av rasterbilder och omvandling av dem till SVG-dokument. Denna process innebär att bitmappar reduceras till geometriska former som består av banelement och lagras som SVG. Namnutrymmet innehåller klasser för att bygga vägsegment, förenkla och jämna ut spårpunkter, och konfigurera vektoriseringsalternativ.
+Den **Aspose.Svg.ImageVectorization**-namnrymden innehåller klasser för att vektorisera rasterbilder och konvertera dem till SVG-dokument. Denna process innebär att reducera bitmappar till geometriska former bestående av path‑element och lagra dem som SVG. Namnrymden inkluderar klasser för att bygga path‑segment, förenkla och jämna ut spårpunkter samt konfigurera vektoriseringalternativ.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [BezierPathBuilder](./bezierpathbuilder/) | Den[`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) klass ansvarar för att bygga vägsegment[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) från listan över spårpunkter. Denna vägbyggare är baserad på att använda minsta kvadratmetoden för att hitta Bezier-kontrollpunkter för spårning av punkter. |
-| [ImageTraceSimplifier](./imagetracesimplifier/) | Klassen ImageTraceSimplifier är ansvarig för att minska antalet punkter i en kurva som approximeras av en serie av spårpunkterna. |
-| [ImageTraceSmoother](./imagetracesmoother/) | Klassen ImageTraceSimplifier är ansvarig för att jämna ut antalet punkter i en kurva som approximeras av en serie av spårningspunkterna. Denna klass implementerar närmaste granne. |
-| [ImageVectorizer](./imagevectorizer/) | Denna ImageVectorizer-klass vektoriserar rasterbilder som PNG, JPG, GIF, BMP och etc... och returnerar SVGDocument. Under vektorisering menar vi processen att reducera bitmappar till geometriska former som består av banelement och lagras som SVG. |
-| [ImageVectorizerConfiguration](./imagevectorizerconfiguration/) | Den[`ImageVectorizerConfiguration`](../aspose.svg.imagevectorization/imagevectorizerconfiguration/) klass definierar en konfiguration av bildvektoriseringsmetoder och -alternativ. Konfigurationen används för att initiera en ImageVectorizer och tillhandahåller konfigurationsalternativ för vektoriseringsbilder. |
-| [SplinePathBuilder](./splinepathbuilder/) | Den[`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) klass ansvarar för att bygga vägsegment[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) från listan över spårpunkter. Denna banbyggare är baserad på att applicera en Catmull-Roma spline på en uppsättning utjämnade och reducerade banpunkter.. |
-| [StencilConfiguration](./stencilconfiguration/) | Den[`StencilConfiguration`](../aspose.svg.imagevectorization/stencilconfiguration/) klass definierar en konfiguration av stencileffektalternativ. |
+| [BezierPathBuilder](./bezierpathbuilder/) | Klassen [`BezierPathBuilder`](../aspose.svg.imagevectorization/bezierpathbuilder/) ansvarar för att konstruera en Bézier-bana från en given mängd punkter. Den approximerar ett spår av punkter med en Bézier-kurva, optimerar antalet segment för att nära matcha det ursprungliga spåret samtidigt som den minimerar komplexiteten. |
+| [ImageTraceSimplifier](./imagetracesimplifier/) | Klassen ImageTraceSimplifier ansvarar för att minska antalet punkter i en kurva som approximeras av en serie spårpunkter. |
+| [ImageTraceSmoother](./imagetracesmoother/) | Klassen ImageTraceSimplifier ansvarar för att jämna ut antalet punkter i en kurva som approximeras av en serie spårpunkter. Denna klass implementerar närmaste-granne-metoden. |
+| [ImageVectorizer](./imagevectorizer/) | Denna ImageVectorizer-klass vektoriserar rasterbilder som PNG, JPG, GIF, BMP med mera... och returnerar ett SVGDocument. Med vektorisering menas processen att reducera bitmappar till geometriska former bestående av banelement och lagrade som SVG. |
+| [ImageVectorizerConfiguration](./imagevectorizerconfiguration/) | Klassen [`ImageVectorizerConfiguration`](../aspose.svg.imagevectorization/imagevectorizerconfiguration/) definierar en konfiguration av metoder och alternativ för bildvektorisering. Konfigurationen används för att initiera en ImageVectorizer och tillhandahåller konfigurationsalternativ för att vektorisera bilder. |
+| [SplinePathBuilder](./splinepathbuilder/) | Klassen [`SplinePathBuilder`](../aspose.svg.imagevectorization/splinepathbuilder/) är utformad för att konstruera en jämn bana genom att omvandla centripetala Catmull–Rom-splines till Bézier-kurvor. Den erbjuder en metod för att generera en bana som jämnt interpolerar genom en uppsättning punkter, vilket ger en balans mellan noggrannhet mot punkterna och kurvans släthet. |
+| [StencilConfiguration](./stencilconfiguration/) | Klassen [`StencilConfiguration`](../aspose.svg.imagevectorization/stencilconfiguration/) definierar en konfiguration av stencil-effektalternativ. |
 ## Gränssnitt
 
 | Gränssnitt | Beskrivning |
 | --- | --- |
-| [IImageTraceSimplifier](./iimagetracesimplifier/) | IImageTraceSimplifier-gränssnittet ansvarar för minskning av punkter i spåret. |
-| [IImageTraceSmoother](./iimagetracesmoother/) | IImageTraceSmoothers gränssnitt ansvarar för att utjämna spårningen. |
-| [IPathBuilder](./ipathbuilder/) | IPathBuilder-gränssnittet är ansvarigt för att bygga sökvägssegment[`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) från listan över spårpunkter. |
+| [IImageTraceSimplifier](./iimagetracesimplifier/) | Gränssnittet IImageTraceSimplifier ansvarar för att reducera antalet punkter i spåret. |
+| [IImageTraceSmoother](./iimagetracesmoother/) | Gränssnittet IImageTraceSmoother ansvarar för att jämna ut spåret. |
+| [IPathBuilder](./ipathbuilder/) | Gränssnittet IPathBuilder ansvarar för att bygga bansegment [`SVGPathSeg`](../aspose.svg.paths/svgpathseg/) från en lista med spårpunkter. |
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [StencilType](./stenciltype/) | Den[`StencilType`](../aspose.svg.imagevectorization/stenciltype/) enum definierar stenciltyper. |
-
-
+| [StencilType](./stenciltype/) | Enumen [`StencilType`](../aspose.svg.imagevectorization/stenciltype/) definierar stenciltyper. |

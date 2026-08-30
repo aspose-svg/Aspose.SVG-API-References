@@ -1,14 +1,14 @@
 ---
-title: Document.FirstElementChild
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Returnerar den första underordnade elementnoden för detta element. null om detta element inte har några underordnade element.
+title: "Document.FirstElementChild"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document FirstElementChild‑egenskap. Returnerar det första barn-elementet för detta element. null om detta element inte har några barn."
 type: docs
 weight: 120
 url: /sv/net/aspose.svg.dom/document/firstelementchild/
 ---
 ## Document.FirstElementChild property
 
-Returnerar den första underordnade elementnoden för detta element. null om detta element inte har några underordnade element.
+Returnerar den första barn‑elementnoden för detta element. Null om detta element inte har några barn‑element.
 
 ```csharp
 public Element FirstElementChild { get; }
@@ -18,7 +18,5 @@ public Element FirstElementChild { get; }
 
 * class [Element](../../element/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

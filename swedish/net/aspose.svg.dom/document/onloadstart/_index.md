@@ -1,14 +1,14 @@
 ---
-title: Document.OnLoadStart
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnLoadStarthändelse.
+title: "Document.OnLoadStart"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnLoadStart‑händelse. Hämtar eller anger händelsehanterare för OnLoadStart‑händelsen."
 type: docs
 weight: 500
 url: /sv/net/aspose.svg.dom/document/onloadstart/
 ---
 ## Document.OnLoadStart event
 
-Hämtar eller ställer in händelsehanterare för OnLoadStart-händelse.
+Hämtar eller anger händelsehanterare för OnLoadStart-händelse.
 
 ```csharp
 public event DOMEventHandler OnLoadStart;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnLoadStart;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

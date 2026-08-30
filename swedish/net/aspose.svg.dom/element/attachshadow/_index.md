@@ -1,14 +1,14 @@
 ---
-title: Element.AttachShadow
-second_title: Aspose.SVG för .NET API Referens
-description: Element metod. Skapar skuggrot och fäster den till aktuellt element.
+title: "Element.AttachShadow"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element AttachShadow metod. Skapar en shadow root och fäster den till det aktuella elementet"
 type: docs
-weight: 230
+weight: 220
 url: /sv/net/aspose.svg.dom/element/attachshadow/
 ---
 ## Element.AttachShadow method
 
-Skapar skuggrot och fäster den till aktuellt element.
+Skapar ett shadow root och fäster det på det aktuella elementet.
 
 ```csharp
 public ShadowRoot AttachShadow(ShadowRootMode mode)
@@ -16,25 +16,23 @@ public ShadowRoot AttachShadow(ShadowRootMode mode)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| mode | ShadowRootMode | Läge där skuggroten kommer att skapas. |
+| mode | ShadowRootMode | Läge i vilket shadow root kommer att skapas. |
 
 ### Returvärde
 
-Skapad[`ShadowRoot`](../../shadowroot/).
+Skapad [`ShadowRoot`](../../shadowroot/).
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| Error | NotSupportedError: Elementet stöder inte skuggträd. |
-| Error | InvalidStateError: Elementet har redan ett skuggträd. |
+| Fel | NotSupportedError: Element stöder inte shadow tree. |
+| Fel | InvalidStateError: Element har redan en shadow tree. |
 
 ### Se även
 
 * class [ShadowRoot](../../shadowroot/)
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

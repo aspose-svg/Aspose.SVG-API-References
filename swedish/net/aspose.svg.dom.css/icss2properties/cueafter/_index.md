@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.CueAfter
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se cueafteregenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.CueAfter"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties CueAfter-egenskap. Se definitionen av cue-after-egenskapen i CSS2"
 type: docs
 weight: 390
 url: /sv/net/aspose.svg.dom.css/icss2properties/cueafter/
 ---
 ## ICSS2Properties.CueAfter property
 
-Se cue-after-egenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen cue-after i CSS2.
 
 ```csharp
 public string CueAfter { get; set; }
@@ -16,12 +16,10 @@ public string CueAfter { get; set; }
 
 ### Returvärde
 
-kö-efter egendom
+cue-after-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Node.HasChildNodes
-second_title: Aspose.SVG för .NET API Referens
-description: Node metod. Returnerar om denna nod har några barn.
+title: "Node.HasChildNodes"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node HasChildNodes-metod. Returnerar ett booleskt värde som indikerar om den angivna noden har barnnoder eller inte"
 type: docs
-weight: 210
+weight: 190
 url: /sv/net/aspose.svg.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes method
 
-Returnerar om denna nod har några barn.
+Returnerar ett booleskt värde som indikerar om den angivna [`Node`](../) har barnnoder eller inte.
 
 ```csharp
 public bool HasChildNodes()
@@ -16,12 +16,10 @@ public bool HasChildNodes()
 
 ### Returvärde
 
-`Sann` om har barnnoder annars,`falsk` .
+Ett booleskt värde som är true om noden har barnnoder, och false annars.
 
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

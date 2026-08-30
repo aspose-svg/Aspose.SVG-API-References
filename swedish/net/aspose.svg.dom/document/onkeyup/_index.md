@@ -1,14 +1,14 @@
 ---
-title: Document.OnKeyUp
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnKeyUphändelse.
+title: "Document.OnKeyUp"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnKeyUp‑händelse. Hämtar eller anger händelsehanterare för OnKeyUp‑händelsen."
 type: docs
 weight: 460
 url: /sv/net/aspose.svg.dom/document/onkeyup/
 ---
 ## Document.OnKeyUp event
 
-Hämtar eller ställer in händelsehanterare för OnKeyUp-händelse.
+Hämtar eller anger händelsehanterare för OnKeyUp-händelse.
 
 ```csharp
 public event DOMEventHandler OnKeyUp;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnKeyUp;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

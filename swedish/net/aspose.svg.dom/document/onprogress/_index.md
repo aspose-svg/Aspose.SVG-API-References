@@ -1,14 +1,14 @@
 ---
-title: Document.OnProgress
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnProgresshändelse.
+title: "Document.OnProgress"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnProgress‑händelse. Hämtar eller anger händelsehanterare för OnProgress‑händelsen"
 type: docs
 weight: 620
 url: /sv/net/aspose.svg.dom/document/onprogress/
 ---
 ## Document.OnProgress event
 
-Hämtar eller ställer in händelsehanterare för OnProgress-händelse.
+Hämtar eller anger händelsehanterare för OnProgress-händelse.
 
 ```csharp
 public event DOMEventHandler OnProgress;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnProgress;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

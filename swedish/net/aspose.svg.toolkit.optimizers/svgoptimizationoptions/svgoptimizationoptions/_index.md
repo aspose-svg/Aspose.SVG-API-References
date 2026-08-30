@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.SVGOptimizationOptions
-second_title: Aspose.SVG för .NET API Referens
-description: SVGOptimizationOptions byggare. Initierar en ny instans avSVGOptimizationOptions class.
+title: "SVGOptimizationOptions"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGOptimizationOptions konstruktor. Initierar en ny instans av klassen SVGOptimizationOptions"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/svgoptimizationoptions/
 ---
 ## SVGOptimizationOptions constructor
 
-Initierar en ny instans av[`SVGOptimizationOptions`](../) class.
+Initierar en ny instans av klassen [`SVGOptimizationOptions`](../).
 
 ```csharp
 public SVGOptimizationOptions()
@@ -17,7 +17,5 @@ public SVGOptimizationOptions()
 ### Se även
 
 * class [SVGOptimizationOptions](../)
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

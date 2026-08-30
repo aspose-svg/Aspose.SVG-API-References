@@ -1,14 +1,14 @@
 ---
-title: Element.RemoveAttributeNode
-second_title: Aspose.SVG för .NET API Referens
-description: Element metod. Tar bort den angivna attributnoden.
+title: "Element.RemoveAttributeNode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element RemoveAttributeNode-metoden. Tar bort den angivna attributnoden"
 type: docs
 weight: 380
 url: /sv/net/aspose.svg.dom/element/removeattributenode/
 ---
 ## Element.RemoveAttributeNode method
 
-Tar bort den angivna attributnoden.
+Tar bort den specificerade attributnoden.
 
 ```csharp
 public Attr RemoveAttributeNode(Attr oldAttr)
@@ -16,7 +16,7 @@ public Attr RemoveAttributeNode(Attr oldAttr)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| oldAttr | Attr | Den gamla attr. |
+| oldAttr | Attr | Det gamla attributet. |
 
 ### Returvärde
 
@@ -26,7 +26,5 @@ Returnerar attribut
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

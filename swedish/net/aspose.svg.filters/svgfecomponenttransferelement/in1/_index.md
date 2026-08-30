@@ -1,28 +1,26 @@
 ---
-title: SVGFEComponentTransferElement.In1
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEComponentTransferElement fast egendom. Motsvarar attributet in på det givna feComponentTransferelementet.
+title: "SVGFEComponentTransferElement.In1"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEComponentTransferElement In1-egenskap. Motsvarar attributet in på det angivna feComponentTransfer-elementet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.filters/svgfecomponenttransferelement/in1/
 ---
 ## SVGFEComponentTransferElement.In1 property
 
-Motsvarar attributet 'in' på det givna 'feComponentTransfer'-elementet.
+Motsvarar attributet ‘in’ på det angivna ‘feComponentTransfer’-elementet.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'in' för det givna 'feComponentTransfer'-elementet.
+Attributet ‘in’ för det angivna ‘feComponentTransfer’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEComponentTransferElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfecomponenttransferelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,30 +1,28 @@
 ---
-title: Enum StencilType
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ImageVectorization.StencilType uppräkning. DenStencilType enum definierar stenciltyper.
+title: "StencilType Enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ImageVectorization.StencilType enum. StencilType-enumen definierar stencil-typer."
 type: docs
-weight: 2180
+weight: 4250
 url: /sv/net/aspose.svg.imagevectorization/stenciltype/
 ---
 ## StencilType enumeration
 
-Den`StencilType` enum definierar stenciltyper.
+`StencilType`-enumen definierar stencil-typer.
 
 ```csharp
 public enum StencilType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| None | `0` | Stencileffekten kommer inte att tillämpas. |
-| MonoColor | `1` | Endast en färg används för att återge stencillinjer. |
-| Auto | `2` | Färgerna för rendering av stencillinjer identifieras automatiskt. |
+| None | `0` | Stencil-effekten kommer inte att tillämpas. |
+| MonoColor | `1` | Endast en färg används för rendering av stencil-linjer. |
+| Auto | `2` | Färgerna för rendering av stencil-linjer upptäcks automatiskt. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

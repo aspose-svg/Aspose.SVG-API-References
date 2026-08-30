@@ -1,14 +1,14 @@
 ---
-title: CSSValue.Equals
-second_title: Aspose.SVG för .NET API Referens
-description: CSSValue metod. Bestämmer om den angivnaObject är lika med denna instans.
+title: "CSSValue.Equals"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSValue Equals-metoden. Avgör om det angivna Object är lika med denna instans"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.css/cssvalue/equals/
 ---
 ## CSSValue.Equals method
 
-Bestämmer om den angivnaObject är lika med denna instans.
+Bestämmer om det angivna Object är lika med den här instansen.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,22 +16,20 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Objekt | Objektet att jämföra med den här instansen. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`sant` om det angivna objektet är lika med den här instansen; annars, `falskt`.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| NullReferenceException | Den*obj* parametern är null. |
+| NullReferenceException | Parametern *obj* är null. |
 
 ### Se även
 
 * class [CSSValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssvalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Class RequestMessage
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.RequestMessage klass. Representerar ett förfrågningsmeddelande.
+title: "RequestMessage-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.RequestMessage-klass. Representerar ett request‑meddelande"
 type: docs
-weight: 2420
+weight: 4490
 url: /sv/net/aspose.svg.net/requestmessage/
 ---
 ## RequestMessage class
@@ -16,33 +16,31 @@ public class RequestMessage : IDisposable
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [RequestMessage](requestmessage/#constructor_1)(string) | Initierar en ny instans av`RequestMessage` class. |
-| [RequestMessage](requestmessage/#constructor)(Url) | Initierar en ny instans av`RequestMessage` class. |
+| [RequestMessage](requestmessage/#constructor_1)(*string*) | Initierar en ny instans av klassen `RequestMessage`. |
+| [RequestMessage](requestmessage/#constructor)(*[Url](../../aspose.svg/url/)*) | Initierar en ny instans av klassen `RequestMessage`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Content](../../aspose.svg.net/requestmessage/content/) { get; set; } | Hämtar eller ställer in begäran om innehåll. |
-| [CookieContainer](../../aspose.svg.net/requestmessage/cookiecontainer/) { get; set; } | Hämtar eller ställer in den cookiebehållare som används för att lagra servercookies av hanteraren. |
-| [Credentials](../../aspose.svg.net/requestmessage/credentials/) { get; set; } | Hämtar eller ställer in autentiseringsinformation för begäran. |
-| [Headers](../../aspose.svg.net/requestmessage/headers/) { get; } | Får[`RequestHeaders`](../requestheaders/) . |
-| [Method](../../aspose.svg.net/requestmessage/method/) { get; set; } | Hämtar eller ställer in[`HttpMethod`](../httpmethod/) . |
-| [PreAuthenticate](../../aspose.svg.net/requestmessage/preauthenticate/) { get; set; } | Hämtar eller ställer in ett värde som anger om ett auktoriseringshuvud ska skickas med begäran. |
-| [RequestUri](../../aspose.svg.net/requestmessage/requesturi/) { get; set; } | Hämtar eller ställer in begäran URI. |
-| [Timeout](../../aspose.svg.net/requestmessage/timeout/) { get; set; } | Antalet millisekunder som ska vänta innan begäran tar slut. Standardvärdet är 100 000 millisekunder (100 sekunder). |
+| [Content](../../aspose.svg.net/requestmessage/content/) { get; set; } | Hämtar eller anger begärans innehåll. |
+| [CookieContainer](../../aspose.svg.net/requestmessage/cookiecontainer/) { get; set; } | Hämtar eller anger cookie‑behållaren som används för att lagra server‑cookies av hanteraren. |
+| [Credentials](../../aspose.svg.net/requestmessage/credentials/) { get; set; } | Hämtar eller anger autentiseringsinformation för begäran. |
+| [Headers](../../aspose.svg.net/requestmessage/headers/) { get; } | Hämtar [`RequestHeaders`](../requestheaders/). |
+| [Method](../../aspose.svg.net/requestmessage/method/) { get; set; } | Hämtar eller anger [`HttpMethod`](../httpmethod/). |
+| [PreAuthenticate](../../aspose.svg.net/requestmessage/preauthenticate/) { get; set; } | Hämtar eller anger ett värde som indikerar om en Authorization‑header ska skickas med begäran. |
+| [RequestUri](../../aspose.svg.net/requestmessage/requesturi/) { get; set; } | Hämtar eller anger begärans URI. |
+| [Timeout](../../aspose.svg.net/requestmessage/timeout/) { get; set; } | Antalet millisekunder att vänta innan begäran tidsöverskrids. Standardvärdet är 100 000 millisekunder (100 sekunder). |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/requestmessage/dispose/)() | Utför programdefinierade uppgifter associerade med att frigöra, frigöra eller återställa ohanterade resurser. |
+| [Dispose](../../aspose.svg.net/requestmessage/dispose/)() | Utför applikationsdefinierade uppgifter som är relaterade till att frigöra, släppa eller återställa ohanterade resurser. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Net](../../aspose.svg.net/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderLeftStyle
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen i kantlinjevänsterstil i CSS2.
+title: "ICSS2Properties.BorderLeftStyle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties BorderLeftStyle egenskap. Se definitionen av border-left-style egenskap i CSS2"
 type: docs
 weight: 170
 url: /sv/net/aspose.svg.dom.css/icss2properties/borderleftstyle/
 ---
 ## ICSS2Properties.BorderLeftStyle property
 
-Se egenskapsdefinitionen i kantlinje-vänsterstil i CSS2.
+Se definitionen av egenskapen border-left-style i CSS2.
 
 ```csharp
 public string BorderLeftStyle { get; set; }
@@ -16,12 +16,10 @@ public string BorderLeftStyle { get; set; }
 
 ### Returvärde
 
-gräns-vänster-stil fastighet
+border-left-style egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

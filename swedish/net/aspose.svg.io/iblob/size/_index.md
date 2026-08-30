@@ -1,14 +1,14 @@
 ---
-title: IBlob.Size
-second_title: Aspose.SVG för .NET API Referens
-description: IBlob fast egendom. Returnerar storleken på bytesekvensen i antal byte. När användaragenter hämtar måste överensstämmande användaragenter returnera det totala antalet byte som kan läsas av ett FileReader eller FileReaderSyncobjekt eller 0 om Bloben inte har några byte att läsa .
+title: "IBlob.Size"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IBlob Size-egenskapen. Returnerar storleken på byte‑sekvensen i antal byte. Vid hämtning måste kompatibla användaragenter returnera det totala antalet byte som kan läsas av ett FileReader‑ eller FileReaderSync‑objekt, eller 0 om Blob‑en inte har några byte att läsa"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.io/iblob/size/
 ---
 ## IBlob.Size property
 
-Returnerar storleken på bytesekvensen i antal byte. När användaragenter hämtar måste överensstämmande användaragenter returnera det totala antalet byte som kan läsas av ett FileReader eller FileReaderSync-objekt, eller 0 om Bloben inte har några byte att läsa .
+Returnerar storleken på byte‑sekvensen i antal byte. Vid hämtning måste kompatibla användaragenter returnera det totala antalet byte som kan läsas av ett FileReader‑ eller FileReaderSync‑objekt, eller 0 om Blob‑objektet inte har några byte att läsa.
 
 ```csharp
 public ulong Size { get; }
@@ -17,7 +17,5 @@ public ulong Size { get; }
 ### Se även
 
 * interface [IBlob](../)
-* namnutrymme [Aspose.Svg.IO](../../iblob/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

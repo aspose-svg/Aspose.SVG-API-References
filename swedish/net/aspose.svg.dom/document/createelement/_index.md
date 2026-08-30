@@ -1,14 +1,14 @@
 ---
-title: Document.CreateElement
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Skapar ett element av angiven typ. Observera att den returnerade instansen implementerar Elementgränssnittet så attribut kan specificeras direkt på det returnerade objektet.
+title: "Document.CreateElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document CreateElement-metod. Skapar HTML-elementet som anges av localName eller ett HTMLUnknownElement om localName inte känns igen"
 type: docs
 weight: 850
 url: /sv/net/aspose.svg.dom/document/createelement/
 ---
 ## Document.CreateElement method
 
-Skapar ett element av angiven typ. Observera att den returnerade instansen implementerar Element-gränssnittet, så attribut kan specificeras direkt på det returnerade objektet.
+Skapar HTML‑elementet som anges av localName, eller ett HTMLUnknownElement om localName inte känns igen.
 
 ```csharp
 public Element CreateElement(string localName)
@@ -16,17 +16,15 @@ public Element CreateElement(string localName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| localName | String | Taggens namn. |
+| localName | String | En sträng som specificerar vilken typ av element som ska skapas. nodeName för det skapade elementet initieras med värdet av localName. Använd inte kvalificerade namn (t.ex. "html:a") med den här metoden. När den anropas på ett HTML-dokument konverterar createElement() localName till gemener innan elementet skapas. |
 
 ### Returvärde
 
-Den[`Element`](../../element/) .
+Det nya [`Element`](../../element/).
 
 ### Se även
 
 * class [Element](../../element/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Attr.NodeName
-second_title: Aspose.SVG för .NET API Referens
-description: Attr fast egendom. Namnet på denna nod beroende på dess typ.
+title: "Attr.NodeName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Attr NodeName egenskap. Namnet på denna nod beroende på dess typ"
 type: docs
-weight: 50
+weight: 40
 url: /sv/net/aspose.svg.dom/attr/nodename/
 ---
 ## Attr.NodeName property
@@ -14,14 +14,12 @@ Namnet på denna nod, beroende på dess typ.
 public override string NodeName { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnet på noden.
+Nodens namn.
 
 ### Se även
 
 * class [Attr](../)
-* namnutrymme [Aspose.Svg.Dom](../../attr/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

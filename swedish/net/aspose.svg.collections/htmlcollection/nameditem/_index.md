@@ -1,14 +1,14 @@
 ---
-title: HTMLCollection.NamedItem
-second_title: Aspose.SVG för .NET API Referens
-description: HTMLCollection metod. Returnerar objektet i samlingens matchade specificerade namn.
+title: "HTMLCollection.NamedItem"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "HTMLCollection NamedItem-metoden. Returnerar objektet i samlingen som matchar det angivna namnet."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.collections/htmlcollection/nameditem/
 ---
 ## HTMLCollection.NamedItem method
 
-Returnerar objektet i samlingens matchade specificerade namn.
+Returnerar objektet i samlingen som matchar det angivna namnet.
 
 ```csharp
 public Element NamedItem(string name)
@@ -16,7 +16,7 @@ public Element NamedItem(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Elementets namn. |
+| namn | String | Elementnamnet. |
 
 ### Returvärde
 
@@ -26,7 +26,5 @@ Det matchade elementet
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* namnutrymme [Aspose.Svg.Collections](../../htmlcollection/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

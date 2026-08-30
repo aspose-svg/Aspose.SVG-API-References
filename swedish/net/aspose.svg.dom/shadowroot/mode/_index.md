@@ -1,14 +1,14 @@
 ---
-title: ShadowRoot.Mode
-second_title: Aspose.SVG för .NET API Referens
-description: ShadowRoot fast egendom. Läge där denna ShadowRoot fungerar.
+title: "ShadowRoot.Mode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ShadowRoot Mode-egenskap. Läge i vilket detta ShadowRoot opererar"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom/shadowroot/mode/
 ---
 ## ShadowRoot.Mode property
 
-Läge där denna ShadowRoot fungerar.
+Läge som detta ShadowRoot opererar i.
 
 ```csharp
 public ShadowRootMode Mode { get; }
@@ -18,7 +18,5 @@ public ShadowRootMode Mode { get; }
 
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [ShadowRoot](../)
-* namnutrymme [Aspose.Svg.Dom](../../shadowroot/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

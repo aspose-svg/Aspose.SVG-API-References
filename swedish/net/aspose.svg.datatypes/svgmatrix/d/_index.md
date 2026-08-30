@@ -1,7 +1,7 @@
 ---
-title: SVGMatrix.D
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMatrix fast egendom. Dkomponenten i matrisen.
+title: "SVGMatrix.D"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMatrix D-egenskap. D-komponenten i matrisen"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.datatypes/svgmatrix/d/
@@ -14,20 +14,18 @@ D-komponenten i matrisen.
 public float D { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 D-komponenten i matrisen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Höjd vid ett försök att ändra värdet på ett skrivskyddat attribut. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Uppstått vid ett försök att ändra värdet på ett skrivskyddat attribut. |
 
 ### Se även
 
 * class [SVGMatrix](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgmatrix/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

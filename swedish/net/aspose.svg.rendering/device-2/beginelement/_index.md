@@ -1,33 +1,31 @@
 ---
-title: Device2.BeginElement
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Börjar rendering av noden.
+title: "Device-2.BeginElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device BeginElement‑metod. Påbörjar rendering av noden"
 type: docs
-weight: 50
+weight: 80
 url: /sv/net/aspose.svg.rendering/device-2/beginelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginElement method
+## Device<TGraphicContext,TRenderingOptions>.BeginElement method
 
-Börjar rendering av noden.
+Påbörjar rendering av noden.
 
 ```csharp
-public abstract bool BeginElement(Element element, RectangleF rect)
+public virtual bool BeginElement(Element element, RectangleF rect)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| element | Element | De[`Element`](../../../aspose.svg.dom/element/). |
+| element | Element | Den [`Element`](../../../aspose.svg.dom/element/). |
 | rect | RectangleF | Begränsningsruta för noden. |
 
 ### Returvärde
 
-Returnerar [true] om element ska bearbetas.
+Returnerar [true] om elementet ska bearbetas.
 
 ### Se även
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

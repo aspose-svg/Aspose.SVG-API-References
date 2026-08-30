@@ -1,27 +1,25 @@
 ---
-title: WheelEvent.DeltaZ
-second_title: Aspose.SVG för .NET API Referens
-description: WheelEvent fast egendom. I användaragenter där standardåtgärden för hjulhändelsen är att rulla MÅSTE värdet vara måttet längs zaxeln i pixlar linjer eller sidor som ska rullas om händelsen inte avbryts. Annars är detta en implementeringsspecifik mätning i pixlar linjer eller sidor av rörelsen hos en hjulenhet runt zaxeln.
+title: "WheelEvent.DeltaZ"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "WheelEvent DeltaZ‑egenskap. I användaragenter där standardåtgärden för hjulhändelsen är att rulla måste värdet vara mätningen längs z‑axeln i pixlar, rader eller sidor som ska rullas om händelsen inte avbryts. Annars är detta en implementation‑specifik mätning i pixlar, rader eller sidor av rörelsen för en hjulenhet runt z‑axeln."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.dom.events/wheelevent/deltaz/
 ---
 ## WheelEvent.DeltaZ property
 
-I användaragenter där standardåtgärden för hjulhändelsen är att rulla, MÅSTE värdet vara måttet längs z-axeln (i pixlar, linjer eller sidor) som ska rullas om händelsen inte avbryts. Annars är detta en implementeringsspecifik mätning (i pixlar, linjer eller sidor) av rörelsen hos en hjulenhet runt z-axeln.
+I användaragenter där standardåtgärden för hjulhändelsen är att rulla, måste värdet vara mätningen längs z‑axeln (i pixlar, rader eller sidor) som ska rullas när händelsen inte avbryts. Annars är detta en implementation‑specifik mätning (i pixlar, rader eller sidor) av rörelsen hos en hjulenhet runt z‑axeln.
 
 ```csharp
 public double DeltaZ { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-DeltaZ-attributet.
+DeltaZ‑attributet.
 
 ### Se även
 
 * class [WheelEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../wheelevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

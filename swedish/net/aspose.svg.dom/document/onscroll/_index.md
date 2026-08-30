@@ -1,14 +1,14 @@
 ---
-title: Document.OnScroll
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnScrollhändelse.
+title: "Document.OnScroll"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnScroll‑händelse. Hämtar eller anger händelsehanterare för OnScroll‑händelsen"
 type: docs
 weight: 670
 url: /sv/net/aspose.svg.dom/document/onscroll/
 ---
 ## Document.OnScroll event
 
-Hämtar eller ställer in händelsehanterare för OnScroll-händelse.
+Hämtar eller anger händelsehanterare för OnScroll-händelse.
 
 ```csharp
 public event DOMEventHandler OnScroll;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnScroll;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: RequestMessage.Content
-second_title: Aspose.SVG för .NET API Referens
-description: RequestMessage fast egendom. Hämtar eller ställer in begäran om innehåll.
+title: "RequestMessage.Content"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "RequestMessage Content‑egenskap. Hämtar eller anger begärans innehåll"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.net/requestmessage/content/
 ---
 ## RequestMessage.Content property
 
-Hämtar eller ställer in begäran om innehåll.
+Hämtar eller anger begärans innehåll.
 
 ```csharp
 public Content Content { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Kroppen.
 
@@ -22,7 +22,5 @@ Kroppen.
 
 * class [Content](../../content/)
 * class [RequestMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../requestmessage/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

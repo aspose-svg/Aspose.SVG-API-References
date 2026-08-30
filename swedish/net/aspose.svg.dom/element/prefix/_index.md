@@ -1,27 +1,25 @@
 ---
-title: Element.Prefix
-second_title: Aspose.SVG för .NET API Referens
-description: Element fast egendom. Namnutrymmesprefixet för denna nod eller null om det är ospecificerat. När den är definierad som null har inställningen ingen effekt
+title: "Element.Prefix"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element Prefix-egenskapen. Namnrymdsprefixet för denna nod eller null om det är ospecificerat. När den är definierad som null har en inställning ingen effekt."
 type: docs
 weight: 170
 url: /sv/net/aspose.svg.dom/element/prefix/
 ---
 ## Element.Prefix property
 
-Namnutrymmesprefixet för denna nod, eller null om det är ospecificerat. När den är definierad som null har inställningen ingen effekt
+Namnrymdsprefixet för denna nod, eller null om det är ospecificerat. När det är definierat som null har en inställning ingen effekt.
 
 ```csharp
 public override string Prefix { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnutrymmesprefixet för denna nod.
+Namnrymdsprefixet för denna nod.
 
 ### Se även
 
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

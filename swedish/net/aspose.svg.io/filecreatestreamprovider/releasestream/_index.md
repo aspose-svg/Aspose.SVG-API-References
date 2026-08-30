@@ -1,7 +1,7 @@
 ---
-title: FileCreateStreamProvider.ReleaseStream
-second_title: Aspose.SVG för .NET API Referens
-description: FileCreateStreamProvider metod. Frigör strömmen.
+title: "FileCreateStreamProvider.ReleaseStream"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "FileCreateStreamProvider ReleaseStream metod. Släpper strömmen"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.io/filecreatestreamprovider/releasestream/
@@ -16,12 +16,10 @@ public void ReleaseStream(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Streamen släpps. |
+| stream | Stream | Strömmen som släpps. |
 
 ### Se även
 
 * class [FileCreateStreamProvider](../)
-* namnutrymme [Aspose.Svg.IO](../../filecreatestreamprovider/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

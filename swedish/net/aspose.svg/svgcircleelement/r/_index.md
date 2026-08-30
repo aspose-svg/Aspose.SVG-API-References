@@ -1,28 +1,26 @@
 ---
-title: SVGCircleElement.R
-second_title: Aspose.SVG för .NET API Referens
-description: SVGCircleElement fast egendom. Motsvarar attributet r på det givna cirkelelementet.
+title: "SVGCircleElement.R"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGCircleElement R-egenskapen. Motsvarar attributet r på det angivna cirkelelementet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svgcircleelement/r/
 ---
 ## SVGCircleElement.R property
 
-Motsvarar attributet 'r' på det givna 'cirkel'-elementet.
+Motsvarar attributet ‘r’ på det givna ‘circle’-elementet.
 
 ```csharp
 public SVGAnimatedLength R { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'r' för det givna 'cirkel'-elementet.
+Attributet ‘r’ för det angivna ‘circle’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* namnutrymme [Aspose.Svg](../../svgcircleelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

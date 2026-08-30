@@ -1,14 +1,14 @@
 ---
-title: ByteArrayContent.ByteArrayContent
-second_title: Aspose.SVG för .NET API Referens
-description: ByteArrayContent byggare. Initierar en ny instans avByteArrayContent class.
+title: "ByteArrayContent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Konstruktorn ByteArrayContent. Initierar en ny instans av klassen ByteArrayContent"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/bytearraycontent/bytearraycontent/
 ---
 ## ByteArrayContent constructor
 
-Initierar en ny instans av[`ByteArrayContent`](../) class.
+Initierar en ny instans av klassen [`ByteArrayContent`](../).
 
 ```csharp
 public ByteArrayContent(byte[] content)
@@ -16,12 +16,10 @@ public ByteArrayContent(byte[] content)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| content | Byte[] | Innehållet. |
+| innehåll | Byte[] | Innehållet. |
 
 ### Se även
 
 * class [ByteArrayContent](../)
-* namnutrymme [Aspose.Svg.Net](../../bytearraycontent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

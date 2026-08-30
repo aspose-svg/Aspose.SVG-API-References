@@ -1,7 +1,7 @@
 ---
-title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticAbs
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathElement metod. Returnerar ett fristående föräldralöst SVGPathSegCurvetoQuadraticAbsobjekt.
+title: "SVGPathElement.CreateSVGPathSegCurvetoQuadraticAbs"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathElement CreateSVGPathSegCurvetoQuadraticAbs metod. Returnerar ett fristående, föräldralöst SVGPathSegCurvetoQuadraticAbs-objekt"
 type: docs
 weight: 100
 url: /sv/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticabs/
@@ -17,8 +17,8 @@ public SVGPathSegCurvetoQuadraticAbs CreateSVGPathSegCurvetoQuadraticAbs(float x
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Single | Den absoluta X-koordinaten för slutpunkten för detta vägsegment. |
-| y | Single | Den absoluta Y-koordinaten för slutpunkten för detta vägsegment. |
+| x | Single | Den absoluta X-koordinaten för slutpunkten av detta segment. |
+| y | Single | Den absoluta Y-koordinaten för slutpunkten av detta segment. |
 | x1 | Single | Den absoluta X-koordinaten för den första kontrollpunkten. |
 | y1 | Single | Den absoluta Y-koordinaten för den första kontrollpunkten. |
 
@@ -30,7 +30,5 @@ Ett fristående, föräldralöst SVGPathSegCurvetoQuadraticAbs-objekt.
 
 * class [SVGPathSegCurvetoQuadraticAbs](../../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/)
 * class [SVGPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

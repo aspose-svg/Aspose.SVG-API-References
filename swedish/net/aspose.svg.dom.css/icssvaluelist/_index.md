@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSValueList
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Css.ICSSValueList gränssnitt. Gränssnittet tillhandahåller abstraktionen av en ordnad samling av CSSvärden.
+title: "ICSSValueList gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Css.ICSSValueList gränssnitt. Gränssnittet ger en abstraktion av en ordnad samling av CSS‑värden."
 type: docs
-weight: 680
+weight: 2680
 url: /sv/net/aspose.svg.dom.css/icssvaluelist/
 ---
 ## ICSSValueList interface
 
-Gränssnittet tillhandahåller abstraktionen av en ordnad samling av CSS-värden.
+Gränssnittet tillhandahåller abstraktionen av en ordnad samling av CSS‑värden.
 
 ```csharp
 public interface ICSSValueList
@@ -16,14 +16,12 @@ public interface ICSSValueList
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Item](../../aspose.svg.dom.css/icssvaluelist/item/) { get; } | Metoden returnerar[`CSSValue`](../cssvalue/) på det angivna indexet. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
-| [Length](../../aspose.svg.dom.css/icssvaluelist/length/) { get; } | Antalet CSSV-värden i listan. |
+| [Item](../../aspose.svg.dom.css/icssvaluelist/item/) { get; } | Metoden returnerar [`CSSValue`](../cssvalue/) på det angivna indexet. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
+| [Length](../../aspose.svg.dom.css/icssvaluelist/length/) { get; } | Antalet CSSValues i listan. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

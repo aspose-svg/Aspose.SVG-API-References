@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.NumberOfItems
-second_title: Aspose.SVG för .NET API Referens
-description: SVGListBase fast egendom. Antalet objekt i listan.
+title: "SVGListBase-1.NumberOfItems"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGListBase NumberOfItems-egenskap. Antalet objekt i listan"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.collections/svglistbase-1/numberofitems/
 ---
-## SVGListBase&lt;T&gt;.NumberOfItems property
+## SVGListBase<T>.NumberOfItems property
 
 Antalet objekt i listan.
 
@@ -14,14 +14,12 @@ Antalet objekt i listan.
 public ulong NumberOfItems { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Antalet objekt.
 
 ### Se även
 
 * class [SVGListBase&lt;T&gt;](../)
-* namnutrymme [Aspose.Svg.Collections](../../svglistbase-1/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

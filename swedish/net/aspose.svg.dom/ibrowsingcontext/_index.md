@@ -1,14 +1,14 @@
 ---
-title: Interface IBrowsingContext
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.IBrowsingContext gränssnitt. En webbläsarkontext är en miljö därDocument objekt presenteras för användaren.
+title: "IBrowsingContext-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.IBrowsingContext-gränssnitt. En bläddringskontext är en miljö där Document-objekt presenteras för användaren"
 type: docs
-weight: 1020
+weight: 3020
 url: /sv/net/aspose.svg.dom/ibrowsingcontext/
 ---
 ## IBrowsingContext interface
 
-En webbläsarkontext är en miljö där[`Document`](../document/) objekt presenteras för användaren.
+En bläddringskontext är en miljö där [`Document`](../document/) objekt presenteras för användaren.
 
 ```csharp
 public interface IBrowsingContext : IDisposable, IServiceProvider
@@ -16,19 +16,16 @@ public interface IBrowsingContext : IDisposable, IServiceProvider
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [ActiveDocument](../../aspose.svg.dom/ibrowsingcontext/activedocument/) { get; } | Hämtar det aktuella dokumentet. |
-| [DOMImplementation](../../aspose.svg.dom/ibrowsingcontext/domimplementation/) { get; } | Hämtar DOM-implementeringen. |
+| [DOMImplementation](../../aspose.svg.dom/ibrowsingcontext/domimplementation/) { get; } | Hämtar DOM-implementationen. |
 | [Network](../../aspose.svg.dom/ibrowsingcontext/network/) { get; } | Hämtar nätverkstjänsterna. |
-| [Parent](../../aspose.svg.dom/ibrowsingcontext/parent/) { get; } | Hämtar det överordnade sammanhanget, om det finns. |
-| [Security](../../aspose.svg.dom/ibrowsingcontext/security/) { get; } | Får sandlådeflaggan. |
+| [Parent](../../aspose.svg.dom/ibrowsingcontext/parent/) { get; } | Hämtar föräldrakontexten, om någon. |
+| [Security](../../aspose.svg.dom/ibrowsingcontext/security/) { get; } | Hämtar sandlådeflaggan. |
 | [Window](../../aspose.svg.dom/ibrowsingcontext/window/) { get; } | Hämtar WindowProxy-objektet. |
 
 ### Se även
 
-* interface [IServiceProvider](../../aspose.svg.services/iserviceprovider/)
-* namnutrymme [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

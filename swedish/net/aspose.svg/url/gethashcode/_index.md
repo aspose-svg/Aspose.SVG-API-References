@@ -1,14 +1,14 @@
 ---
-title: Url.GetHashCode
-second_title: Aspose.SVG för .NET API Referens
-description: Url metod. Returnerar en hashkod för denna instans.
+title: "Url.GetHashCode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Url GetHashCode metod. Returnerar en hashkod för den här instansen"
 type: docs
 weight: 150
 url: /sv/net/aspose.svg/url/gethashcode/
 ---
 ## Url.GetHashCode method
 
-Returnerar en hash-kod för denna instans.
+Returnerar en hashkod för den här instansen.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,10 @@ public override int GetHashCode()
 
 ### Returvärde
 
-En hash-kod för denna instans, lämplig för användning i hashalgoritmer och datastrukturer som en hashtabell.
+En hashkod för den här instansen, lämplig för användning i hash-algoritmer och datastrukturer som en hash-tabell.
 
 ### Se även
 
 * class [Url](../)
-* namnutrymme [Aspose.Svg](../../url/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

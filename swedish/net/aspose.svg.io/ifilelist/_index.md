@@ -1,14 +1,14 @@
 ---
-title: Interface IFileList
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.IO.IFileList gränssnitt. Representerar gränssnittet för lista över filer.
+title: "IFileList-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.IO.IFileList-gränssnitt. Representerar gränssnittet för en lista med filer"
 type: docs
-weight: 1950
+weight: 4060
 url: /sv/net/aspose.svg.io/ifilelist/
 ---
 ## IFileList interface
 
-Representerar gränssnittet för lista över filer.
+Representera gränssnittet för en lista med filer.
 
 ```csharp
 public interface IFileList : IEnumerable<IFile>
@@ -16,15 +16,13 @@ public interface IFileList : IEnumerable<IFile>
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Item](../../aspose.svg.io/ifilelist/item/) { get; } | Returnerar indexfilen i listan. |
-| [Length](../../aspose.svg.io/ifilelist/length/) { get; } | Returlängd för lista med filer. |
+| [Item](../../aspose.svg.io/ifilelist/item/) { get; } | Returnerar den indexte filen i listan. |
+| [Length](../../aspose.svg.io/ifilelist/length/) { get; } | Returnera längden för fillistan. |
 
 ### Se även
 
 * interface [IFile](../ifile/)
-* namnutrymme [Aspose.Svg.IO](../../aspose.svg.io/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.IO](../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../)

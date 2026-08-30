@@ -1,7 +1,7 @@
 ---
-title: Notation.NodeName
-second_title: Aspose.SVG för .NET API Referens
-description: Notation fast egendom. Namnet på denna nod beroende på dess typ.
+title: "Notation.NodeName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Notation NodeName egenskap. Namnet på denna nod beroende på dess typ"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/notation/nodename/
@@ -14,14 +14,12 @@ Namnet på denna nod, beroende på dess typ.
 public override string NodeName { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnet på noden.
+Nodens namn.
 
 ### Se även
 
 * class [Notation](../)
-* namnutrymme [Aspose.Svg.Dom](../../notation/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

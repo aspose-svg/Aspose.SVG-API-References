@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.FullFontName
-second_title: Aspose.SVG för .NET API Referens
-description: ITrueTypeFont fast egendom. Detta bör vara en kombination av FamilyName och SubFamilyName. Undantag om teckensnittet är Regular som anges i SubFamilyName använd endast efternamnet i FamilyName. Ett undantag från definitionen ovan av Fullständigt teckensnittsnamn är för Microsoftplattformssträngar för CFF OpenTypeteckensnitt i det här fallet måste strängen Fullständigt teckensnittsnamn vara identisk med PostScript FontName i CFF Name INDEX.
+title: "ITrueTypeFont.FullFontName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ITrueTypeFont FullFontName-egenskapen. Fullständigt teckensnittsnamn representeras vanligtvis som en kombination av familj- och underfamiljenamn"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.drawing/itruetypefont/fullfontname/
 ---
 ## ITrueTypeFont.FullFontName property
 
-Detta bör vara en kombination av "FamilyName" och "SubFamilyName". Undantag: om teckensnittet är "Regular" som anges i "SubFamilyName", använd endast efternamnet i "FamilyName". Ett undantag från definitionen ovan av Fullständigt teckensnittsnamn är för Microsoft-plattformssträngar för CFF OpenType-teckensnitt: i det här fallet måste strängen Fullständigt teckensnittsnamn vara identisk med PostScript FontName i CFF Name INDEX.
+Det fullständiga teckensnittsnamnet representeras vanligtvis som en kombination av familj- och underfamiljenamn.
 
 ```csharp
 public string FullFontName { get; }
@@ -16,12 +16,10 @@ public string FullFontName { get; }
 
 ### Returvärde
 
-Teckensnittets fullständiga namn
+Det fullständiga namnet på teckensnittet.
 
 ### Se även
 
 * interface [ITrueTypeFont](../)
-* namnutrymme [Aspose.Svg.Drawing](../../itruetypefont/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegCurvetoQuadraticSmoothAbs.X
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathSegCurvetoQuadraticSmoothAbs fast egendom. Den absoluta Xkoordinaten för slutpunkten för detta vägsegment.
+title: "SVGPathSegCurvetoQuadraticSmoothAbs.X"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathSegCurvetoQuadraticSmoothAbs X egenskap. Den absoluta X-koordinaten för slutpunkten av detta segment"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.paths/svgpathsegcurvetoquadraticsmoothabs/x/
 ---
 ## SVGPathSegCurvetoQuadraticSmoothAbs.X property
 
-Den absoluta X-koordinaten för slutpunkten för detta vägsegment.
+Den absoluta X-koordinaten för slutpunkten av detta segment.
 
 ```csharp
 public float X { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den absoluta Y-koordinaten.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Höjd vid ett försök att ändra värdet på ett skrivskyddat attribut. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Uppstått vid ett försök att ändra värdet på ett skrivskyddat attribut. |
 
 ### Se även
 
 * class [SVGPathSegCurvetoQuadraticSmoothAbs](../)
-* namnutrymme [Aspose.Svg.Paths](../../svgpathsegcurvetoquadraticsmoothabs/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

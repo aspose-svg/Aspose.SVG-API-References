@@ -1,9 +1,9 @@
 ---
-title: Enum SizingType
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Rendering.SizingType uppräkning. Representerar uppräkningen av sidstorlekstyper.
+title: "SizingType Enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.SizingType enum. Representerar uppräkningen av sidstorlekstyper"
 type: docs
-weight: 3020
+weight: 5090
 url: /sv/net/aspose.svg.rendering/sizingtype/
 ---
 ## SizingType enumeration
@@ -14,18 +14,16 @@ Representerar uppräkningen av sidstorlekstyper.
 public enum SizingType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| FitContent | `0` | Ändra givna storlekar på sidan så att de passar storleken på innehållet den innehåller. |
-| ScaleContent | `1` | Skala en innehållsstorlek i enlighet med den givna storleken på sidan. |
-| Contain | `2` | Anpassa innehållsstorleken till sidstorleken samtidigt som det föredragna bildförhållandet bibehålls så långt som möjligt. |
-| Crop | `3` | Placera innehållet på sidan och beskära allt det från given sidstorlek. |
+| FitContent | `0` | Ändrar givna sidstorlekar för att passa storleken på innehållet den innehåller. |
+| ScaleContent | `1` | Skalar en innehållsstorlek i enlighet med den givna sidstorleken. |
+| Contain | `2` | Anpassar innehållsstorleken till sidstorleken samtidigt som den föredragna bildförhållandet bibehålls så långt som möjligt. |
+| Crop | `3` | Placera innehållet på sidan och beskära allt som ligger utanför den givna sidstorleken. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

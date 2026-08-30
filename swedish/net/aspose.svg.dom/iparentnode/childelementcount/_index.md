@@ -1,27 +1,25 @@
 ---
-title: IParentNode.ChildElementCount
-second_title: Aspose.SVG för .NET API Referens
-description: IParentNode fast egendom. Attributet childElementCount måste returnera antalet underordnade av kontextobjektet som är element.
+title: "IParentNode.ChildElementCount"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IParentNode ChildElementCount-egenskapen. childElementCount-attributet måste returnera antalet barn till kontextobjektet som är element"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/iparentnode/childelementcount/
 ---
 ## IParentNode.ChildElementCount property
 
-Attributet childElementCount måste returnera antalet underordnade av kontextobjektet som är element.
+Attributet childElementCount måste returnera antalet barn till kontextobjektet som är element.
 
 ```csharp
 public int ChildElementCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Antalet underordnade element.
+Antalet barn-element.
 
 ### Se även
 
 * interface [IParentNode](../)
-* namnutrymme [Aspose.Svg.Dom](../../iparentnode/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

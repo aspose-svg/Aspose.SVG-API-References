@@ -1,14 +1,14 @@
 ---
-title: Device2.BeginDocument
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Börjar renderingen av dokumentet.
+title: "Device-2.BeginDocument"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device BeginDocument‑metod. Påbörjar rendering av dokumentet"
 type: docs
-weight: 40
+weight: 70
 url: /sv/net/aspose.svg.rendering/device-2/begindocument/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginDocument method
+## Device<TGraphicContext,TRenderingOptions>.BeginDocument method
 
-Börjar renderingen av dokumentet.
+Påbörjar rendering av dokumentet.
 
 ```csharp
 public virtual void BeginDocument(Document document)
@@ -16,13 +16,11 @@ public virtual void BeginDocument(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Document | Dokumentet. |
+| dokument | Dokument | Dokumentet. |
 
 ### Se även
 
 * class [Document](../../../aspose.svg.dom/document/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

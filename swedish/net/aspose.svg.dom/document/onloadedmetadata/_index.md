@@ -1,14 +1,14 @@
 ---
-title: Document.OnLoadedMetadata
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnLoadedMetadatahändelse.
+title: "Document.OnLoadedMetadata"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnLoadedMetadata-händelse. Hämtar eller anger händelsehanterare för OnLoadedMetadata-händelsen"
 type: docs
 weight: 490
 url: /sv/net/aspose.svg.dom/document/onloadedmetadata/
 ---
 ## Document.OnLoadedMetadata event
 
-Hämtar eller ställer in händelsehanterare för OnLoadedMetadata-händelse.
+Hämtar eller anger händelsehanterare för OnLoadedMetadata-händelse.
 
 ```csharp
 public event DOMEventHandler OnLoadedMetadata;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnLoadedMetadata;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

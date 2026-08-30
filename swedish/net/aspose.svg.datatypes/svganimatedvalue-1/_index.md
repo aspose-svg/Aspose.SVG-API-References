@@ -1,12 +1,12 @@
 ---
-title: Class SVGAnimatedValueT
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.DataTypes.SVGAnimatedValue1T klass. Används för attribut av typer som kan animeras.
+title: "SVGAnimatedValueT klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.DataTypes.SVGAnimatedValue1T klass. Används för attribut av typer som kan animeras"
 type: docs
-weight: 210
+weight: 2200
 url: /sv/net/aspose.svg.datatypes/svganimatedvalue-1/
 ---
-## SVGAnimatedValue&lt;T&gt; class
+## SVGAnimatedValue<T> class
 
 Används för attribut av typer som kan animeras.
 
@@ -16,26 +16,24 @@ public abstract class SVGAnimatedValue<T> : SVGValueType
 
 | Parameter | Beskrivning |
 | --- | --- |
-| T | SVG Value-objektet. |
+| T | Det SVG Value-objektet. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } | Om det givna attributet eller egenskapen animeras, innehåller det aktuella animerade värdet för attributet eller egenskapen. Om det givna attributet eller egenskapen för närvarande inte animeras, innehåller samma värde som baseVal. |
-| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } | Basvärdet för det givna attributet innan några animeringar används. |
+| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } | Om det angivna attributet eller egenskapen är under animation, innehåller det det aktuella animerade värdet för attributet eller egenskapen. Om det angivna attributet eller egenskapen för närvarande inte är animerad, innehåller det samma värde som baseVal. |
+| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } | Grundvärdet för det angivna attributet innan några animationer tillämpas. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
 
 ### Se även
 
 * class [SVGValueType](../svgvaluetype/)
-* namnutrymme [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

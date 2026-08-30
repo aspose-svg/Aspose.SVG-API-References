@@ -1,33 +1,53 @@
 ---
-title: Configuration.GetService
-second_title: Aspose.SVG för .NET API Referens
-description: Configuration metod. Får den begärda tjänsten.
+title: "Configuration.GetService"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Configuration GetService-metoden. Hämtar den begärda tjänsten"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/configuration/getservice/
 ---
-## Configuration.GetService&lt;TService&gt; method
+## GetService(*Type*) {#getservice}
 
-Får den begärda tjänsten.
+Hämtar den begärda tjänsten.
 
 ```csharp
-public TService GetService<TService>()
-    where TService : class, IService
+public object GetService(Type serviceType)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| serviceType | Typ | Typen av tjänst som ska hämtas. |
+
+### Returvärde
+
+En instans av tjänsten om den kunde hittas, eller null om den inte kunde hittas
+
+### Se även
+
+* class [Configuration](../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
+
+---
+
+## GetService<T>() {#getservice_1}
+
+Hämtar den begärda tjänsten.
+
+```csharp
+public T GetService<T>()
 ```
 
 | Parameter | Beskrivning |
 | --- | --- |
-| TService | Den typ av tjänst som ska hämtas. |
+| T | Typen av tjänst som ska hämtas. |
 
 ### Returvärde
 
-En instans av tjänsten om den kunde hittas, ellernull om den inte kunde hittas
+En instans av tjänsten om den kunde hittas, eller null om den inte kunde hittas
 
 ### Se även
 
-* interface [IService](../../../aspose.svg.services/iservice/)
 * class [Configuration](../)
-* namnutrymme [Aspose.Svg](../../configuration/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

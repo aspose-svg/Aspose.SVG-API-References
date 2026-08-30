@@ -1,20 +1,20 @@
 ---
-title: IWindow.Location
-second_title: Aspose.SVG för .NET API Referens
-description: IWindow fast egendom. Platsattributet för Windowgränssnittet måste returnera Locationobjektet för det Windowobjektets Document.
+title: "IWindow.Location"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindow Location-egenskap. Platsattributet för Window-gränssnittet måste returnera Location-objektet för det Window-objektets Document."
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.svg.window/iwindow/location/
 ---
 ## IWindow.Location property
 
-Platsattributet för Window-gränssnittet måste returnera Location-objektet för det Window-objektets Document.
+location-attributet för Window-gränssnittet måste returnera Location-objektet för det Window-objektets Document.
 
 ```csharp
 public Location Location { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Platsen.
 
@@ -22,7 +22,5 @@ Platsen.
 
 * class [Location](../../location/)
 * interface [IWindow](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindow/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

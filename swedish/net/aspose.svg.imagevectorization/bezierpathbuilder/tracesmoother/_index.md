@@ -1,14 +1,14 @@
 ---
-title: BezierPathBuilder.TraceSmoother
-second_title: Aspose.SVG för .NET API Referens
-description: BezierPathBuilder fast egendom. Får eller gör spårningen jämnare.
+title: "BezierPathBuilder.TraceSmoother"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "BezierPathBuilder TraceSmoother‑egenskap. Hämtar eller anger spårutjämnaren"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.imagevectorization/bezierpathbuilder/tracesmoother/
 ---
 ## BezierPathBuilder.TraceSmoother property
 
-Får eller gör spårningen jämnare.
+Hämtar eller anger spårutjämning.
 
 ```csharp
 public IImageTraceSmoother TraceSmoother { get; set; }
@@ -18,7 +18,5 @@ public IImageTraceSmoother TraceSmoother { get; set; }
 
 * interface [IImageTraceSmoother](../../iimagetracesmoother/)
 * class [BezierPathBuilder](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../bezierpathbuilder/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

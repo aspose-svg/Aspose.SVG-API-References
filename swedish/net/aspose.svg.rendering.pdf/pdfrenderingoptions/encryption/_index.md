@@ -1,14 +1,14 @@
 ---
-title: PdfRenderingOptions.Encryption
-second_title: Aspose.SVG för .NET API Referens
-description: PdfRenderingOptions fast egendom. Hämtar eller ställer in en krypteringsinformation. Om inte inställt kommer ingen kryptering att utföras.
+title: "PdfRenderingOptions.Encryption"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PdfRenderingOptions Encryption‑egenskap. Hämtar eller anger krypteringsdetaljer. Om den inte är angiven utförs ingen kryptering."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.rendering.pdf/pdfrenderingoptions/encryption/
 ---
 ## PdfRenderingOptions.Encryption property
 
-Hämtar eller ställer in en krypteringsinformation. Om inte inställt kommer ingen kryptering att utföras.
+Hämtar eller anger krypteringsdetaljer. Om den inte anges utförs ingen kryptering.
 
 ```csharp
 public PdfEncryptionInfo Encryption { get; set; }
@@ -18,7 +18,5 @@ public PdfEncryptionInfo Encryption { get; set; }
 
 * class [PdfEncryptionInfo](../../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/)
 * class [PdfRenderingOptions](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

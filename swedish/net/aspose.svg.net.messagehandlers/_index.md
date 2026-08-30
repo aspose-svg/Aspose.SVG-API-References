@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Net.MessageHandlers
-second_title: Aspose.SVG för .NET API Referens
-description: Den Aspose.Svg.Net.MessageHandlers namnområdet är presenteras av klasser  meddelandehanterare av olika protokoll.
+title: "Aspose.Svg.Net.MessageHandlers"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.MessageHandlers‑namnutrymmet presenteras av klasser – meddelandehanterare för olika protokoll."
 type: docs
-weight: 220
+weight: 240
 url: /sv/net/aspose.svg.net.messagehandlers/
 ---
-Den **Aspose.Svg.Net.MessageHandlers** namnområdet är presenteras av klasser - meddelandehanterare av olika protokoll.
+Den **Aspose.Svg.Net.MessageHandlers**-namnrymden presenteras av klasser – meddelandehanterare för olika protokoll.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | Representerar`fil:` protokollmeddelandehanterare. |
-| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | Representerar`ftp:` protokollmeddelandehanterare. |
-| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | Representerar`http:` protokollmeddelandehanterare. |
-
-
+| [FileProtocolMessageHandler](./fileprotocolmessagehandler/) | Representerar `file:`‑protokoll‑meddelandehanteraren. |
+| [FtpProtocolMessageHandler](./ftpprotocolmessagehandler/) | Representerar `ftp:`‑protokoll‑meddelandehanteraren. |
+| [HttpProtocolMessageHandler](./httpprotocolmessagehandler/) | Representerar `http:`‑protokoll‑meddelandehanteraren. |

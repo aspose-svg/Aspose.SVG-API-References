@@ -1,14 +1,14 @@
 ---
-title: XpsDevice.XpsGraphicContext.XpsGraphicContext
-second_title: Aspose.SVG för .NET API Referens
-description: XpsGraphicContext byggare. Default_Constructor
+title: "XpsDevice.XpsGraphicContext.XpsGraphicContext"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "XpsGraphicContext-konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering.xps/xpsdevice.xpsgraphiccontext/xpsgraphiccontext/
 ---
 ## XpsDevice.XpsGraphicContext constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public XpsGraphicContext()
@@ -17,7 +17,5 @@ public XpsGraphicContext()
 ### Se även
 
 * class [XpsGraphicContext](../)
-* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice.xpsgraphiccontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Xps](../../../aspose.svg.rendering.xps/)
+* assembly [Aspose.SVG](../../../)

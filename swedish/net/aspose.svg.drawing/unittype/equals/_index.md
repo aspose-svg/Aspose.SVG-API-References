@@ -1,14 +1,14 @@
 ---
-title: UnitType.Equals
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType metod. Bestämmer om den angivnaObject  är lika med denna instans.
+title: "UnitType.Equals"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType Equals-metod. Avgör om det angivna Object är lika med denna instans"
 type: docs
 weight: 310
 url: /sv/net/aspose.svg.drawing/unittype/equals/
 ---
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
-Bestämmer om den angivnaObject , är lika med denna instans.
+Bestämmer om det angivna objektet är lika med den här instansen.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,23 +16,23 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Objekt | Objektet att jämföra med den här instansen. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`sant` om det angivna objektet är lika med den här instansen; annars, `falskt`.
 
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Equals(UnitType) {#equals}
+## Equals(*[UnitType](../)*) {#equals}
 
-Bestämmer om den angivna[`UnitType`](../) , är lika med denna instans.
+Avgör om den angivna [`UnitType`](../) är lika med denna instans.
 
 ```csharp
 public bool Equals(UnitType other)
@@ -40,16 +40,14 @@ public bool Equals(UnitType other)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| other | UnitType | De[`UnitType`](../) att jämföra med det här exemplet. |
+| other | UnitType | Den [`UnitType`](../) att jämföra med denna instans. |
 
 ### Returvärde
 
-`Sann` om det angivna[`UnitType`](../) är lika med denna instans; annat,`falsk` .
+`true` om den angivna [`UnitType`](../) är lika med denna instans; annars, `false`.
 
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

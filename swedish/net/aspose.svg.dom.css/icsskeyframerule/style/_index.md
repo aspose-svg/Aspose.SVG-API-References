@@ -1,20 +1,20 @@
 ---
-title: ICSSKeyframeRule.Style
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSKeyframeRule fast egendom. Det här attributet representerar stilen som är associerad med denna nyckelbildruta.
+title: "ICSSKeyframeRule.Style"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSKeyframeRule Style-egenskap. Detta attribut representerar den stil som är associerad med detta keyframe."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.css/icsskeyframerule/style/
 ---
 ## ICSSKeyframeRule.Style property
 
-Det här attributet representerar stilen som är associerad med denna nyckelbildruta.
+Detta attribut representerar den stil som är associerad med denna nyckelram.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Stilen.
 
@@ -22,7 +22,5 @@ Stilen.
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSKeyframeRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icsskeyframerule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,29 +1,27 @@
 ---
-title: Enum MediaType
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Rendering.MediaType uppräkning. Anger möjliga mediatyper som används under renderingen.
+title: "MediaType-enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.MediaType enum. Anger möjliga mediatyper som används under rendering"
 type: docs
-weight: 2890
+weight: 4960
 url: /sv/net/aspose.svg.rendering/mediatype/
 ---
 ## MediaType enumeration
 
-Anger möjliga mediatyper som används under renderingen.
+Anger möjliga mediatyper som används under rendering.
 
 ```csharp
 public enum MediaType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Print | `0` | Den`Skriva ut` media används under rendering. |
-| Screen | `1` | Den`Skärm` media används under rendering. |
+| Print | `0` | `Print`-mediet används under rendering. |
+| Screen | `1` | `Screen`-mediet används under rendering. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

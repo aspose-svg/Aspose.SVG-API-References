@@ -1,33 +1,31 @@
 ---
-title: SVGPathSegLinetoHorizontalAbs.X
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathSegLinetoHorizontalAbs fast egendom. Den absoluta Xkoordinaten för slutpunkten för detta vägsegment.
+title: "SVGPathSegLinetoHorizontalAbs.X"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathSegLinetoHorizontalAbs X-egenskap. Den absoluta X-koordinaten för slutpunkten av detta vägsegment"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.paths/svgpathseglinetohorizontalabs/x/
 ---
 ## SVGPathSegLinetoHorizontalAbs.X property
 
-Den absoluta X-koordinaten för slutpunkten för detta vägsegment.
+Den absoluta X-koordinaten för slutpunkten av detta segment.
 
 ```csharp
 public float X { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den absoluta X-koordinaten
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Höjd vid ett försök att ändra värdet på ett skrivskyddat attribut. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Uppstått vid ett försök att ändra värdet på ett skrivskyddat attribut. |
 
 ### Se även
 
 * class [SVGPathSegLinetoHorizontalAbs](../)
-* namnutrymme [Aspose.Svg.Paths](../../svgpathseglinetohorizontalabs/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: PageSetup.Sizing
-second_title: Aspose.SVG för .NET API Referens
-description: PageSetup fast egendom. Hämtar eller ställer in storlekstypen.
+title: "PageSetup.Sizing"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PageSetup Sizing-egenskap. Hämtar eller ställer in storlekstypen"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.rendering/pagesetup/sizing/
 ---
 ## PageSetup.Sizing property
 
-Hämtar eller ställer in storlekstypen.
+Hämtar eller anger storlekstypen.
 
 ```csharp
 public SizingType Sizing { get; set; }
@@ -18,7 +18,5 @@ public SizingType Sizing { get; set; }
 
 * enum [SizingType](../../sizingtype/)
 * class [PageSetup](../)
-* namnutrymme [Aspose.Svg.Rendering](../../pagesetup/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

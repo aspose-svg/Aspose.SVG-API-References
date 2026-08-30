@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Height
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se höjdegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.Height"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Height egenskap. Se definitionen av egenskapen height i CSS2"
 type: docs
-weight: 550
+weight: 580
 url: /sv/net/aspose.svg.dom.css/icss2properties/height/
 ---
 ## ICSS2Properties.Height property
 
-Se höjdegenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen height i CSS2.
 
 ```csharp
 public string Height { get; set; }
@@ -16,12 +16,10 @@ public string Height { get; set; }
 
 ### Returvärde
 
-höjdegenskap
+height egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

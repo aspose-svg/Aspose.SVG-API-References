@@ -1,7 +1,7 @@
 ---
-title: Color.Alpha
-second_title: Aspose.SVG för .NET API Referens
-description: Color fast egendom. Representerar alfakomponenten i färgen.
+title: "Color.Alpha"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color Alpha-egenskapen. Representerar alpha-komponenten i färgen"
 type: docs
 weight: 240
 url: /sv/net/aspose.svg.drawing/color/alpha/
@@ -17,7 +17,5 @@ public float Alpha { get; }
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGViewElement.ViewTarget
-second_title: Aspose.SVG för .NET API Referens
-description: SVGViewElement fast egendom. Motsvarar attributet viewTarget på det givna viewelementet. En lista med DOMStringvärden som innehåller namnen som anges i attributet viewTarget. Vart och ett av DOMStringvärdena kan associeras med motsvarande element med metoden getElementById call.
+title: "SVGViewElement.ViewTarget"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Egenskapen SVGViewElement ViewTarget. Motsvarar attributet viewTarget på det angivna view‑elementet. En lista med DOMString‑värden som innehåller namnen som anges i viewTarget‑attributet. Varje DOMString‑värde kan associeras med motsvarande element med hjälp av getElementById‑metodanropet."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svgviewelement/viewtarget/
 ---
 ## SVGViewElement.ViewTarget property
 
-Motsvarar attributet 'viewTarget' på det givna 'view'-elementet. En lista med DOMString-värden som innehåller namnen som anges i attributet 'viewTarget'. Vart och ett av DOMString-värdena kan associeras med motsvarande element med metoden getElementById() call.
+Motsvarar attributet ‘viewTarget’ på det angivna ‘view’-elementet. En lista med DOMString‑värden som innehåller namnen som anges i ‘viewTarget’-attributet. Varje DOMString‑värde kan associeras med motsvarande element genom att anropa getElementById()-metoden.
 
 ```csharp
 public SVGStringList ViewTarget { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'viewTarget' för det givna 'view'-elementet.
+Attributet ‘viewTarget’ på det angivna ‘view’-elementet.
 
 ### Se även
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGViewElement](../)
-* namnutrymme [Aspose.Svg](../../svgviewelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

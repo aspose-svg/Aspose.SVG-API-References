@@ -1,14 +1,14 @@
 ---
-title: MultipartContent.MultipartContent
-second_title: Aspose.SVG för .NET API Referens
-description: MultipartContent byggare. Skapa en ny instans avMultipartContent class.
+title: "MultipartContent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MultipartContent-konstruktorn. Skapa en ny instans av klassen MultipartContent"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 
-Skapa en ny instans av[`MultipartContent`](../) class.
+Skapa en ny instans av klassen [`MultipartContent`](../).
 
 ```csharp
 public MultipartContent()
@@ -17,14 +17,14 @@ public MultipartContent()
 ### Se även
 
 * class [MultipartContent](../)
-* namnutrymme [Aspose.Svg.Net](../../multipartcontent/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string) {#constructor_1}
+## MultipartContent(*string*) {#constructor_1}
 
-Skapa en ny instans av[`MultipartContent`](../) klass med undertyp.
+Skapa en ny instans av klassen [`MultipartContent`](../) med en undertyp.
 
 ```csharp
 public MultipartContent(string subtype)
@@ -32,19 +32,19 @@ public MultipartContent(string subtype)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| subtype | String | Undertypen |
+| subtyp | String | Subtypen |
 
 ### Se även
 
 * class [MultipartContent](../)
-* namnutrymme [Aspose.Svg.Net](../../multipartcontent/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## MultipartContent(string, string) {#constructor_2}
+## MultipartContent(*string, string*) {#constructor_2}
 
-Skapa en ny instans av[`MultipartContent`](../) klass med undertyp och gräns.
+Skapa en ny instans av klassen [`MultipartContent`](../) med subtyp och avgränsare.
 
 ```csharp
 public MultipartContent(string subtype, string boundary)
@@ -52,19 +52,17 @@ public MultipartContent(string subtype, string boundary)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| subtype | String | Undertypen |
-| boundary | String | Gränsen |
+| subtyp | String | Subtypen |
+| boundary | String | Avgränsaren |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | Argumentet kan inte vara null eller tom sträng. |
+| ArgumentException | Argumentet får inte vara null eller en tom sträng. |
 
 ### Se även
 
 * class [MultipartContent](../)
-* namnutrymme [Aspose.Svg.Net](../../multipartcontent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

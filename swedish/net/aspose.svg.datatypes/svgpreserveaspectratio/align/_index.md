@@ -1,33 +1,31 @@
 ---
-title: SVGPreserveAspectRatio.Align
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPreserveAspectRatio fast egendom. Typen av justeringsvärdet som specificerats av en av SVG_PRESERVEASPECTRATIO_ konstanterna som definieras i detta gränssnitt.
+title: "SVGPreserveAspectRatio.Align"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPreserveAspectRatio Align-egenskap. Typen av justeringsvärdet som specificeras av en av SVG_PRESERVEASPECTRATIO_-konstanterna som definieras på detta gränssnitt."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.datatypes/svgpreserveaspectratio/align/
 ---
 ## SVGPreserveAspectRatio.Align property
 
-Typen av justeringsvärdet som specificerats av en av SVG_PRESERVEASPECTRATIO_* konstanterna som definieras i detta gränssnitt.
+Typen av justeringsvärdet enligt en av SVG_PRESERVEASPECTRATIO_*-konstanterna som definieras i detta gränssnitt.
 
 ```csharp
 public ushort Align { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av alignment
+Typen av justeringen
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Ökas när objektet motsvarar ett skrivskyddat attribut eller när själva objektet är skrivskyddat. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Uppstår när objektet motsvarar ett skrivskyddat attribut eller när själva objektet är skrivskyddat. |
 
 ### Se även
 
 * class [SVGPreserveAspectRatio](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgpreserveaspectratio/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

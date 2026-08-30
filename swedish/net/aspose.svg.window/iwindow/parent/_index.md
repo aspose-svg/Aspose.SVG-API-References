@@ -1,27 +1,25 @@
 ---
-title: IWindow.Parent
-second_title: Aspose.SVG för .NET API Referens
-description: IWindow fast egendom. Det överordnade IDLattributet på Windowobjektet för ett dokument i en webbläsarkontext b måste returnera WindowProxyobjektet i den överordnade webbläsarkontexten om det finns ett dvs. om b är ett underordnat webbläsarkontext eller WindowProxyobjektet för webbläsaren själva context b annars dvs. om det är en webbläsarkontext på toppnivå eller en fristående kapslad webbläsarkontext.
+title: "IWindow.Parent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindow Parent property. Den föräldra-IDL-attributet på Window-objektet i ett Dokument i en bläddringskontext b måste returnera WindowProxy-objektet för den överordnade bläddringskontexten om en sådan finns, d.v.s. om b är en barnbläddringskontext, annars WindowProxy-objektet för bläddringskontexten b själv, d.v.s. om det är en toppnivåbläddringskontext eller en fristående inbäddad bläddringskontext."
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/aspose.svg.window/iwindow/parent/
 ---
 ## IWindow.Parent property
 
-Det överordnade IDL-attributet på Window-objektet för ett dokument i en webbläsarkontext b måste returnera WindowProxy-objektet i den överordnade webbläsarkontexten, om det finns ett (dvs. om b är ett underordnat webbläsarkontext), eller WindowProxy-objektet för webbläsaren själva context b, annars (dvs. om det är en webbläsarkontext på toppnivå eller en fristående kapslad webbläsarkontext).
+parent IDL-attributet på Window-objektet för ett Document i en surfkontext b måste returnera WindowProxy-objektet för den överordnade surfkontexten, om ett sådant finns (dvs. om b är en barn-surfkontext), eller WindowProxy-objektet för surfkontexten b själv, annars (dvs. om det är en toppnivå-surfkontext eller en fristående nästlad surfkontext).
 
 ```csharp
 public IWindow Parent { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Föräldern.
 
 ### Se även
 
 * interface [IWindow](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindow/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

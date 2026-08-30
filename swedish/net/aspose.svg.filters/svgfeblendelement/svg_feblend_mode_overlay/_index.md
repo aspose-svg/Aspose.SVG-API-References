@@ -1,7 +1,7 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_OVERLAY
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEBlendElement fält. Motsvarar värdet overlay.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_OVERLAY"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEBlendElement SVG_FEBLEND_MODE_OVERLAY-fält. Motsvarar värdet overlay"
 type: docs
 weight: 210
 url: /sv/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_overlay/
@@ -17,7 +17,5 @@ public const ushort SVG_FEBLEND_MODE_OVERLAY;
 ### Se även
 
 * class [SVGFEBlendElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeblendelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

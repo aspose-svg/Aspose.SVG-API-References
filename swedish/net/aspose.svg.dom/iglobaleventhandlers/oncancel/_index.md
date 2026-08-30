@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnCancel
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnCancelhändelse.
+title: "IGlobalEventHandlers.OnCancel"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnCancel‑händelse. Hämtar eller anger händelsehanterare för OnCancel‑händelsen"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/oncancel/
 ---
 ## IGlobalEventHandlers.OnCancel event
 
-Hämtar eller ställer in händelsehanterare för OnCancel-händelse.
+Hämtar eller anger händelsehanterare för OnCancel‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnCancel;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnCancel;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

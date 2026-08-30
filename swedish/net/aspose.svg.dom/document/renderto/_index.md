@@ -1,14 +1,14 @@
 ---
-title: Document.RenderTo
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Denna metod används för att återge innehållet i det aktuella dokumentet till en specificerad grafisk enhet.
+title: "Document.RenderTo"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document RenderTo‑metod. Denna metod används för att rendera innehållet i det aktuella dokumentet till en specificerad grafisk enhet."
 type: docs
-weight: 1040
+weight: 1050
 url: /sv/net/aspose.svg.dom/document/renderto/
 ---
 ## Document.RenderTo method
 
-Denna metod används för att återge innehållet i det aktuella dokumentet till en specificerad grafisk enhet.
+Denna metod används för att rendera innehållet i det aktuella dokumentet till en angiven grafisk enhet.
 
 ```csharp
 public virtual void RenderTo(IDevice device)
@@ -22,7 +22,5 @@ public virtual void RenderTo(IDevice device)
 
 * interface [IDevice](../../../aspose.svg.rendering/idevice/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

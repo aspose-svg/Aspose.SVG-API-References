@@ -1,14 +1,14 @@
 ---
-title: Url.Url
-second_title: Aspose.SVG för .NET API Referens
-description: Url byggare. Initierar en ny instans avUrl med angiven URL.
+title: "URL"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Url constructor. Initierar en ny instans av Url med den angivna URL‑en"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/url/url/
 ---
-## Url(string) {#constructor}
+## Url(*string*) {#constructor}
 
-Initierar en ny instans av[`Url`](../) med angiven URL.
+Initierar en ny instans av [`Url`](../) med den angivna URL‑en.
 
 ```csharp
 public Url(string url)
@@ -16,25 +16,25 @@ public Url(string url)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| url | String | Webbadressen som ska bearbetas. |
+| url | String | URL‑en att bearbeta. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| Error | TypeError: höjt if`url` kan inte tolkas som giltig URL. |
+| Fel | TypeError: kastas om `url` inte kan tolkas som en giltig URL. |
 
 ### Se även
 
 * class [Url](../)
-* namnutrymme [Aspose.Svg](../../url/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Url(string, string) {#constructor_1}
+## Url(*string, string*) {#constructor_1}
 
-Initierar en ny instans av[`Url`](../) med den angivna URL och bas-URL.
+Initierar en ny instans av [`Url`](../) med den angivna URL‑en och bas‑URL‑en.
 
 ```csharp
 public Url(string url, string baseUrl)
@@ -42,19 +42,17 @@ public Url(string url, string baseUrl)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| url | String | Webbadressen som ska bearbetas. |
-| baseUrl | String | Bas-URL. |
+| url | String | URL‑en att bearbeta. |
+| baseUrl | String | Bas-URL:en. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| Error | TypeError: höjt if`url` eller`baseUrl` kan inte tolkas som giltig URL. |
+| Fel | TypeError: kastas om `url` eller `baseUrl` inte kan tolkas som en giltig URL. |
 
 ### Se även
 
 * class [Url](../)
-* namnutrymme [Aspose.Svg](../../url/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

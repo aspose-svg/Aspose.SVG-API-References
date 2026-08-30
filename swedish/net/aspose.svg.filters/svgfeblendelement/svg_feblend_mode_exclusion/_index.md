@@ -1,7 +1,7 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_EXCLUSION
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEBlendElement fält. Motsvarar värdet exclusion.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_EXCLUSION"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEBlendElement SVG_FEBLEND_MODE_EXCLUSION-fält. Motsvarar värdet exclusion"
 type: docs
 weight: 140
 url: /sv/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_exclusion/
@@ -17,7 +17,5 @@ public const ushort SVG_FEBLEND_MODE_EXCLUSION;
 ### Se även
 
 * class [SVGFEBlendElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeblendelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

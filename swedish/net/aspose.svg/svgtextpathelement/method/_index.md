@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.Method
-second_title: Aspose.SVG för .NET API Referens
-description: SVGTextPathElement fast egendom. Motsvarar attributet metod på det givna textPathelementet.
+title: "SVGTextPathElement.Method"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGTextPathElement Method-egenskap. Motsvarar attributet method på det angivna textPath-elementet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/svgtextpathelement/method/
 ---
 ## SVGTextPathElement.Method property
 
-Motsvarar attributet 'metod' på det givna 'textPath'-elementet.
+Motsvarar attributet ‘method’ på det angivna ‘textPath’-elementet.
 
 ```csharp
 public SVGAnimatedEnumeration Method { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'metod' för det givna 'textPath'-elementet.
+Attributet ‘method’ på det angivna ‘textPath’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgtextpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

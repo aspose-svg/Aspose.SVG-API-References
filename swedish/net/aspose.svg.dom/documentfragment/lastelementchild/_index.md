@@ -1,28 +1,26 @@
 ---
-title: DocumentFragment.LastElementChild
-second_title: Aspose.SVG för .NET API Referens
-description: DocumentFragment fast egendom. Returnerar den sista underordnade elementnoden för detta element. null om detta element inte har några underordnade element.
+title: "DocumentFragment.LastElementChild"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DocumentFragment LastElementChild-egenskapen. Returnerar den sista barn-elementnoden för detta element. null om detta element inte har några barn-element"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.dom/documentfragment/lastelementchild/
 ---
 ## DocumentFragment.LastElementChild property
 
-Returnerar den sista underordnade elementnoden för detta element. null om detta element inte har några underordnade element.
+Returnerar det sista barn-elementnodet för detta element. null om detta element inte har några barn-element.
 
 ```csharp
 public Element LastElementChild { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det sista elementet child.
+Det sista elementbarnet.
 
 ### Se även
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* namnutrymme [Aspose.Svg.Dom](../../documentfragment/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

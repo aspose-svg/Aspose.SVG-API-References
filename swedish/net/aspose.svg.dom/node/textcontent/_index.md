@@ -1,27 +1,39 @@
 ---
-title: Node.TextContent
-second_title: Aspose.SVG för .NET API Referens
-description: Node fast egendom. Detta attribut returnerar textinnehållet för denna nod och dess avkomlingar. När den är definierad som null har inställningen ingen effekt. Vid inställning tas alla möjliga barn bort som denna nod kan ha och om den nya strängen inte är tom eller null ersätts den av en enda textnod som innehåller strängen som detta attribut är inställt på.
+title: "Node.TextContent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node TextContent property. Representerar nodens textinnehåll och dess underordnade"
 type: docs
-weight: 170
+weight: 160
 url: /sv/net/aspose.svg.dom/node/textcontent/
 ---
 ## Node.TextContent property
 
-Detta attribut returnerar textinnehållet för denna nod och dess avkomlingar. När den är definierad som null har inställningen ingen effekt. Vid inställning tas alla möjliga barn bort som denna nod kan ha och, om den nya strängen inte är tom eller null, ersätts den av en enda textnod som innehåller strängen som detta attribut är inställt på.
+Representerar textinnehållet i noden och dess undernoder.
 
 ```csharp
 public virtual string TextContent { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Innehållet i texten.
+En sträng eller null. Dess värde beror på situationen:
+
+Om noden är ett dokument eller en doctype, `TextContent` returnerar null. Obs: För att få all text och CDATA-data för hela dokumentet, använd
+
+```csharp
+document.DocumentElement.TextContent
+```
+
+.Om noden är en CDATA-sektion, en kommentar, en bearbetningsinstruktion eller en textnod, returnerar `TextContent`, eller sätter, texten inom noden, d.v.s. [`NodeValue`](../nodevalue/). För andra nodtyper returnerar `TextContent` sammansättningen av `TextContent` för varje barnnod, exklusive kommentarer och bearbetningsinstruktioner.
+
+## Anmärkningar
+
+Referens:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-textcontent).
 
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

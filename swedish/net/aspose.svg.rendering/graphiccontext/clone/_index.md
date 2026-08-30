@@ -1,7 +1,7 @@
 ---
-title: GraphicContext.Clone
-second_title: Aspose.SVG för .NET API Referens
-description: GraphicContext metod. Skapar en ny instans av en GraphicContextklass med samma egenskapsvärden som en befintlig instans.
+title: "GraphicContext.Clone"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GraphicContext Clone-metod. Skapar en ny instans av en GraphicContext-klass med samma egenskapsvärden som en befintlig instans"
 type: docs
 weight: 170
 url: /sv/net/aspose.svg.rendering/graphiccontext/clone/
@@ -16,12 +16,10 @@ public virtual GraphicContext Clone()
 
 ### Returvärde
 
-Förekomst av en GraphicContext
+Instans av en GraphicContext
 
 ### Se även
 
 * class [GraphicContext](../)
-* namnutrymme [Aspose.Svg.Rendering](../../graphiccontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

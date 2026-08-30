@@ -1,14 +1,14 @@
 ---
-title: Class NameValueHeaderValue
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.Headers.NameValueHeaderValue klass. Representerar ett namn/värdepar som beskriver ett rubrikvärde.
+title: "NameValueHeaderValue-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.Headers.NameValueHeaderValue-klass. Representerar ett namn/värde-par som beskriver ett headervärde"
 type: docs
-weight: 2280
+weight: 4350
 url: /sv/net/aspose.svg.net.headers/namevalueheadervalue/
 ---
 ## NameValueHeaderValue class
 
-Representerar ett namn/värdepar som beskriver ett rubrikvärde.
+Representerar ett namn/värde‑par som beskriver ett rubrikvärde.
 
 ```csharp
 public class NameValueHeaderValue
@@ -16,20 +16,18 @@ public class NameValueHeaderValue
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Name](../../aspose.svg.net.headers/namevalueheadervalue/name/) { get; } | Hämtar parameternamnet. |
-| [Value](../../aspose.svg.net.headers/namevalueheadervalue/value/) { get; set; } | Hämtar eller ställer in parametervärdet. |
+| [Value](../../aspose.svg.net.headers/namevalueheadervalue/value/) { get; set; } | Hämtar eller anger parametervärdet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring/)() | Returnerar en sträng som representerar den här instansen. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../)

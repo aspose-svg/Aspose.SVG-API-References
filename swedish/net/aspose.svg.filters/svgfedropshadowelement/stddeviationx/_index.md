@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.StdDeviationX
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEDropShadowElement fast egendom. Motsvarar attributet stdDeviation på det givna feDropShadowelementet. Innehåller Xkomponenten av attributet stdDeviation.
+title: "SVGFEDropShadowElement.StdDeviationX"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEDropShadowElement StdDeviationX-egenskap. Motsvarar attributet stdDeviation på det givna feDropShadow-elementet. Innehåller X-komponenten av attributet stdDeviation"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.filters/svgfedropshadowelement/stddeviationx/
 ---
 ## SVGFEDropShadowElement.StdDeviationX property
 
-Motsvarar attributet 'stdDeviation' på det givna 'feDropShadow'-elementet. Innehåller X-komponenten av attributet 'stdDeviation'.
+Motsvarar attributet ‘stdDeviation’ på det givna ‘feDropShadow’-elementet. Innehåller X-komponenten av attributet ‘stdDeviation’.
 
 ```csharp
 public SVGAnimatedNumber StdDeviationX { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'stdDeviationX' för det givna 'feDropShadow'-elementet.
+Attributet ‘stdDeviationX’ för det givna ‘feDropShadow’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

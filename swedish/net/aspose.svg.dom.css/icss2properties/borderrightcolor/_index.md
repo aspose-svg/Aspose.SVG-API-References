@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderRightColor
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för kanthögerfärg i CSS2.
+title: "ICSS2Properties.BorderRightColor"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties BorderRightColor-egenskap. Se definitionen av border-right-color-egenskapen i CSS2"
 type: docs
 weight: 200
 url: /sv/net/aspose.svg.dom.css/icss2properties/borderrightcolor/
 ---
 ## ICSS2Properties.BorderRightColor property
 
-Se egenskapsdefinitionen för kant-höger-färg i CSS2.
+Se definitionen av egenskapen border-right-color i CSS2.
 
 ```csharp
 public string BorderRightColor { get; set; }
@@ -16,12 +16,10 @@ public string BorderRightColor { get; set; }
 
 ### Returvärde
 
-egenskapen border-right-color
+border-right-color-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

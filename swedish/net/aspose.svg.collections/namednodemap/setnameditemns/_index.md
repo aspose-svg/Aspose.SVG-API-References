@@ -1,14 +1,14 @@
 ---
-title: NamedNodeMap.SetNamedItemNS
-second_title: Aspose.SVG för .NET API Referens
-description: NamedNodeMap metod. Lägger till en nod med dess namnrymdURI och lokalnamn. Om en nod med den namnutrymmets URI och det lokala namnet redan finns i den här kartan ersätts den av den nya. Att ersätta en nod i sig har ingen effekt.
+title: "NamedNodeMap.SetNamedItemNS"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "NamedNodeMap SetNamedItemNS-metoden. Lägger till en nod med hjälp av dess namespaceURI och localName. Om en nod med den namnrymds-URI:n och det lokala namnet redan finns i den här kartan ersätts den av den nya. Att ersätta en nod med sig själv har ingen effekt"
 type: docs
-weight: 90
+weight: 80
 url: /sv/net/aspose.svg.collections/namednodemap/setnameditemns/
 ---
 ## NamedNodeMap.SetNamedItemNS method
 
-Lägger till en nod med dess namnrymdURI och lokalnamn. Om en nod med den namnutrymmets URI och det lokala namnet redan finns i den här kartan ersätts den av den nya. Att ersätta en nod i sig har ingen effekt.
+Lägger till en nod med dess namespaceURI och localName. Om en nod med den namespaceURI:n och det lokala namnet redan finns i den här kartan, ersätts den med den nya. Att ersätta en nod med sig själv har ingen effekt.
 
 ```csharp
 public Attr SetNamedItemNS(Attr attr)
@@ -24,7 +24,7 @@ Returnerar nod.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception/) |  |
 
@@ -32,7 +32,5 @@ Returnerar nod.
 
 * class [Attr](../../../aspose.svg.dom/attr/)
 * class [NamedNodeMap](../)
-* namnutrymme [Aspose.Svg.Collections](../../namednodemap/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

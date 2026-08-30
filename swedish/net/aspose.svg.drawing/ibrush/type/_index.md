@@ -1,14 +1,14 @@
 ---
-title: IBrush.Type
-second_title: Aspose.SVG för .NET API Referens
-description: IBrush fast egendom. Skaffa typ av borste
+title: "IBrush.Type"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IBrush Type-egenskapen. Hämtar typ av pensel som BrushType"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/ibrush/type/
 ---
 ## IBrush.Type property
 
-Skaffa typ av borste;
+Hämtar typ av pensel som [`BrushType`](../../brushtype/).
 
 ```csharp
 public BrushType Type { get; }
@@ -16,13 +16,11 @@ public BrushType Type { get; }
 
 ### Returvärde
 
-Typ av borste
+Typ av pensel
 
 ### Se även
 
 * enum [BrushType](../../brushtype/)
 * interface [IBrush](../)
-* namnutrymme [Aspose.Svg.Drawing](../../ibrush/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

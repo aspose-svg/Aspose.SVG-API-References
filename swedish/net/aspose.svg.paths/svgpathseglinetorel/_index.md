@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegLinetoRel
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Paths.SVGPathSegLinetoRel klass. SVGPathSegLinetoRelgränssnittet motsvarar ett relativ lineto l sökvägsdatakommando.
+title: "SVGPathSegLinetoRel-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Paths.SVGPathSegLinetoRel class. SVGPathSegLinetoRel-gränssnittet motsvarar ett relativt lineto l-sökvägsdatakommand."
 type: docs
-weight: 2640
+weight: 4710
 url: /sv/net/aspose.svg.paths/svgpathseglinetorel/
 ---
 ## SVGPathSegLinetoRel class
 
-SVGPathSegLinetoRel-gränssnittet motsvarar ett "relativ lineto" (l) sökvägsdatakommando.
+SVGPathSegLinetoRel-gränssnittet motsvarar ett "relativt lineto" (l) banadata-kommando.
 
 ```csharp
 public class SVGPathSegLinetoRel : SVGPathSeg
@@ -16,24 +16,22 @@ public class SVGPathSegLinetoRel : SVGPathSeg
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Typen av sökvägssegmentet som specificeras av en av konstanterna som definieras i detta gränssnitt. |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Typen av sökvägssegmentet, specificerad av motsvarande ett teckens kommandonamn. |
-| [X](../../aspose.svg.paths/svgpathseglinetorel/x/) { get; set; } | Den relativa X-koordinaten för slutpunkten för detta vägsegment. |
-| [Y](../../aspose.svg.paths/svgpathseglinetorel/y/) { get; set; } | Den relativa Y-koordinaten för slutpunkten för detta vägsegment. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Typen av segmentet enligt en av de konstanter som definieras på detta gränssnitt. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Typen av segmentet, specificerad av motsvarande enkars kommandonamn. |
+| [X](../../aspose.svg.paths/svgpathseglinetorel/x/) { get; set; } | Den relativa X-koordinaten för slutpunkten av detta segment. |
+| [Y](../../aspose.svg.paths/svgpathseglinetorel/y/) { get; set; } | Den relativa Y-koordinaten för slutpunkten av detta segment. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
 
 ### Se även
 
 * class [SVGPathSeg](../svgpathseg/)
-* namnutrymme [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

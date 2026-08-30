@@ -1,14 +1,14 @@
 ---
-title: IWindow.Confirm
-second_title: Aspose.SVG för .NET API Referens
-description: IWindow metod. Visar en modal OK/Avbrytprompt med det givna meddelandet väntar på att användaren ska avvisa det och returnerar sant om användaren klickar på OK och falskt om användaren klickar på Avbryt.
+title: "IWindow.Confirm"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindow Confirm method. Visar en modal OK/Avbryt-prompt med det angivna meddelandet, väntar på att användaren avfärdar den och returnerar true om användaren klickar på OK och false om användaren klickar på Avbryt."
 type: docs
-weight: 110
+weight: 140
 url: /sv/net/aspose.svg.window/iwindow/confirm/
 ---
 ## IWindow.Confirm method
 
-Visar en modal OK/Avbryt-prompt med det givna meddelandet, väntar på att användaren ska avvisa det och returnerar sant om användaren klickar på OK och falskt om användaren klickar på Avbryt.
+Visar en modal OK/Avbryt‑prompt med det angivna meddelandet, väntar på att användaren avfärdar den och returnerar true om användaren klickar på OK och false om användaren klickar på Avbryt.
 
 ```csharp
 public bool Confirm(string message)
@@ -16,16 +16,14 @@ public bool Confirm(string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | String | Budskapet. |
+| message | String | Meddelandet. |
 
 ### Returvärde
 
-Returnerar sant om användaren klickar på OK och falskt om användaren klickar på Avbryt
+Returnerar true om användaren klickar på OK och false om användaren klickar på Avbryt.
 
 ### Se även
 
 * interface [IWindow](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindow/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

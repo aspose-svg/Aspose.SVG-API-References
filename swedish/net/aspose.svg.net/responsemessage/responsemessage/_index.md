@@ -1,14 +1,14 @@
 ---
-title: ResponseMessage.ResponseMessage
-second_title: Aspose.SVG för .NET API Referens
-description: ResponseMessage byggare. Initierar en ny instans avResponseMessage class.
+title: "ResponseMessage"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ResponseMessage‑konstruktor. Initierar en ny instans av klassen ResponseMessage"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/responsemessage/responsemessage/
 ---
 ## ResponseMessage constructor
 
-Initierar en ny instans av[`ResponseMessage`](../) class.
+Initierar en ny instans av klassen [`ResponseMessage`](../).
 
 ```csharp
 public ResponseMessage(HttpStatusCode status)
@@ -21,7 +21,5 @@ public ResponseMessage(HttpStatusCode status)
 ### Se även
 
 * class [ResponseMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../responsemessage/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

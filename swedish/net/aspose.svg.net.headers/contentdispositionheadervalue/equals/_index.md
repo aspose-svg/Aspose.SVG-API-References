@@ -1,14 +1,14 @@
 ---
-title: ContentDispositionHeaderValue.Equals
-second_title: Aspose.SVG för .NET API Referens
-description: ContentDispositionHeaderValue metod. Bestämmer om den angivnaObject är lika med denna instans.
+title: "ContentDispositionHeaderValue.Equals"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ContentDispositionHeaderValue Equals-metod. Avgör om det angivna objektet är lika med detta objekt"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.net.headers/contentdispositionheadervalue/equals/
 ---
 ## ContentDispositionHeaderValue.Equals method
 
-Bestämmer om den angivnaObject är lika med denna instans.
+Bestämmer om det angivna Object är lika med den här instansen.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +16,14 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Objekt | Objektet att jämföra med den här instansen. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk`.
+`sant` om det angivna objektet är lika med den här instansen; annars, `falskt`.
 
 ### Se även
 
 * class [ContentDispositionHeaderValue](../)
-* namnutrymme [Aspose.Svg.Net.Headers](../../contentdispositionheadervalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net.Headers](../../../aspose.svg.net.headers/)
+* assembly [Aspose.SVG](../../../)

@@ -1,19 +1,17 @@
 ---
-title: Aspose.Svg.Net.Headers
-second_title: Aspose.SVG för .NET API Referens
-description: Den Aspose.Svg.Net.Headers tillhandahåller få dataklasser för som beskriver rubrikinnehåll vid nätverk.
+title: "Aspose.Svg.Net.Headers"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.Headers tillhandahåller några dataklasser för att beskriva rubrikinnehåll i nätverkssammanhang."
 type: docs
-weight: 200
+weight: 220
 url: /sv/net/aspose.svg.net.headers/
 ---
-Den **Aspose.Svg.Net.Headers** tillhandahåller få dataklasser för som beskriver rubrikinnehåll vid nätverk.
+**Aspose.Svg.Net.Headers** tillhandahåller några dataklasser för att beskriva header‑innehåll vid nätverk.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [ContentDispositionHeaderValue](./contentdispositionheadervalue/) | Representerar Content-Disposition header-värde. |
-| [ContentTypeHeaderValue](./contenttypeheadervalue/) | Representerar ett Content-Type-huvudvärde. |
-| [NameValueHeaderValue](./namevalueheadervalue/) | Representerar ett namn/värdepar som beskriver ett rubrikvärde. |
-
-
+| [ContentDispositionHeaderValue](./contentdispositionheadervalue/) | Representerar Content‑Disposition‑rubrikvärde. |
+| [ContentTypeHeaderValue](./contenttypeheadervalue/) | Representerar ett Content‑Type‑rubrikvärde. |
+| [NameValueHeaderValue](./namevalueheadervalue/) | Representerar ett namn/värde‑par som beskriver ett rubrikvärde. |

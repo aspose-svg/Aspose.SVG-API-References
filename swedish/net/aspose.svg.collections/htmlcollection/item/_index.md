@@ -1,14 +1,14 @@
 ---
-title: HTMLCollection.Item
-second_title: Aspose.SVG för .NET API Referens
-description: HTMLCollection fast egendom. Returnerar det indexe objektet i samlingen. Om index är större än eller lika med antalet noder i listan returnerar detta null.
+title: "HTMLCollection.Item"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "HTMLCollection Item-egenskapen. Returnerar det indexte elementet i samlingen. Om index är större än eller lika med antalet noder i listan returneras null."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.collections/htmlcollection/item/
 ---
 ## HTMLCollection indexer
 
-Returnerar det index:e objektet i samlingen. Om index är större än eller lika med antalet noder i listan, returnerar detta null.
+Returnerar det index‑te objektet i samlingen. Om index är större än eller lika med antalet noder i listan, returneras null.
 
 ```csharp
 public abstract Element this[int index] { get; }
@@ -20,17 +20,15 @@ public abstract Element this[int index] { get; }
 
 ### Returvärde
 
-Returnerar element.
+Returnerar elementet.
 
-### Fastighetsvärde
+### Property Value
 
-Den[`Element`](../../../aspose.svg.dom/element/) .
+Den [`Element`](../../../aspose.svg.dom/element/).
 
 ### Se även
 
 * class [Element](../../../aspose.svg.dom/element/)
 * class [HTMLCollection](../)
-* namnutrymme [Aspose.Svg.Collections](../../htmlcollection/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

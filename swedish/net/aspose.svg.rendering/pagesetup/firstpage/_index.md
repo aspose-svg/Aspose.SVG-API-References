@@ -1,28 +1,26 @@
 ---
-title: PageSetup.FirstPage
-second_title: Aspose.SVG för .NET API Referens
-description: PageSetup fast egendom. Hämtar eller ställer in den första sidkonfigurationen.
+title: "PageSetup.FirstPage"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PageSetup FirstPage-egenskap. Hämtar eller ställer in konfigurationen för första sidan"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.rendering/pagesetup/firstpage/
 ---
 ## PageSetup.FirstPage property
 
-Hämtar eller ställer in den första sidkonfigurationen.
+Hämtar eller anger den första sidans konfiguration.
 
 ```csharp
 public Page FirstPage { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Första sidan.
+Den första sidan.
 
 ### Se även
 
 * class [Page](../../../aspose.svg.drawing/page/)
 * class [PageSetup](../)
-* namnutrymme [Aspose.Svg.Rendering](../../pagesetup/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

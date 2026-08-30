@@ -1,14 +1,14 @@
 ---
-title: IDOMImplementation.CreateDocument
-second_title: Aspose.SVG för .NET API Referens
-description: IDOMImplementation metod. Skapar ett DOMdokumentobjekt av angiven typ med dess dokumentelement.
+title: "IDOMImplementation.CreateDocument"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDOMImplementation CreateDocument method. Skapar ett DOM Document-objekt av den angivna typen med dess dokumentelement"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/idomimplementation/createdocument/
 ---
 ## IDOMImplementation.CreateDocument method
 
-Skapar ett DOM-dokumentobjekt av angiven typ med dess dokumentelement.
+Skapar ett DOM Document-objekt av den angivna typen med dess dokumentelement.
 
 ```csharp
 public Document CreateDocument(string namespaceURI, string qualifiedName, DocumentType doctype)
@@ -16,20 +16,18 @@ public Document CreateDocument(string namespaceURI, string qualifiedName, Docume
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceURI | String | Namnutrymmets URI. |
-| qualifiedName | String | Namn på den kvalificerade. |
-| doctype | DocumentType | Doktypen. |
+| namespaceURI | String | Namnrymd‑URI:n. |
+| qualifiedName | String | Namnet på den kvalificerade. |
+| doctype | DocumentType | Dokumenttypen. |
 
 ### Returvärde
 
-Returnerar dokument.
+Returnerar ett dokument.
 
 ### Se även
 
 * class [Document](../../document/)
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* namnutrymme [Aspose.Svg.Dom](../../idomimplementation/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

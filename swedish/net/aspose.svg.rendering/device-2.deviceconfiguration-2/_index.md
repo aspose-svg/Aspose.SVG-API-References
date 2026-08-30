@@ -1,12 +1,12 @@
 ---
-title: Class DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions klass. Representerar konfigurationsobjekt för enheter.
+title: "DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions klass. Representerar konfigurationsobjekt för enheter"
 type: docs
-weight: 2750
+weight: 4830
 url: /sv/net/aspose.svg.rendering/device-2.deviceconfiguration-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions> class
 
 Representerar konfigurationsobjekt för enheter.
 
@@ -18,22 +18,20 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DeviceConfiguration](deviceconfiguration/)() | Default_Constructor |
+| [DeviceConfiguration](../../aspose.svg.rendering/device-2.deviceconfiguration-2/.ctor)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PageWritingStrategy](../../aspose.svg.rendering/deviceconfiguration/pagewritingstrategy/) { get; set; } | Hämtar eller ställer in sidans skrivstrategi. |
+| [PageWritingStrategy](../../aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstrategy) { get; set; } | Hämtar eller anger sidskrivningsstrategin. |
 
 ### Se även
 
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../device-2/)
-* namnutrymme [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../)

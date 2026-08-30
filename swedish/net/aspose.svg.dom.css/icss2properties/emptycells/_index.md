@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.EmptyCells
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för tomma celler i CSS2.
+title: "ICSS2Properties.EmptyCells"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties EmptyCells egenskap. Se definitionen av empty-cells‑egenskapen i CSS2"
 type: docs
 weight: 450
 url: /sv/net/aspose.svg.dom.css/icss2properties/emptycells/
 ---
 ## ICSS2Properties.EmptyCells property
 
-Se egenskapsdefinitionen för tomma celler i CSS2.
+Se definitionen av egenskapen empty-cells i CSS2.
 
 ```csharp
 public string EmptyCells { get; set; }
@@ -16,12 +16,10 @@ public string EmptyCells { get; set; }
 
 ### Returvärde
 
-egenskapen tomma celler
+empty-cells egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

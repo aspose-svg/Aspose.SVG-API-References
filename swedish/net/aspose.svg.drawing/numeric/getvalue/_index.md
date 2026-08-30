@@ -1,7 +1,7 @@
 ---
-title: Numeric.GetValue
-second_title: Aspose.SVG för .NET API Referens
-description: Numeric metod. Hämtar enhetsvärdet.
+title: "Numeric.GetValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Numeric GetValue-metoden. Hämtar enhetsvärdet"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.drawing/numeric/getvalue/
@@ -21,14 +21,14 @@ Objektvärdet.
 ### Se även
 
 * class [Numeric](../)
-* namnutrymme [Aspose.Svg.Drawing](../../numeric/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetValue(UnitType) {#getvalue_1}
+## GetValue(*[UnitType](../../unittype/)*) {#getvalue_1}
 
-Får värdet omvandlat till det angivna[`UnitType`](../../unittype/) .
+Hämtar värdet konverterat till den angivna [`UnitType`](../../unittype/).
 
 ```csharp
 public double GetValue(UnitType unitType)
@@ -36,23 +36,21 @@ public double GetValue(UnitType unitType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| unitType | UnitType | Typ av enhet. |
+| unitType | UnitType | Typen av enheten. |
 
 ### Returvärde
 
-Returnerar värde som konverteras till angiven typ.
+Returnerar värdet som konverteras till den angivna typen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | enhetstyp |
+| ArgumentNullException | unitType |
 
 ### Se även
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* namnutrymme [Aspose.Svg.Drawing](../../numeric/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

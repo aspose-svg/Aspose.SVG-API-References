@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Quotes
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen för citat i CSS2.
+title: "ICSS2Properties.Quotes"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Quotes egenskap. Se definitionen av quotes egenskapen i CSS2"
 type: docs
-weight: 960
+weight: 990
 url: /sv/net/aspose.svg.dom.css/icss2properties/quotes/
 ---
 ## ICSS2Properties.Quotes property
 
-Se egenskapsdefinitionen för citat i CSS2.
+Se egendefinitionen för quotes i CSS2.
 
 ```csharp
 public string Quotes { get; set; }
@@ -16,12 +16,10 @@ public string Quotes { get; set; }
 
 ### Returvärde
 
-citerar egendom
+quotes egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

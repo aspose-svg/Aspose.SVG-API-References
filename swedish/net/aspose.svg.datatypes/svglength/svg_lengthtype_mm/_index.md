@@ -1,14 +1,14 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_MM
-second_title: Aspose.SVG för .NET API Referens
-description: SVGLength fält. Ett värde specificerades med hjälp av mmenheterna definierade i CSS2.
+title: "SVGLength.SVG_LENGTHTYPE_MM"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGLength SVG_LENGTHTYPE_MM-fält. Ett värde specificerades med mm-enheter som definieras i CSS2."
 type: docs
 weight: 120
 url: /sv/net/aspose.svg.datatypes/svglength/svg_lengthtype_mm/
 ---
 ## SVGLength.SVG_LENGTHTYPE_MM field
 
-Ett värde specificerades med hjälp av mm-enheterna definierade i CSS2.
+Ett värde angavs med mm-enheterna som definieras i CSS2.
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_MM;
@@ -17,7 +17,5 @@ public const ushort SVG_LENGTHTYPE_MM;
 ### Se även
 
 * class [SVGLength](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svglength/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

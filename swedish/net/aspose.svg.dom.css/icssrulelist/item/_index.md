@@ -1,14 +1,14 @@
 ---
-title: ICSSRuleList.Item
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSRuleList fast egendom. Används för att hämta en CSSregel efter metod item http//www.w3.org/TR/DOMLevel2Style/css.htmlCSSCSSRuleList. Ordningen i den här samlingen representerar ordningen för reglerna i CSSformatmallen. Om index är större än eller lika med antalet regler i listan returnerar detta null.
+title: "ICSSRuleList.Item"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSRuleList Item‑egenskap. Används för att hämta en CSS‑regel med metoden item http//www.w3.org/TR/DOM-Level-2-Style/css.htmlCSS-CSSRuleList. Ordningen i denna samling representerar ordningen på reglerna i CSS‑stilmallen. Om index är större än eller lika med antalet regler i listan returneras null."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/icssrulelist/item/
 ---
 ## ICSSRuleList indexer
 
-Används för att hämta en CSS-regel efter metod item() (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList). Ordningen i den här samlingen representerar ordningen för reglerna i CSS-formatmallen. Om index är större än eller lika med antalet regler i listan, returnerar detta null.
+Används för att hämta en CSS-regel med metoden item() (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList). Ordningen i denna samling representerar ordningen av reglerna i CSS-stilmallen. Om index är större än eller lika med antalet regler i listan returneras null.
 
 ```csharp
 public ICSSRule this[int index] { get; }
@@ -16,21 +16,19 @@ public ICSSRule this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Regelindex |
+| index | Regelindexet |
 
 ### Returvärde
 
-CSS-regelinstansen.
+CSS‑regelinstansen.
 
-### Fastighetsvärde
+### Property Value
 
-Den[`ICSSRule`](../../icssrule/) .
+Den [`ICSSRule`](../../icssrule/).
 
 ### Se även
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSRuleList](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssrulelist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

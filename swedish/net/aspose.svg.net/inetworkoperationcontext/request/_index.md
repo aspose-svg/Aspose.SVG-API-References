@@ -1,28 +1,26 @@
 ---
-title: INetworkOperationContext.Request
-second_title: Aspose.SVG för .NET API Referens
-description: INetworkOperationContext fast egendom. Hämtar eller ställer in förfrågningsmeddelandet.
+title: "INetworkOperationContext.Request"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "INetworkOperationContext Request-egenskap. Hämtar eller anger förfrågningsmeddelandet."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/inetworkoperationcontext/request/
 ---
 ## INetworkOperationContext.Request property
 
-Hämtar eller ställer in förfrågningsmeddelandet.
+Hämtar eller anger begäranmeddelandet.
 
 ```csharp
 public RequestMessage Request { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Begäran meddelande.
+Förfrågningsmeddelandet.
 
 ### Se även
 
 * class [RequestMessage](../../requestmessage/)
 * interface [INetworkOperationContext](../)
-* namnutrymme [Aspose.Svg.Net](../../inetworkoperationcontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

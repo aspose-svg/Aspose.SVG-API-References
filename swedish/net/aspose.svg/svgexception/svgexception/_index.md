@@ -1,14 +1,14 @@
 ---
-title: SVGException.SVGException
-second_title: Aspose.SVG för .NET API Referens
-description: SVGException byggare. Initierar en ny instans avSVGException class.
+title: "SVGException"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGException-konstruktor. Initierar en ny instans av klassen SVGException"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/svgexception/svgexception/
 ---
 ## SVGException constructor
 
-Initierar en ny instans av[`SVGException`](../) class.
+Initierar en ny instans av klassen [`SVGException`](../).
 
 ```csharp
 public SVGException(ushort code)
@@ -16,12 +16,10 @@ public SVGException(ushort code)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| code | UInt16 | Felkoden. |
+| kod | UInt16 | Felkoden. |
 
 ### Se även
 
 * class [SVGException](../)
-* namnutrymme [Aspose.Svg](../../svgexception/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

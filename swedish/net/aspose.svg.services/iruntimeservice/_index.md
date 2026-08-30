@@ -1,29 +1,26 @@
 ---
-title: Interface IRuntimeService
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Services.IRuntimeService gränssnitt. Den här tjänsten används för att konfigurera körtidsrelaterade egenskaper.
+title: "IRuntimeService Gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Services.IRuntimeService gränssnitt. Denna tjänst används för att konfigurera körningstidrelaterade egenskaper."
 type: docs
-weight: 3730
+weight: 5860
 url: /sv/net/aspose.svg.services/iruntimeservice/
 ---
 ## IRuntimeService interface
 
-Den här tjänsten används för att konfigurera körtidsrelaterade egenskaper.
+Denna tjänst används för att konfigurera körningstidrelaterade egenskaper.
 
 ```csharp
-public interface IRuntimeService : IService
+public interface IRuntimeService
 ```
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [JavaScriptTimeout](../../aspose.svg.services/iruntimeservice/javascripttimeout/) { get; set; } | Hämtar eller sätterTimeSpanvilket begränsar JavaScript-exekveringstiden. Om skriptet körs längre än vad som angesTimeSpan , kommer den att avbrytas. Du kan ange oändlig timeout genom att ställa inTimeSpan lika med -1 millisekund. Standardvärdet är 1 minut. |
+| [JavaScriptTimeout](../../aspose.svg.services/iruntimeservice/javascripttimeout/) { get; set; } | Hämtar eller anger TimeSpan som begränsar JavaScript‑exekveringstid. Om skriptet körs längre än den angivna TimeSpan avbryts det. Du kan ange oändlig tidsgräns genom att sätta TimeSpan till -1 millisekund. Standardvärdet är 1 minut. |
 
 ### Se även
 
-* interface [IService](../iservice/)
-* namnutrymme [Aspose.Svg.Services](../../aspose.svg.services/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

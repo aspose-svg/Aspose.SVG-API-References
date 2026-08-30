@@ -1,17 +1,17 @@
 ---
-title: DOMTokenList.Item
-second_title: Aspose.SVG för .NET API Referens
-description: DOMTokenList fast egendom. Returnerar objektet i listan med dess index eller null om index är större än eller lika med listans längd.
+title: "DOMTokenList.Item"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMTokenList Item-egenskap. Returnerar objektet i listan vid dess index eller null om index är större än eller lika med listans längd"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.collections/domtokenlist/item/
 ---
 ## DOMTokenList indexer
 
-Returnerar objektet i listan med dess index, eller null om index är större än eller lika med listans längd.
+Returnerar objektet i listan efter dess index, eller null om index är större än eller lika med listans längd.
 
 ```csharp
-public string this[ulong index] { get; }
+public string this[uint index] { get; }
 ```
 
 | Parameter | Beskrivning |
@@ -25,7 +25,5 @@ En sträng som representerar en token i listan.
 ### Se även
 
 * class [DOMTokenList](../)
-* namnutrymme [Aspose.Svg.Collections](../../domtokenlist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

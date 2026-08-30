@@ -1,14 +1,14 @@
 ---
-title: Event.CapturingPhase
-second_title: Aspose.SVG för .NET API Referens
-description: Event fält. Händelsen utvärderas för närvarande vid måletIEventTarget .
+title: "Event.CapturingPhase"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Event CapturingPhase-fält. Händelsen utvärderas för närvarande vid mål‑IEventTarget"
 type: docs
 weight: 170
 url: /sv/net/aspose.svg.dom.events/event/capturingphase/
 ---
 ## Event.CapturingPhase field
 
-Händelsen utvärderas för närvarande vid målet[`IEventTarget`](../../ieventtarget/) .
+Händelsen utvärderas för närvarande vid mål‑[`IEventTarget`](../../ieventtarget/).
 
 ```csharp
 public const ushort CapturingPhase;
@@ -17,7 +17,5 @@ public const ushort CapturingPhase;
 ### Se även
 
 * class [Event](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../event/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

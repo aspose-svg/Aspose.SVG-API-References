@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Y
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEConvolveMatrixElement fast egendom. Motsvarar attributet y på det givna filterelementet.
+title: "SVGFEConvolveMatrixElement.Y"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEConvolveMatrixElement Y-egenskap. Motsvarar attributet y på det angivna filterelementet"
 type: docs
 weight: 170
 url: /sv/net/aspose.svg.filters/svgfeconvolvematrixelement/y/
 ---
 ## SVGFEConvolveMatrixElement.Y property
 
-Motsvarar attributet 'y' på det givna 'filter'-elementet.
+Motsvarar attributet ‘y’ på det givna ‘filter’-elementet.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'y' för det givna 'filter'-elementet.
+Attributet ‘y’ för det angivna ‘filter’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEConvolveMatrixElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

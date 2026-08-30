@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.GetCurrentTime
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSVGElement metod. Returnerar den aktuella tiden i sekunder i förhållande till starttiden för det aktuella SVGdokumentfragmentet. Om getCurrentTime anropas innan dokumentets tidslinje har börjat till exempel genom att skript körs i ett scriptelement innan dokumentets SVGLoadhändelse skickas så returneras 0.
+title: "SVGSVGElement.GetCurrentTime"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSVGElement GetCurrentTime‑metod. Returnerar den aktuella tiden i sekunder relativt till starttiden för det aktuella SVG-dokumentfragmentet. Om getCurrentTime anropas innan dokumentets tidslinje har börjat, till exempel av ett skript som körs i ett script‑element innan dokumentets SVGLoad‑händelse har skickats, returneras 0."
 type: docs
 weight: 200
 url: /sv/net/aspose.svg/svgsvgelement/getcurrenttime/
 ---
 ## SVGSVGElement.GetCurrentTime method
 
-Returnerar den aktuella tiden i sekunder i förhållande till starttiden för det aktuella SVG-dokumentfragmentet. Om getCurrentTime anropas innan dokumentets tidslinje har börjat (till exempel genom att skript körs i ett 'script'-element innan dokumentets SVGLoad-händelse skickas), så returneras 0.
+Returnerar den aktuella tiden i sekunder relativt till starttiden för det aktuella SVG-dokumentfragmentet. Om getCurrentTime anropas innan dokumentets tidslinje har börjat (till exempel av skript som körs i ett ‘script’-element innan dokumentets SVGLoad‑händelse har skickats), returneras 0.
 
 ```csharp
 public float GetCurrentTime()
@@ -16,12 +16,10 @@ public float GetCurrentTime()
 
 ### Returvärde
 
-Aktuell tid i sekunder, eller 0 om dokumentets tidslinje ännu inte har börjat.
+Den aktuella tiden i sekunder, eller 0 om dokumentets tidslinje ännu inte har börjat.
 
 ### Se även
 
 * class [SVGSVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgsvgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

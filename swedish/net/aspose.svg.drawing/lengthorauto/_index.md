@@ -1,9 +1,9 @@
 ---
-title: Class LengthOrAuto
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Drawing.LengthOrAuto klass. Representerar en behållare för lagringslängd eller autoenheter..
+title: "LengthOrAuto-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Drawing.LengthOrAuto-klass. Representerar en behållare för lagring av längd eller auto-enheter"
 type: docs
-weight: 1530
+weight: 3560
 url: /sv/net/aspose.svg.drawing/lengthorauto/
 ---
 ## LengthOrAuto class
@@ -16,34 +16,32 @@ public class LengthOrAuto : Unit
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LengthOrAuto](lengthorauto/#constructor)() | Initierar en ny instans av`LengthOrAuto` klass och ställer in tillståndet till 'auto'. |
-| [LengthOrAuto](lengthorauto/#constructor_1)(Length) | Initierar en ny instans av`LengthOrAuto`klass och ställer in tillståndet till 'längd'. |
+| [LengthOrAuto](lengthorauto/#constructor)() | Initierar en ny instans av `LengthOrAuto`-klassen och sätter tillståndet till 'auto'. |
+| [LengthOrAuto](lengthorauto/#constructor_1)(*[Length](../length/)*) | Initierar en ny instans av `LengthOrAuto`-klassen och sätter tillståndet till 'lenght'. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [IsAuto](../../aspose.svg.drawing/lengthorauto/isauto/) { get; } | Får ett värde som indikerar om denna instans är i 'auto'. |
-| [Length](../../aspose.svg.drawing/lengthorauto/length/) { get; set; } | Hämtar eller ställer in längden. |
-| [UnitType](../../aspose.svg.drawing/lengthorauto/unittype/) { get; } | Hämtar enhetstypen för[`Unit`](../unit/) . |
+| [IsAuto](../../aspose.svg.drawing/lengthorauto/isauto/) { get; } | Hämtar ett värde som indikerar om denna instans är i 'auto'. |
+| [Length](../../aspose.svg.drawing/lengthorauto/length/) { get; set; } | Hämtar eller anger längden. |
+| [UnitType](../../aspose.svg.drawing/lengthorauto/unittype/) { get; } | Hämtar enhetstypen för [`Unit`](../unit/). |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Equals](../../aspose.svg.drawing/unit/equals/)(object) | Bestämmer om den angivnaObject , är lika med denna instans. |
-| override [Equals](../../aspose.svg.drawing/lengthorauto/equals/#equals)(Unit) | Bestämmer om den angivna[`Unit`](../unit/) , är lika med denna instans. |
-| override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode/)() | Returnerar en hash-kod för denna instans. |
-| [SetAuto](../../aspose.svg.drawing/lengthorauto/setauto/)() | Återställer behållaren till status "auto". |
-| override [ToString](../../aspose.svg.drawing/lengthorauto/tostring/)() | Returnerar enString som representerar denna instans. |
-| [implicit operator](../../aspose.svg.drawing/lengthorauto/op_implicit/) | Utför en implicit konvertering från[`Length`](./length/) till`LengthOrAuto` . |
+| override [Equals](../../aspose.svg.drawing/unit/equals/)(*object*) | Bestämmer om det angivna objektet är lika med den här instansen. |
+| override [Equals](../../aspose.svg.drawing/lengthorauto/equals/#equals)(*[Unit](../unit/)*) | Avgör om den angivna [`Unit`](../unit/), är lika med denna instans. |
+| override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode/)() | Returnerar en hashkod för den här instansen. |
+| [SetAuto](../../aspose.svg.drawing/lengthorauto/setauto/)() | Återställer behållaren till tillståndet 'auto'. |
+| override [ToString](../../aspose.svg.drawing/lengthorauto/tostring/)() | Returnerar en sträng som representerar den här instansen. |
+| [implicit operator](../../aspose.svg.drawing/lengthorauto/op_implicit/) | Utför en implicit konvertering från [`Length`](./length/) till `LengthOrAuto`. |
 
 ### Se även
 
 * class [Unit](../unit/)
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

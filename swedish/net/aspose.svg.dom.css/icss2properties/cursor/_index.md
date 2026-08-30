@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Cursor
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se marköregenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.Cursor"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Cursor-egenskap. Se definitionen av cursor-egenskapen i CSS2"
 type: docs
 weight: 410
 url: /sv/net/aspose.svg.dom.css/icss2properties/cursor/
 ---
 ## ICSS2Properties.Cursor property
 
-Se marköregenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen cursor i CSS2.
 
 ```csharp
 public string Cursor { get; set; }
@@ -16,12 +16,10 @@ public string Cursor { get; set; }
 
 ### Returvärde
 
-marköregenskap
+cursor-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

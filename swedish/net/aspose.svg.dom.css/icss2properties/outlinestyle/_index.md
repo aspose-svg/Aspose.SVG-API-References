@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.OutlineStyle
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen i konturstil i CSS2.
+title: "ICSS2Properties.OutlineStyle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties OutlineStyle egenskap. Se definitionen av egenskapen outline-style i CSS2"
 type: docs
-weight: 770
+weight: 800
 url: /sv/net/aspose.svg.dom.css/icss2properties/outlinestyle/
 ---
 ## ICSS2Properties.OutlineStyle property
 
-Se egenskapsdefinitionen i konturstil i CSS2.
+Se egendefinitionen för outline-style i CSS2.
 
 ```csharp
 public string OutlineStyle { get; set; }
@@ -16,12 +16,10 @@ public string OutlineStyle { get; set; }
 
 ### Returvärde
 
-egendom i konturstil
+outline-style egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Color.FromHwba
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Returnerar en ny färg med de begärda värdena för nyans vithet svärta.
+title: "Color.FromHwba"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color FromHwba metod. Returnerar en ny Color med de begärda nyans, vithet och svarthet‑värdena."
 type: docs
 weight: 100
 url: /sv/net/aspose.svg.drawing/color/fromhwba/
 ---
 ## Color.FromHwba method
 
-Returnerar en ny färg med de begärda värdena för nyans, vithet, svärta.
+Returnerar en ny Color med de begärda hue, whiteness, blackness‑värdena.
 
 ```csharp
 public static Color FromHwba(float hue, float whiteness, float blackness, float alpha)
@@ -16,19 +16,17 @@ public static Color FromHwba(float hue, float whiteness, float blackness, float 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| hue | Single | En float som representerar nyanskomponenten i färgen. |
-| whiteness | Single | En flottör som representerar färgens vithetskomponent. |
-| blackness | Single | En flottör som representerar färgens svärta komponent. |
-| alpha | Single | En float som representerar alfakomponenten i färgen. |
+| nyans | Single | Ett float som representerar nyanskomponenten i färgen. |
+| vithet | Single | Ett flyttal som representerar vithetkomponenten i färgen. |
+| svärta | Single | Ett flyttal som representerar svärtakomponenten i färgen. |
+| alfa | Single | En float som representerar alfa-komponenten i färgen. |
 
 ### Returvärde
 
-En ny instans av[`Color`](../) klass
+En ny instans av klassen [`Color`](../)
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

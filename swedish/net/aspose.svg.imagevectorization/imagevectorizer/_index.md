@@ -1,14 +1,14 @@
 ---
-title: Class ImageVectorizer
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ImageVectorization.ImageVectorizer klass. Denna ImageVectorizerklass vektoriserar rasterbilder som PNG JPG GIF BMP och etc... och returnerar SVGDocument. Under vektorisering menar vi processen att reducera bitmappar till geometriska former som består av banelement och lagras som SVG.
+title: "ImageVectorizer‑klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ImageVectorization.ImageVectorizer‑klass. Denna ImageVectorizer‑klass vektorisar rasterbilder som PNG, JPG, GIF, BMP med mera... och returnerar SVGDocument. Med vektorisering menar vi processen att reducera bitmaps till geometriska former bestående av path‑element och lagrade som SVG."
 type: docs
-weight: 2140
+weight: 4210
 url: /sv/net/aspose.svg.imagevectorization/imagevectorizer/
 ---
 ## ImageVectorizer class
 
-Denna ImageVectorizer-klass vektoriserar rasterbilder som PNG, JPG, GIF, BMP och etc... och returnerar SVGDocument. Under vektorisering menar vi processen att reducera bitmappar till geometriska former som består av banelement och lagras som SVG.
+Denna ImageVectorizer-klass vektoriserar rasterbilder som PNG, JPG, GIF, BMP med mera... och returnerar ett SVGDocument. Med vektorisering menas processen att reducera bitmappar till geometriska former bestående av banelement och lagrade som SVG.
 
 ```csharp
 public class ImageVectorizer
@@ -16,28 +16,25 @@ public class ImageVectorizer
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ImageVectorizer](imagevectorizer/#constructor)() | Initierar en ny instans av`ImageVectorizer` class. |
-| [ImageVectorizer](imagevectorizer/#constructor_1)(ImageVectorizerConfiguration) | Initierar en ny instans av`ImageVectorizer` class. |
+| [ImageVectorizer](imagevectorizer/#constructor)() | Initierar en ny instans av klassen `ImageVectorizer`. |
+| [ImageVectorizer](imagevectorizer/#constructor_1)(*[ImageVectorizerConfiguration](../imagevectorizerconfiguration/)*) | Initierar en ny instans av klassen `ImageVectorizer`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Configuration](../../aspose.svg.imagevectorization/imagevectorizer/configuration/) { get; set; } | Konfigurationen av bildvektoriseringsmetoder och alternativ |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize)(Bitmap) | Vektoriserar bitmapp. |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_1)(Stream) | Vektoriserar rasterbild från den angivna strömmen. |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_2)(string) | Vektoriserar rasterbilden från den angivna filen. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize)(*Stream*) | Vektorisar rasterbild från den angivna strömmen. |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize/#vectorize_1)(*string*) | Vektorisar rasterbild från den angivna filen. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

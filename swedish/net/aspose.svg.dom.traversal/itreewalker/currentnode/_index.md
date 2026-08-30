@@ -1,34 +1,32 @@
 ---
-title: ITreeWalker.CurrentNode
-second_title: Aspose.SVG för .NET API Referens
-description: ITreeWalker fast egendom. Noden där TreeWalker för närvarande är placerad. Ändringar av DOMträdet kan göra att den aktuella noden inte längre accepteras av TreeWalkers associerade filter. currentNode kan också uttryckligen ställas in på vilken nod som helst eller inte inom underträdet som anges av rotnoden eller skulle accepteras av filtret och whatToShowflaggor. Ytterligare korsning sker i förhållande till currentNode även om den inte är en del av den aktuella vyn genom att applicera filtren i den begärda riktningen om ingen traversal är möjlig ändras inte aktuellNode.
+title: "ITreeWalker.CurrentNode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ITreeWalker CurrentNode property. Noden där TreeWalker för närvarande är placerad. Ändringar i DOM-trädet kan göra att den aktuella noden inte längre accepteras av TreeWalkers associerade filter. currentNode kan också explicit sättas till vilken nod som helst, oavsett om den ligger inom delträdet som specificerats av rot-noden eller skulle accepteras av filtret och whatToShow-flaggorna. Ytterligare traversering sker relativt till currentNode även om den inte är en del av den aktuella vyn genom att tillämpa filtren i den begärda riktningen; om ingen traversering är möjlig ändras inte currentNode."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.traversal/itreewalker/currentnode/
 ---
 ## ITreeWalker.CurrentNode property
 
-Noden där TreeWalker för närvarande är placerad. Ändringar av DOM-trädet kan göra att den aktuella noden inte längre accepteras av TreeWalkers associerade filter. currentNode kan också uttryckligen ställas in på vilken nod som helst, eller inte inom underträdet som anges av rotnoden eller skulle accepteras av filtret och whatToShow-flaggor. Ytterligare korsning sker i förhållande till currentNode även om den inte är en del av den aktuella vyn, genom att applicera filtren i den begärda riktningen; om ingen traversal är möjlig ändras inte aktuellNode.
+Noden där TreeWalker för närvarande är placerad. Ändringar i DOM‑trädet kan göra att den aktuella noden inte längre accepteras av TreeWalkers associerade filter. currentNode kan också explicit sättas till vilken nod som helst, oavsett om den ligger inom underträdet som specificerats av rotnoden eller skulle accepteras av filtret och whatToShow‑flaggorna. Ytterligare traversering sker relativt till currentNode även om den inte är en del av den aktuella vyn, genom att tillämpa filtren i den begärda riktningen; om ingen traversering är möjlig ändras inte currentNode.
 
 ```csharp
 public Node CurrentNode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den aktuella noden.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Ökas om ett försök görs att sätta currentNode till null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Uppstår om ett försök görs att sätta currentNode till null. |
 
 ### Se även
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* namnutrymme [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

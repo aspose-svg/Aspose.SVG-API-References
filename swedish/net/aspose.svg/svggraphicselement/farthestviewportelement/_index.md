@@ -1,28 +1,26 @@
 ---
-title: SVGGraphicsElement.FarthestViewportElement
-second_title: Aspose.SVG för .NET API Referens
-description: SVGGraphicsElement fast egendom. Det mest avlägsna förfaderns svgelement. Null om det aktuella elementet är det yttersta svgelementet.
+title: "SVGGraphicsElement.FarthestViewportElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGGraphicsElement FarthestViewportElement egenskap. Det längst bortliggande förfäders‑svg‑elementet. Null om det aktuella elementet är det yttersta svg‑elementet"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/svggraphicselement/farthestviewportelement/
 ---
 ## SVGGraphicsElement.FarthestViewportElement property
 
-Det mest avlägsna förfaderns "svg"-element. Null om det aktuella elementet är det yttersta svg-elementet.
+Det längst bakligaste förfäders‑‘svg’-elementet. Null om det aktuella elementet är det yttersta svg‑elementet.
 
 ```csharp
 public SVGElement FarthestViewportElement { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Elementet längst bort.
+Det längst bortliggande viewport‑elementet.
 
 ### Se även
 
 * class [SVGElement](../../svgelement/)
 * class [SVGGraphicsElement](../)
-* namnutrymme [Aspose.Svg](../../svggraphicselement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

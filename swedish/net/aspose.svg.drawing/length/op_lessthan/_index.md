@@ -1,7 +1,7 @@
 ---
-title: Length.op_LessThan
-second_title: Aspose.SVG för .NET API Referens
-description: Length metod. Implementerar operatorn .
+title: "Length.op_LessThan"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Length op_LessThan-metoden. Implementerar operatorn"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.drawing/length/op_lessthan/
@@ -25,15 +25,13 @@ Resultatet av operatorn.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | Argument har olika typer |
+| ArgumentException | Argumenten har olika typer |
 | ArgumentNullException | Ett argument är null |
 
 ### Se även
 
 * class [Length](../)
-* namnutrymme [Aspose.Svg.Drawing](../../length/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

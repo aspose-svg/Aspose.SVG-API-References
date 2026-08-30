@@ -1,14 +1,14 @@
 ---
-title: Unit.FromHertz
-second_title: Aspose.SVG för .NET API Referens
-description: Unit metod. Returnerar enFrequency objekt som representeras i hertz.
+title: "Unit.FromHertz"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Unit FromHertz‑metod. Returnerar ett Frequency‑objekt som representeras i hertz."
 type: docs
 weight: 110
 url: /sv/net/aspose.svg.drawing/unit/fromhertz/
 ---
 ## Unit.FromHertz method
 
-Returnerar en[`Frequency`](../../frequency/) objekt som representeras i hertz.
+Returnerar ett [`Frequency`](../../frequency/) objekt som representeras i hertz.
 
 ```csharp
 public static Frequency FromHertz(double value)
@@ -20,13 +20,11 @@ public static Frequency FromHertz(double value)
 
 ### Returvärde
 
-Returnerar a[`Frequency`](../../frequency/) objekt.
+Returnerar ett [`Frequency`](../../frequency/) objekt.
 
 ### Se även
 
 * class [Frequency](../../frequency/)
 * class [Unit](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

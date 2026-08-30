@@ -1,7 +1,7 @@
 ---
-title: Document.Origin
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Hämtar dokumentets ursprung.
+title: "Document.Origin"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document Origin‑egenskapen. Hämtar dokumentets ursprung"
 type: docs
 weight: 200
 url: /sv/net/aspose.svg.dom/document/origin/
@@ -14,14 +14,12 @@ Hämtar dokumentets ursprung.
 public string Origin { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Ursprunget.
 
 ### Se även
 
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

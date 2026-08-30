@@ -1,14 +1,14 @@
 ---
-title: ImageTraceSmoother.ImageTraceSmoother
-second_title: Aspose.SVG för .NET API Referens
-description: ImageTraceSmoother byggare. Initierar en ny instans avImageTraceSmoother class.
+title: "ImageTraceSmoother"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageTraceSmoother konstruktor. Initierar en ny instans av klassen ImageTraceSmoother"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.imagevectorization/imagetracesmoother/imagetracesmoother/
 ---
 ## ImageTraceSmoother() {#constructor}
 
-Initierar en ny instans av[`ImageTraceSmoother`](../) class.
+Initierar en ny instans av klassen [`ImageTraceSmoother`](../).
 
 ```csharp
 public ImageTraceSmoother()
@@ -17,14 +17,14 @@ public ImageTraceSmoother()
 ### Se även
 
 * class [ImageTraceSmoother](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## ImageTraceSmoother(int) {#constructor_1}
+## ImageTraceSmoother(*int*) {#constructor_1}
 
-Initierar en ny instans av[`ImageTraceSmoother`](../) class.
+Initierar en ny instans av klassen [`ImageTraceSmoother`](../).
 
 ```csharp
 public ImageTraceSmoother(int severity)
@@ -32,12 +32,10 @@ public ImageTraceSmoother(int severity)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| severity | Int32 | Allvarligheten |
+| allvarlighetsgrad | Int32 | Allvarlighetsgraden |
 
 ### Se även
 
 * class [ImageTraceSmoother](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagetracesmoother/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

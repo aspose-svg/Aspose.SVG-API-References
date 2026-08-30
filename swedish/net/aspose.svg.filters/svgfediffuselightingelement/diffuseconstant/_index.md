@@ -1,28 +1,26 @@
 ---
-title: SVGFEDiffuseLightingElement.DiffuseConstant
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEDiffuseLightingElement fast egendom. Motsvarar attributet diffuseConstant på det givna feDiffuseLightingelementet.
+title: "SVGFEDiffuseLightingElement.DiffuseConstant"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEDiffuseLightingElement DiffuseConstant-egenskap. Motsvarar attributet diffuseConstant på det angivna feDiffuseLighting-elementet."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.filters/svgfediffuselightingelement/diffuseconstant/
 ---
 ## SVGFEDiffuseLightingElement.DiffuseConstant property
 
-Motsvarar attributet 'diffuseConstant' på det givna 'feDiffuseLighting'-elementet.
+Motsvarar attributet ‘diffuseConstant’ på det givna ‘feDiffuseLighting’-elementet.
 
 ```csharp
 public SVGAnimatedNumber DiffuseConstant { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'diffuseConstant' för det givna 'feDiffuseLighting'-elementet.
+Attributet ‘diffuseConstant’ för det angivna ‘feDiffuseLighting’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEDiffuseLightingElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfediffuselightingelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

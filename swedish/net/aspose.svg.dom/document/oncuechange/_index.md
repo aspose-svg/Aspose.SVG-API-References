@@ -1,14 +1,14 @@
 ---
-title: Document.OnCueChange
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnCueChangehändelse.
+title: "Document.OnCueChange"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnCueChange‑händelse. Hämtar eller anger händelsehanterare för OnCueChange‑händelse"
 type: docs
 weight: 350
 url: /sv/net/aspose.svg.dom/document/oncuechange/
 ---
 ## Document.OnCueChange event
 
-Hämtar eller ställer in händelsehanterare för OnCueChange-händelse.
+Hämtar eller anger händelsehanterare för OnCueChange‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnCueChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnCueChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

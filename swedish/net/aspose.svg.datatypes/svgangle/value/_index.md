@@ -1,33 +1,31 @@
 ---
-title: SVGAngle.Value
-second_title: Aspose.SVG för .NET API Referens
-description: SVGAngle fast egendom. Vinkelvärdet som ett flyttalsvärde i grader. Om du ställer in det här attributet kommer valueInSpecifiedUnits och valueAsString att uppdateras automatiskt för att återspegla denna inställning.
+title: "SVGAngle.Value"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGAngle Value‑egenskapen. Vinkelvärdet som ett flyttal i grader. Att sätta detta attribut kommer att göra att valueInSpecifiedUnits och valueAsString uppdateras automatiskt för att återspegla denna inställning."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.datatypes/svgangle/value/
 ---
 ## SVGAngle.Value property
 
-Vinkelvärdet som ett flyttalsvärde, i grader. Om du ställer in det här attributet kommer valueInSpecifiedUnits och valueAsString att uppdateras automatiskt för att återspegla denna inställning.
+Vinkelvärdet som ett flyttal, i grader. Att sätta detta attribut kommer att automatiskt uppdatera valueInSpecifiedUnits och valueAsString för att återspegla denna inställning.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Värdet.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Höjs när vinkeln motsvarar ett skrivskyddat attribut eller när själva objektet är skrivskyddat. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) Uppstår när vinkeln motsvarar ett skrivskyddat attribut eller när själva objektet är skrivskyddat. |
 
 ### Se även
 
 * class [SVGAngle](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgangle/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Unit.ToString
-second_title: Aspose.SVG för .NET API Referens
-description: Unit metod. Returnerar enString som representerar denna instans.
+title: "Unit.ToString"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Unit ToString metod. Returnerar en String som representerar detta objekt"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.drawing/unit/tostring/
 ---
 ## Unit.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en sträng som representerar den här instansen.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar den här instansen.
 
 ### Se även
 
 * class [Unit](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,9 +1,9 @@
 ---
-title: Class License
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.License klass. Tillhandahåller metoder för att licensiera komponenten.
+title: "License-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.License-klass. Tillhandahåller metoder för att licensiera komponenten."
 type: docs
-weight: 2190
+weight: 4260
 url: /sv/net/aspose.svg/license/
 ---
 ## License class
@@ -16,20 +16,20 @@ public class License
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [License](license/)() | Initierar en ny instans av den här klassen. |
+| [License](license/)() | Initierar en ny instans av denna klass. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SetLicense](../../aspose.svg/license/setlicense/#setlicense)(Stream) | Licensierar komponenten. |
-| [SetLicense](../../aspose.svg/license/setlicense/#setlicense_1)(string) | Licensierar komponenten. |
+| [SetLicense](../../aspose.svg/license/setlicense/#setlicense)(*Stream*) | Licensierar komponenten. |
+| [SetLicense](../../aspose.svg/license/setlicense/#setlicense_1)(*string*) | Licensierar komponenten. |
 
-### Exempel
+## Exempel
 
-I det här exemplet kommer ett försök att göras att hitta en licensfil med namnet MyLicense.lic i mappen som innehåller  komponenten, i mappen som innehåller den anropande sammansättningen, i mappen för postsammansättningen och sedan i de inbäddade resurserna för den anropande sammansättningen.
+I det här exemplet kommer ett försök att hitta en licensfil med namnet MyLicense.lic i mappen som innehåller komponenten, i mappen som innehåller den anropande sammansättningen, i mappen för startsammanställningen och sedan i de inbäddade resurserna för den anropande sammansättningen.
 
 ```csharp
 [C#]
@@ -38,7 +38,7 @@ License license = new License();
 license.SetLicense("MyLicense.lic");
 ```
 
-komponentjarfilen:
+komponent‑jar‑filen:
 
 ```csharp
 License license = new License();
@@ -47,7 +47,5 @@ license.setLicense("MyLicense.lic");
 
 ### Se även
 
-* namnutrymme [Aspose.Svg](../../aspose.svg/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

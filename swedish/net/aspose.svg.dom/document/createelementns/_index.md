@@ -1,14 +1,14 @@
 ---
-title: Document.CreateElementNS
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Skapar ett element av det angivna kvalificerade namnet och namnutrymmets URI.
+title: "Document.CreateElementNS"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document CreateElementNS‑metoden. Skapar ett element med det angivna kvalificerade namnet och namnrymd‑URI:n."
 type: docs
 weight: 860
 url: /sv/net/aspose.svg.dom/document/createelementns/
 ---
 ## Document.CreateElementNS method
 
-Skapar ett element av det angivna kvalificerade namnet och namnutrymmets URI.
+Skapar ett element med det angivna kvalificerade namnet och namnrymdens URI.
 
 ```csharp
 public Element CreateElementNS(string namespaceURI, string qualifiedName)
@@ -16,18 +16,16 @@ public Element CreateElementNS(string namespaceURI, string qualifiedName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceURI | String | Namnutrymmets URI. |
-| qualifiedName | String | Namn på den kvalificerade. |
+| namespaceURI | String | Namnrymd‑URI:n. |
+| qualifiedName | String | Namnet på den kvalificerade. |
 
 ### Returvärde
 
-Den[`Element`](../../element/) .
+Det [`Element`](../../element/).
 
 ### Se även
 
 * class [Element](../../element/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

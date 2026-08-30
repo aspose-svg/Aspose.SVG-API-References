@@ -1,14 +1,14 @@
 ---
-title: ICSSImportRule.Href
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSImportRule fast egendom. Platsen för formatmallen som ska importeras. Attributet kommer inte att innehålla url...specifikationen runt URI.
+title: "ICSSImportRule.Href"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSImportRule Href egenskap. Platsen för den stilark som ska importeras. Attributet kommer inte att innehålla url-specifieraren runt URI:n"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/icssimportrule/href/
 ---
 ## ICSSImportRule.Href property
 
-Platsen för formatmallen som ska importeras. Attributet kommer inte att innehålla "url(...)"-specifikationen runt URI.
+Platsen för den stilmall som ska importeras. Attributet kommer inte att innehålla "url(...)"-specifieraren runt URI:n.
 
 ```csharp
 public string Href { get; }
@@ -17,7 +17,5 @@ public string Href { get; }
 ### Se även
 
 * interface [ICSSImportRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssimportrule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

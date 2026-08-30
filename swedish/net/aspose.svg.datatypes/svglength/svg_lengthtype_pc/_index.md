@@ -1,14 +1,14 @@
 ---
-title: SVGLength.SVG_LENGTHTYPE_PC
-second_title: Aspose.SVG för .NET API Referens
-description: SVGLength fält. Ett värde specificerades med hjälp av pcenheterna definierade i CSS2.
+title: "SVGLength.SVG_LENGTHTYPE_PC"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGLength SVG_LENGTHTYPE_PC-fält. Ett värde specificerades med pc-enheter som definieras i CSS2."
 type: docs
 weight: 140
 url: /sv/net/aspose.svg.datatypes/svglength/svg_lengthtype_pc/
 ---
 ## SVGLength.SVG_LENGTHTYPE_PC field
 
-Ett värde specificerades med hjälp av pc-enheterna definierade i CSS2.
+Ett värde angavs med pc-enheterna som definieras i CSS2.
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_PC;
@@ -17,7 +17,5 @@ public const ushort SVG_LENGTHTYPE_PC;
 ### Se även
 
 * class [SVGLength](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svglength/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

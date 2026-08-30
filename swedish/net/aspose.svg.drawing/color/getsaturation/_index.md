@@ -1,7 +1,7 @@
 ---
-title: Color.GetSaturation
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Returnerar en mättnad av färgen.
+title: "Color.GetSaturation"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color GetSaturation-metoden. Returnerar en mättnad av Color"
 type: docs
 weight: 350
 url: /sv/net/aspose.svg.drawing/color/getsaturation/
@@ -16,12 +16,10 @@ public float GetSaturation()
 
 ### Returvärde
 
-En färgmättnad.
+En mättnad av Color.
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,27 @@
 ---
-title: CSSValue.CSSText
-second_title: Aspose.SVG för .NET API Referens
-description: CSSValue fast egendom. En strängrepresentation av det aktuella värdet.
+title: "CSSValue.CSSText"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSValue CSSText-egenskapen. CSSText-egenskapen i CSSValue-gränssnittet representerar det aktuella beräknade CSS-egenskapsvärdet"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/cssvalue/csstext/
 ---
 ## CSSValue.CSSText property
 
-En strängrepresentation av det aktuella värdet.
+CSSText-egenskapen i [`CSSValue`](../)-gränssnittet representerar det aktuella beräknade CSS-egenskapsvärdet.
+
+Obs: Denna egenskap var en del av ett försök att skapa en typad CSS-objektmodell. Försöket har övergivits, och de flesta webbläsare implementerar det inte.
 
 ```csharp
 public abstract string CSSText { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-CSS-texten.
+En DOMString som representerar det aktuella CSS-egenskapsvärdet.
 
 ### Se även
 
 * class [CSSValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssvalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

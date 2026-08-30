@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Seed
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFETurbulenceElement fast egendom. Motsvarar attributet seed på det givna feTurbulenceelementet.
+title: "SVGFETurbulenceElement.Seed"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFETurbulenceElement Seed egenskap. Motsvarar attributet seed på det givna feTurbulence-elementet"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.filters/svgfeturbulenceelement/seed/
 ---
 ## SVGFETurbulenceElement.Seed property
 
-Motsvarar attributet 'seed' på det givna 'feTurbulence'-elementet.
+Motsvarar attributet ‘seed’ på det angivna ‘feTurbulence’-elementet.
 
 ```csharp
 public SVGAnimatedNumber Seed { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'seed' för det givna 'feTurbulence'-elementet.
+Attributet ‘seed’ på det givna ‘feTurbulence’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFETurbulenceElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGTextPositioningElement.Dy
-second_title: Aspose.SVG för .NET API Referens
-description: SVGTextPositioningElement fast egendom. Motsvarar attributet dy på det givna elementet.
+title: "SVGTextPositioningElement.Dy"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGTextPositioningElement Dy-egenskap. Motsvarar attributet dy på det angivna elementet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/svgtextpositioningelement/dy/
 ---
 ## SVGTextPositioningElement.Dy property
 
-Motsvarar attributet 'dy' på det givna elementet.
+Motsvarar attributet ‘dy’ på det angivna elementet.
 
 ```csharp
 public SVGAnimatedLengthList Dy { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'dy' för det givna elementet.
+Attributet ‘dy’ på det angivna elementet.
 
 ### Se även
 
 * class [SVGAnimatedLengthList](../../../aspose.svg.datatypes/svganimatedlengthlist/)
 * class [SVGTextPositioningElement](../)
-* namnutrymme [Aspose.Svg](../../svgtextpositioningelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

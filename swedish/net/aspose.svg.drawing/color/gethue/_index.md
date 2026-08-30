@@ -1,7 +1,7 @@
 ---
-title: Color.GetHue
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Returnerar en nyans av färgen.
+title: "Color.GetHue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color GetHue method. Returnerar en nyans för Color"
 type: docs
 weight: 330
 url: /sv/net/aspose.svg.drawing/color/gethue/
@@ -16,12 +16,10 @@ public float GetHue()
 
 ### Returvärde
 
-En nyans av färgen.
+En nyans för Color.
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

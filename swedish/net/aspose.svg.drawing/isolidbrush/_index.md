@@ -1,14 +1,14 @@
 ---
-title: Interface ISolidBrush
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Drawing.ISolidBrush gränssnitt. Definierar borstgränssnittet för en enda färg
+title: "ISolidBrush‑interface"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Drawing.ISolidBrush interface. Definierar penselgränssnitt för en enda färg"
 type: docs
-weight: 1480
+weight: 3510
 url: /sv/net/aspose.svg.drawing/isolidbrush/
 ---
 ## ISolidBrush interface
 
-Definierar borstgränssnittet för en enda färg
+Definierar penselgränssnitt för en enda färg
 
 ```csharp
 public interface ISolidBrush : IBrush
@@ -16,14 +16,12 @@ public interface ISolidBrush : IBrush
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Color](../../aspose.svg.drawing/isolidbrush/color/) { get; } | Få färg på borsten. |
+| [Color](../../aspose.svg.drawing/isolidbrush/color/) { get; } | Hämta färgen på penseln. |
 
 ### Se även
 
 * interface [IBrush](../ibrush/)
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

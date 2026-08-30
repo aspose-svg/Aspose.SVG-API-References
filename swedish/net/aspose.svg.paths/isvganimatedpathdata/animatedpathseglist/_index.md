@@ -1,28 +1,26 @@
 ---
-title: ISVGAnimatedPathData.AnimatedPathSegList
-second_title: Aspose.SVG för .NET API Referens
-description: ISVGAnimatedPathData fast egendom. Ger tillgång till det aktuella animerade innehållet i dattributet i en form som matchar en för en med SVGs syntax. Om det givna attributet eller egenskapen animeras innehåller det aktuella animerade värdet för attributet eller egenskapen och både själva objektet och dess innehåll är skrivskyddade. Om det givna attributet eller egenskapen för närvarande inte animeras innehåller samma värde som pathSegList.
+title: "ISVGAnimatedPathData.AnimatedPathSegList"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ISVGAnimatedPathData AnimatedPathSegList egenskap. Tillhandahåller åtkomst till de aktuella animerade innehållen för d-attributet i ett format som matchar en‑till‑en med SVG:s syntax. Om det angivna attributet eller egenskapen är under animation innehåller det det aktuella animerade värdet för attributet eller egenskapen och både objektet självt och dess innehåll är skrivskyddade. Om det angivna attributet eller egenskapen för närvarande inte är under animation innehåller det samma värde som pathSegList."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.paths/isvganimatedpathdata/animatedpathseglist/
 ---
 ## ISVGAnimatedPathData.AnimatedPathSegList property
 
-Ger tillgång till det aktuella animerade innehållet i 'd'-attributet i en form som matchar en för en med SVG:s syntax. Om det givna attributet eller egenskapen animeras, innehåller det aktuella animerade värdet för attributet eller egenskapen, och både själva objektet och dess innehåll är skrivskyddade. Om det givna attributet eller egenskapen för närvarande inte animeras, innehåller samma värde som pathSegList.
+Tillhandahåller åtkomst till det aktuella animerade innehållet i ‘d’-attributet i ett format som matchar en‑till‑en med SVG:s syntax. Om det angivna attributet eller egenskapen är under animation, innehåller det det aktuella animerade värdet för attributet eller egenskapen, och både objektet självt och dess innehåll är skrivskyddade. Om det angivna attributet eller egenskapen för närvarande inte är animerad, innehåller det samma värde som pathSegList.
 
 ```csharp
 public SVGPathSegList AnimatedPathSegList { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den animerade sökvägssegmentlistan.
+Den animerade path segment-listan.
 
 ### Se även
 
 * class [SVGPathSegList](../../svgpathseglist/)
 * interface [ISVGAnimatedPathData](../)
-* namnutrymme [Aspose.Svg.Paths](../../isvganimatedpathdata/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

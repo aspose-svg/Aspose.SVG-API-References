@@ -1,7 +1,7 @@
 ---
-title: SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR_BURN
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEBlendElement fält. Motsvarar värdet color_burn.
+title: "SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR_BURN"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEBlendElement SVG_FEBLEND_MODE_COLOR_BURN-fält. Motsvarar värdet color_burn"
 type: docs
 weight: 100
 url: /sv/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_color_burn/
@@ -17,7 +17,5 @@ public const ushort SVG_FEBLEND_MODE_COLOR_BURN;
 ### Se även
 
 * class [SVGFEBlendElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeblendelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

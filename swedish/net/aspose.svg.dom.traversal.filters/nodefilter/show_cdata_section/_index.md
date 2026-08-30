@@ -1,7 +1,7 @@
 ---
-title: NodeFilter.SHOW_CDATA_SECTION
-second_title: Aspose.SVG för .NET API Referens
-description: NodeFilter fält. Visa CDATASectionnoder.
+title: "NodeFilter.SHOW_CDATA_SECTION"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "NodeFilter SHOW_CDATA_SECTION-fält. Visa CDATASection-noder"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.dom.traversal.filters/nodefilter/show_cdata_section/
@@ -17,7 +17,5 @@ public const long SHOW_CDATA_SECTION;
 ### Se även
 
 * class [NodeFilter](../)
-* namnutrymme [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

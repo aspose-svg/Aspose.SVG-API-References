@@ -1,14 +1,14 @@
 ---
-title: Class MessageHandlerCollection
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.MessageHandlerCollection klass. Representerar samling avMessageHandler .
+title: "MessageHandlerCollection-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.MessageHandlerCollection-klass. Representerar en samling av MessageHandler."
 type: docs
-weight: 2350
+weight: 4420
 url: /sv/net/aspose.svg.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class
 
-Representerar samling av[`MessageHandler`](../messagehandler/) .
+Representerar en samling av [`MessageHandler`](../messagehandler/).
 
 ```csharp
 public class MessageHandlerCollection : Collection<MessageHandler>
@@ -16,14 +16,20 @@ public class MessageHandlerCollection : Collection<MessageHandler>
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [MessageHandlerCollection](messagehandlercollection/)() | Default_Constructor |
+| [MessageHandlerCollection](messagehandlercollection/)() | Standardkonstruktorn. |
+
+## Egenskaper
+
+| Namn | Beskrivning |
+| --- | --- |
+| [Count](../../system.collections.objectmodel/collection-1/count/) { get; } |  |
+| [Item](../../system.collections.objectmodel/collection-1/item/) { get; set; } |  |
+| [Items](../../system.collections.objectmodel/collection-1/items/) { get; } |  |
 
 ### Se även
 
 * class [MessageHandler](../messagehandler/)
-* namnutrymme [Aspose.Svg.Net](../../aspose.svg.net/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

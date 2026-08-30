@@ -1,20 +1,20 @@
 ---
-title: Document.Doctype
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Dokumenttypsdeklarationen som är kopplad till detta dokument.
+title: "Document.Doctype"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document Doctype‑egenskap. Dokumenttypdeklarationen som är associerad med detta dokument."
 type: docs
 weight: 90
 url: /sv/net/aspose.svg.dom/document/doctype/
 ---
 ## Document.Doctype property
 
-Dokumenttypsdeklarationen som är kopplad till detta dokument.
+Dokumenttypdeklarationen som är associerad med detta dokument.
 
 ```csharp
 public DocumentType Doctype { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Dokumenttypen.
 
@@ -22,7 +22,5 @@ Dokumenttypen.
 
 * class [DocumentType](../../documenttype/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

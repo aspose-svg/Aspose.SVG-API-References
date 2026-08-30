@@ -1,7 +1,7 @@
 ---
-title: SVGAngle.SVG_ANGLETYPE_GRAD
-second_title: Aspose.SVG för .NET API Referens
-description: SVGAngle fält. Enhetstypen är radianer.
+title: "SVGAngle.SVG_ANGLETYPE_GRAD"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGAngle SVG_ANGLETYPE_GRAD‑fält. Enhetstypen är radianer."
 type: docs
 weight: 90
 url: /sv/net/aspose.svg.datatypes/svgangle/svg_angletype_grad/
@@ -17,7 +17,5 @@ public const ushort SVG_ANGLETYPE_GRAD;
 ### Se även
 
 * class [SVGAngle](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgangle/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.PlayDuring
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se definitionen av egenskapen playunder i CSS2.
+title: "ICSS2Properties.PlayDuring"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties PlayDuring egenskap. Se definitionen av egenskapen play-during i CSS2"
 type: docs
-weight: 940
+weight: 970
 url: /sv/net/aspose.svg.dom.css/icss2properties/playduring/
 ---
 ## ICSS2Properties.PlayDuring property
 
-Se definitionen av egenskapen play-under i CSS2.
+Se egendefinitionen för play-during i CSS2.
 
 ```csharp
 public string PlayDuring { get; set; }
@@ -16,12 +16,10 @@ public string PlayDuring { get; set; }
 
 ### Returvärde
 
-lek-under fastighet
+play-during egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

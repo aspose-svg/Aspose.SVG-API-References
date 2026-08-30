@@ -1,14 +1,14 @@
 ---
-title: IViewCSS.GetComputedStyle
-second_title: Aspose.SVG för .NET API Referens
-description: IViewCSS metod. Denna metod används för att få den beräknade stilen som den definieras i CSS2.
+title: "IViewCSS.GetComputedStyle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IViewCSS GetComputedStyle method. Denna metod används för att hämta den beräknade stilen enligt definitionen i CSS2."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/iviewcss/getcomputedstyle/
 ---
-## GetComputedStyle(Element) {#getcomputedstyle}
+## GetComputedStyle(*[Element](../../../aspose.svg.dom/element/)*) {#getcomputedstyle}
 
-Denna metod används för att få den beräknade stilen som den definieras i CSS2.
+Denna metod används för att hämta den beräknade stilen enligt definitionen i CSS2.
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element)
@@ -16,7 +16,7 @@ public ICSSStyleDeclaration GetComputedStyle(Element element)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| element | Element | Elementet vars stil ska beräknas. Denna parameter kan inte vara null. |
+| element | Element | Elementet vars stil ska beräknas. Denna parameter får inte vara null. |
 
 ### Returvärde
 
@@ -27,14 +27,14 @@ Den beräknade stilen
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../iviewcss/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## GetComputedStyle(Element, string) {#getcomputedstyle_1}
+## GetComputedStyle(*[Element](../../../aspose.svg.dom/element/), string*) {#getcomputedstyle_1}
 
-Denna metod används för att få den beräknade stilen som den definieras i CSS2.
+Denna metod används för att hämta den beräknade stilen enligt definitionen i CSS2.
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoElement)
@@ -42,8 +42,8 @@ public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoEleme
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| element | Element | Elementet vars stil ska beräknas. Denna parameter kan inte vara null. |
-| pseudoElement | String | Pseudoelementet. |
+| element | Element | Elementet vars stil ska beräknas. Denna parameter får inte vara null. |
+| pseudoElement | String | Pseudo-elementet. |
 
 ### Returvärde
 
@@ -54,7 +54,5 @@ Den beräknade stilen
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.svg.dom/element/)
 * interface [IViewCSS](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../iviewcss/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

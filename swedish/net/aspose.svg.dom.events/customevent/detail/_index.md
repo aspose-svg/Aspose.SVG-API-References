@@ -1,27 +1,25 @@
 ---
-title: CustomEvent.Detail
-second_title: Aspose.SVG för .NET API Referens
-description: CustomEvent fast egendom. Hämtar anpassade data.
+title: "CustomEvent.Detail"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CustomEvent Detail-egenskap. Hämtar den anpassade datan."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.events/customevent/detail/
 ---
 ## CustomEvent.Detail property
 
-Hämtar anpassade data.
+Hämtar den anpassade datan.
 
 ```csharp
 public object Detail { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Detaljen.
 
 ### Se även
 
 * class [CustomEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../customevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

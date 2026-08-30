@@ -1,14 +1,14 @@
 ---
-title: IXPathResult.NumberValue
-second_title: Aspose.SVG för .NET API Referens
-description: IXPathResult fast egendom. Värdet för detta talresultat.
+title: "IXPathResult.NumberValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IXPathResult NumberValue‑egenskap. Värdet av detta talresultat"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.xpath/ixpathresult/numbervalue/
 ---
 ## IXPathResult.NumberValue property
 
-Värdet för detta talresultat.
+Värdet för detta numeriska resultat.
 
 ```csharp
 public double NumberValue { get; }
@@ -16,14 +16,12 @@ public double NumberValue { get; }
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: höjt om`resultatTyp` är inte `siffra` typ. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: uppstår om `resultType` inte är av typen `Number`. |
 
 ### Se även
 
 * interface [IXPathResult](../)
-* namnutrymme [Aspose.Svg.Dom.XPath](../../ixpathresult/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.XPath](../../../aspose.svg.dom.xpath/)
+* assembly [Aspose.SVG](../../../)

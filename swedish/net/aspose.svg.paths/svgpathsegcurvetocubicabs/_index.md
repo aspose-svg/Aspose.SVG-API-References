@@ -1,14 +1,14 @@
 ---
-title: Class SVGPathSegCurvetoCubicAbs
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Paths.SVGPathSegCurvetoCubicAbs klass. SVGPathSegCurvetoCubicAbsgränssnittet motsvarar ett absolut cubic Bézier curveto C sökvägsdatakommando.
+title: "SVGPathSegCurvetoCubicAbs-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Paths.SVGPathSegCurvetoCubicAbs class. SVGPathSegCurvetoCubicAbs-gränssnittet motsvarar ett absolut kubiskt Bézier curveto C-sökvägsdatakommand."
 type: docs
-weight: 2530
+weight: 4600
 url: /sv/net/aspose.svg.paths/svgpathsegcurvetocubicabs/
 ---
 ## SVGPathSegCurvetoCubicAbs class
 
-SVGPathSegCurvetoCubicAbs-gränssnittet motsvarar ett "absolut cubic Bézier curveto" (C) sökvägsdatakommando.
+SVGPathSegCurvetoCubicAbs-gränssnittet motsvarar ett "absolut kubiskt Bézier curveto" (C) banadata-kommando.
 
 ```csharp
 public class SVGPathSegCurvetoCubicAbs : SVGPathSeg
@@ -16,28 +16,26 @@ public class SVGPathSegCurvetoCubicAbs : SVGPathSeg
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Typen av sökvägssegmentet som specificeras av en av konstanterna som definieras i detta gränssnitt. |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Typen av sökvägssegmentet, specificerad av motsvarande ett teckens kommandonamn. |
-| [X](../../aspose.svg.paths/svgpathsegcurvetocubicabs/x/) { get; set; } | Den absoluta X-koordinaten för slutpunkten för detta vägsegment. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Typen av segmentet enligt en av de konstanter som definieras på detta gränssnitt. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Typen av segmentet, specificerad av motsvarande enkars kommandonamn. |
+| [X](../../aspose.svg.paths/svgpathsegcurvetocubicabs/x/) { get; set; } | Den absoluta X-koordinaten för slutpunkten av detta segment. |
 | [X1](../../aspose.svg.paths/svgpathsegcurvetocubicabs/x1/) { get; set; } | Den absoluta X-koordinaten för den första kontrollpunkten. |
 | [X2](../../aspose.svg.paths/svgpathsegcurvetocubicabs/x2/) { get; set; } | Den absoluta X-koordinaten för den andra kontrollpunkten. |
-| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicabs/y/) { get; set; } | Den absoluta Y-koordinaten för slutpunkten för detta vägsegment. |
+| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicabs/y/) { get; set; } | Den absoluta Y-koordinaten för slutpunkten av detta segment. |
 | [Y1](../../aspose.svg.paths/svgpathsegcurvetocubicabs/y1/) { get; set; } | Den absoluta Y-koordinaten för den första kontrollpunkten. |
 | [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicabs/y2/) { get; set; } | Den absoluta Y-koordinaten för den andra kontrollpunkten. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
 
 ### Se även
 
 * class [SVGPathSeg](../svgpathseg/)
-* namnutrymme [Aspose.Svg.Paths](../../aspose.svg.paths/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Paths](../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../)

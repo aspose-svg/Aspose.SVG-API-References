@@ -1,20 +1,20 @@
 ---
-title: SVGPolylineElement.AnimatedPoints
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPolylineElement fast egendom. Ger tillgång till det aktuella animerade innehållet i pointsattributet. Om det givna attributet eller egenskapen animeras innehåller det aktuella animerade värdet för attributet eller egenskapen. Om det givna attributet eller egenskapen för närvarande inte animeras innehåller samma värde som points.
+title: "SVGPolylineElement.AnimatedPoints"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPolylineElement AnimatedPoints‑egenskap. Ger åtkomst till det aktuella animerade innehållet i points‑attributet. Om det angivna attributet eller egenskapen är animerad innehåller den det aktuella animerade värdet för attributet eller egenskapen. Om det angivna attributet eller egenskapen för närvarande inte är animerad innehåller den samma värde som points."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/svgpolylineelement/animatedpoints/
 ---
 ## SVGPolylineElement.AnimatedPoints property
 
-Ger tillgång till det aktuella animerade innehållet i "points"-attributet. Om det givna attributet eller egenskapen animeras, innehåller det aktuella animerade värdet för attributet eller egenskapen. Om det givna attributet eller egenskapen för närvarande inte animeras, innehåller samma värde som points.
+Tillhandahåller åtkomst till det aktuella animerade innehållet i attributet ‘points’. Om det angivna attributet eller egenskapen är animerad, innehåller det det aktuella animerade värdet för attributet eller egenskapen. Om det angivna attributet eller egenskapen för närvarande inte är animerad, innehåller det samma värde som points.
 
 ```csharp
 public SVGPointList AnimatedPoints { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De animerade punkterna.
 
@@ -22,7 +22,5 @@ De animerade punkterna.
 
 * class [SVGPointList](../../../aspose.svg.datatypes/svgpointlist/)
 * class [SVGPolylineElement](../)
-* namnutrymme [Aspose.Svg](../../svgpolylineelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

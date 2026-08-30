@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizer.Optimize
-second_title: Aspose.SVG för .NET API Referens
-description: SVGOptimizer metod. OptimerarSVGDocument genom att använda en uppsättning standardoptimeringsalternativ.
+title: "SVGOptimizer.Optimize"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGOptimizer Optimize metod. Optimerar SVGDocument genom att tillämpa en uppsättning standardoptimeringsalternativ."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.toolkit.optimizers/svgoptimizer/optimize/
 ---
-## Optimize(SVGDocument) {#optimize}
+## Optimize(*[SVGDocument](../../../aspose.svg/svgdocument/)*) {#optimize}
 
-Optimerar[`SVGDocument`](../../../aspose.svg/svgdocument/) genom att använda en uppsättning standardoptimeringsalternativ.
+Optimerar [`SVGDocument`](../../../aspose.svg/svgdocument/) genom att tillämpa en uppsättning standardoptimeringsalternativ.
 
 ```csharp
 public static void Optimize(SVGDocument document)
@@ -16,20 +16,20 @@ public static void Optimize(SVGDocument document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | SVGDocument | Förekomsten av SVGDocument. |
+| dokument | SVGDocument | Instansen av SVGDocument. |
 
 ### Se även
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SVGOptimizer](../)
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizer/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## Optimize(SVGDocument, SVGOptimizationOptions) {#optimize_1}
+## Optimize(*[SVGDocument](../../../aspose.svg/svgdocument/), [SVGOptimizationOptions](../../svgoptimizationoptions/)*) {#optimize_1}
 
-Optimerar[`SVGDocument`](../../../aspose.svg/svgdocument/) genom att använda en uppsättning specificerade optimeringsalternativ.
+Optimerar [`SVGDocument`](../../../aspose.svg/svgdocument/) genom att tillämpa en uppsättning specificerade optimeringsalternativ.
 
 ```csharp
 public static void Optimize(SVGDocument document, SVGOptimizationOptions options)
@@ -37,15 +37,13 @@ public static void Optimize(SVGDocument document, SVGOptimizationOptions options
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | SVGDocument | Förekomsten av SVGDocument. |
-| options | SVGOptimizationOptions | Förekomsten av SVGOptimizationOptions. |
+| dokument | SVGDocument | Instansen av SVGDocument. |
+| alternativ | SVGOptimizationOptions | Instansen av SVGOptimizationOptions. |
 
 ### Se även
 
 * class [SVGDocument](../../../aspose.svg/svgdocument/)
 * class [SVGOptimizationOptions](../../svgoptimizationoptions/)
 * class [SVGOptimizer](../)
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizer/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

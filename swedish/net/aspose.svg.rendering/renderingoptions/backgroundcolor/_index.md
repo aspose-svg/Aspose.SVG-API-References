@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.BackgroundColor
-second_title: Aspose.SVG för .NET API Referens
-description: RenderingOptions fast egendom. Hämtar eller sätterColor som kommer att fylla bakgrunden på varje sida. Standardvärdet ärTransparent .
+title: "RenderingOptions.BackgroundColor"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "RenderingOptions BackgroundColor-egenskap. Hämtar eller anger färg som fyller bakgrunden på varje sida. Standardvärdet är Transparent."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.rendering/renderingoptions/backgroundcolor/
 ---
 ## RenderingOptions.BackgroundColor property
 
-Hämtar eller sätterColor som kommer att fylla bakgrunden på varje sida. Standardvärdet ärTransparent .
+Hämtar eller anger färg som kommer att fylla bakgrunden på varje sida. Standardvärdet är Transparent.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -17,7 +17,5 @@ public Color BackgroundColor { get; set; }
 ### Se även
 
 * class [RenderingOptions](../)
-* namnutrymme [Aspose.Svg.Rendering](../../renderingoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

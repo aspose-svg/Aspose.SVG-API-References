@@ -1,14 +1,14 @@
 ---
-title: Document.OnVolumeChange
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnVolumeChangehändelse.
+title: "Document.OnVolumeChange"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnVolumeChange‑händelse. Hämtar eller anger händelsehanterare för OnVolumeChange‑händelsen."
 type: docs
 weight: 770
 url: /sv/net/aspose.svg.dom/document/onvolumechange/
 ---
 ## Document.OnVolumeChange event
 
-Hämtar eller ställer in händelsehanterare för OnVolumeChange-händelse.
+Hämtar eller anger händelsehanterare för OnVolumeChange‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnVolumeChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnVolumeChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

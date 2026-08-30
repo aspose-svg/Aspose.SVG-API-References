@@ -1,27 +1,25 @@
 ---
-title: TypeInfo.TypeName
-second_title: Aspose.SVG för .NET API Referens
-description: TypeInfo fast egendom. Namnet på en typ som deklarerats för det associerade elementet eller attributet eller null om det inte är känt.
+title: "TypeInfo.TypeName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "TypeInfo TypeName property. Namnet på en typ som deklarerats för det associerade elementet eller attributet eller null om okänt"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/typeinfo/typename/
 ---
 ## TypeInfo.TypeName property
 
-Namnet på en typ som deklarerats för det associerade elementet eller attributet, eller null om det inte är känt.
+Namnet på en typ som deklarerats för det associerade elementet eller attributet, eller null om okänt.
 
 ```csharp
 public string TypeName { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet på typen.
 
 ### Se även
 
 * class [TypeInfo](../)
-* namnutrymme [Aspose.Svg.Dom](../../typeinfo/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

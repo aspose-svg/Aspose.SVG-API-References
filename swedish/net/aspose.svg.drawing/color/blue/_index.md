@@ -1,7 +1,7 @@
 ---
-title: Color.Blue
-second_title: Aspose.SVG för .NET API Referens
-description: Color fast egendom. Representerar den blå komponenten i färgen.
+title: "Color.Blue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color Blue-egenskapen. Representerar den blå komponenten i färgen"
 type: docs
 weight: 250
 url: /sv/net/aspose.svg.drawing/color/blue/
@@ -17,7 +17,5 @@ public float Blue { get; }
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

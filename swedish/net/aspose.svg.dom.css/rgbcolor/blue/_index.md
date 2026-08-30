@@ -1,24 +1,30 @@
 ---
-title: RGBColor.Blue
-second_title: Aspose.SVG för .NET API Referens
-description: RGBColor fast egendom. Det här attributet används för det blå värdet för RGBfärgen.
+title: "RGBColor.Blue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "RGBColor Blue-egenskap. Hämtar det blåa komponentvärdet för denna Color-klass"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.css/rgbcolor/blue/
 ---
 ## RGBColor.Blue property
 
-Det här attributet används för det blå värdet för RGB-färgen.
+Hämtar blå komponentens värde för denna Color-klass.
 
 ```csharp
 public CSSPrimitiveValue Blue { get; }
 ```
 
+### Property Value
+
+Det blåa komponentvärdet för denna Color.
+
+## Anmärkningar
+
+Färgen på varje pixel representeras som ett 32-bitars tal: 8 bitar vardera för alfa, röd, grön och blå (ARGB). Alfa-komponenten anger färgens transparens: 0 är helt transparent, och 255 är helt ogenomskinlig. På samma sätt representerar ett A‑värde på 255 en ogenomskinlig färg. Ett A‑värde från 1 till 254 representerar en semitransparent färg. Färgen blir mer ogenomskinlig när A närmar sig 255.
+
 ### Se även
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [RGBColor](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../rgbcolor/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

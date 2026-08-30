@@ -1,27 +1,25 @@
 ---
-title: Counter.Separator
-second_title: Aspose.SVG för .NET API Referens
-description: Counter fast egendom. Det här attributet används för separatorn för de kapslade räknarna.
+title: "Counter.Separator"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Counter Separator-egenskap. Detta attribut används för avgränsaren av de nästlade räknarna."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.css/counter/separator/
 ---
 ## Counter.Separator property
 
-Det här attributet används för separatorn för de kapslade räknarna.
+Detta attribut används för avgränsaren för de nästlade räknarna.
 
 ```csharp
 public string Separator { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Räknaravgränsaren.
 
 ### Se även
 
 * class [Counter](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../counter/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

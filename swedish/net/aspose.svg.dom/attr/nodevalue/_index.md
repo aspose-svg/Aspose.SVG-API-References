@@ -1,27 +1,25 @@
 ---
-title: Attr.NodeValue
-second_title: Aspose.SVG för .NET API Referens
-description: Attr fast egendom. Värdet för denna nod beroende på dess typ.
+title: "Attr.NodeValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Attr NodeValue egenskap. Värdet för denna nod beroende på dess typ"
 type: docs
-weight: 70
+weight: 60
 url: /sv/net/aspose.svg.dom/attr/nodevalue/
 ---
 ## Attr.NodeValue property
 
-Värdet för denna nod, beroende på dess typ.
+Värdet på denna nod, beroende på dess typ.
 
 ```csharp
 public override string NodeValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Nodvärdet.
 
 ### Se även
 
 * class [Attr](../)
-* namnutrymme [Aspose.Svg.Dom](../../attr/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

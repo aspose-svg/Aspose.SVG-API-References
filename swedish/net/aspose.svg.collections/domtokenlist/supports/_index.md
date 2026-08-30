@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.Supports
-second_title: Aspose.SVG för .NET API Referens
-description: DOMTokenList metod. Returnerar sant om en given token finns i det associerade attributets stödda tokens.
+title: "DOMTokenList.Supports"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMTokenList Supports-metod. Returnerar true om en given token finns bland de stödjade tokenarna för de associerade attributen"
 type: docs
 weight: 90
 url: /sv/net/aspose.svg.collections/domtokenlist/supports/
 ---
 ## DOMTokenList.Supports method
 
-Returnerar sant om en given token finns i det associerade attributets stödda tokens.
+Returnerar true om en given token finns bland de stödda token för det associerade attributet.
 
 ```csharp
 public bool Supports(string token)
@@ -16,16 +16,14 @@ public bool Supports(string token)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| token | String | Token att fråga efter. |
+| token | String | Tokenen att söka efter. |
 
 ### Returvärde
 
-En boolesk som indikerar om token hittades.
+Ett Boolean som indikerar om tokenen hittades.
 
 ### Se även
 
 * class [DOMTokenList](../)
-* namnutrymme [Aspose.Svg.Collections](../../domtokenlist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

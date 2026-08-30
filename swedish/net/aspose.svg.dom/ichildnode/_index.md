@@ -1,14 +1,14 @@
 ---
-title: Interface IChildNode
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.IChildNode gränssnitt. DefinierarIChildNode gränssnitt som bör implementeras avNode som kan ha en förälder.
+title: "IChildNode-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.IChildNode-gränssnitt. Definierar IChildNode-gränssnittet som bör implementeras av Node som kan ha en förälder"
 type: docs
-weight: 1030
+weight: 3030
 url: /sv/net/aspose.svg.dom/ichildnode/
 ---
 ## IChildNode interface
 
-Definierar`IChildNode` gränssnitt som bör implementeras av[`Node`](../node/) som kan ha en förälder.
+Definierar `IChildNode`-gränssnittet som bör implementeras av [`Node`](../node/) som kan ha en förälder.
 
 ```csharp
 public interface IChildNode
@@ -16,13 +16,11 @@ public interface IChildNode
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Remove](../../aspose.svg.dom/ichildnode/remove/)() | Tar bort den aktuella noden från förälder. |
+| [Remove](../../aspose.svg.dom/ichildnode/remove/)() | Tar bort den aktuella noden från föräldern. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

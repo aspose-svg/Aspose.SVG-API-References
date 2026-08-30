@@ -1,28 +1,26 @@
 ---
-title: SVGTextPathElement.StartOffset
-second_title: Aspose.SVG för .NET API Referens
-description: SVGTextPathElement fast egendom. Motsvarar attributet startOffset på det givna textPathelementet.
+title: "SVGTextPathElement.StartOffset"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGTextPathElement StartOffset‑egenskap. Motsvarar attributet startOffset på det angivna textPath‑elementet."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg/svgtextpathelement/startoffset/
 ---
 ## SVGTextPathElement.StartOffset property
 
-Motsvarar attributet 'startOffset' på det givna 'textPath'-elementet.
+Motsvarar attributet ‘startOffset’ på det angivna ‘textPath’-elementet.
 
 ```csharp
 public SVGAnimatedLength StartOffset { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'startOffset' för det givna 'textPath'-elementet.
+Attributet ‘startOffset’ för det angivna ‘textPath’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGTextPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgtextpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Metered.SetMeteredKey
-second_title: Aspose.SVG för .NET API Referens
-description: Metered metod. Ställer in mätt offentlig och privat nyckel. Om du köper mätlicens när du startar applikationen bör detta API anropas normalt räcker detta. Men om alltid misslyckas med att ladda upp förbrukningsdata och överskrider 24 timmar kommer licensen att ställas in på utvärderingsstatus för att undvika sådana fall bör du regelbundet kontrollera licensstatusen om det är utvärderingsstatus ring detta API igen.
+title: "Metered.SetMeteredKey"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Metered SetMeteredKey metod. Ställer in metered offentliga och privata nycklar. Om du köper en metered-licens när du startar applikationen bör detta API normalt anropas, det räcker. Men om uppladdning av konsumtionsdata alltid misslyckas och överstiger 24 timmar kommer licensen att sättas till utvärderingsstatus; för att undvika detta bör du regelbundet kontrollera licensstatusen och om den är i utvärderingsstatus anropa detta API igen."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/metered/setmeteredkey/
 ---
 ## Metered.SetMeteredKey method
 
-Ställer in mätt offentlig och privat nyckel. Om du köper mätlicens, när du startar applikationen, bör detta API anropas, normalt räcker detta. Men om alltid misslyckas med att ladda upp förbrukningsdata och överskrider 24 timmar, kommer licensen att ställas in på utvärderingsstatus, för att undvika sådana fall bör du regelbundet kontrollera licensstatusen, om det är utvärderingsstatus, ring detta API igen.
+Ställer in metered offentlig och privat nyckel. Om du köper en metered-licens, bör detta API anropas när applikationen startas; normalt räcker det. Men om uppladdning av förbrukningsdata ständigt misslyckas och överstiger 24 timmar, kommer licensen att sättas till utvärderingsstatus. För att undvika detta bör du regelbundet kontrollera licensstatusen; om den är i utvärderingsstatus, anropa detta API igen.
 
 ```csharp
 public void SetMeteredKey(string publicKey, string privateKey)
@@ -22,7 +22,5 @@ public void SetMeteredKey(string publicKey, string privateKey)
 ### Se även
 
 * class [Metered](../)
-* namnutrymme [Aspose.Svg](../../metered/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: IParentNode.Children
-second_title: Aspose.SVG för .NET API Referens
-description: IParentNode fast egendom. Returnerar de underordnade elementen.
+title: "IParentNode.Children"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IParentNode Children-egenskapen. Returnerar barnelementen"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom/iparentnode/children/
 ---
 ## IParentNode.Children property
 
-Returnerar de underordnade elementen.
+Returnerar barn‑elementen.
 
 ```csharp
 public HTMLCollection Children { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Barnen.
 
@@ -22,7 +22,5 @@ Barnen.
 
 * class [HTMLCollection](../../../aspose.svg.collections/htmlcollection/)
 * interface [IParentNode](../)
-* namnutrymme [Aspose.Svg.Dom](../../iparentnode/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

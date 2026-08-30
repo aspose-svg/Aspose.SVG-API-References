@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnLoadedData
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnLoadedDatahändelse.
+title: "IGlobalEventHandlers.OnLoadedData"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnLoadedData händelse. Hämtar eller anger händelsehanterare för OnLoadedData händelse"
 type: docs
 weight: 210
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/onloadeddata/
 ---
 ## IGlobalEventHandlers.OnLoadedData event
 
-Hämtar eller ställer in händelsehanterare för OnLoadedData-händelse.
+Hämtar eller anger händelsehanterare för OnLoadedData-händelse.
 
 ```csharp
 public event DOMEventHandler OnLoadedData;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnLoadedData;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

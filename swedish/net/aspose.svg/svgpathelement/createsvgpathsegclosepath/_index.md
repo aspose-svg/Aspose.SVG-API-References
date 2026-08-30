@@ -1,7 +1,7 @@
 ---
-title: SVGPathElement.CreateSVGPathSegClosePath
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathElement metod. Returnerar ett fristående föräldralöst SVGPathSegClosePathobjekt.
+title: "SVGPathElement.CreateSVGPathSegClosePath"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathElement CreateSVGPathSegClosePath metod. Returnerar ett fristående, föräldralöst SVGPathSegClosePath-objekt."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/svgpathelement/createsvgpathsegclosepath/
@@ -22,7 +22,5 @@ Ett fristående, föräldralöst SVGPathSegClosePath-objekt.
 
 * class [SVGPathSegClosePath](../../../aspose.svg.paths/svgpathsegclosepath/)
 * class [SVGPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: Size.Width
-second_title: Aspose.SVG för .NET API Referens
-description: Size fast egendom. Hämtar eller ställer in den horisontella komponenten av dettaSize .
+title: "Size.Width"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Size Width egenskap. Hämtar eller anger den horisontella komponenten av detta Size"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.drawing/size/width/
 ---
 ## Size.Width property
 
-Hämtar eller ställer in den horisontella komponenten av detta[`Size`](../) .
+Hämtar eller anger den horisontella komponenten av detta [`Size`](../).
 
 ```csharp
 public Length Width { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den horisontella komponenten av detta[`Size`](../) .
+Den horisontella komponenten av detta [`Size`](../).
 
 ### Se även
 
 * class [Length](../../length/)
 * class [Size](../)
-* namnutrymme [Aspose.Svg.Drawing](../../size/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

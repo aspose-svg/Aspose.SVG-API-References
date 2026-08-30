@@ -1,20 +1,20 @@
 ---
-title: Document.Context
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Hämtar aktuellt webbläsarkontext.
+title: "Document.Context"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document Context property. Hämtar det aktuella bläddringssammanhanget"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.dom/document/context/
 ---
 ## Document.Context property
 
-Hämtar aktuellt webbläsarkontext.
+Hämtar det aktuella bläddringskontextet.
 
 ```csharp
 public IBrowsingContext Context { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Kontexten.
 
@@ -22,7 +22,5 @@ Kontexten.
 
 * interface [IBrowsingContext](../../ibrowsingcontext/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

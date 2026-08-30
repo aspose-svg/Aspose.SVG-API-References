@@ -1,20 +1,20 @@
 ---
-title: Page.Size
-second_title: Aspose.SVG för .NET API Referens
-description: Page fast egendom. Hämtar eller ställer in sidstorleken.
+title: "Page.Size"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Egenskapen Page Size. Hämtar eller anger sidans storlek"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.drawing/page/size/
 ---
 ## Page.Size property
 
-Hämtar eller ställer in sidstorleken.
+Hämtar eller anger sidstorleken.
 
 ```csharp
 public Size Size { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Storleken.
 
@@ -22,7 +22,5 @@ Storleken.
 
 * class [Size](../../size/)
 * class [Page](../)
-* namnutrymme [Aspose.Svg.Drawing](../../page/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

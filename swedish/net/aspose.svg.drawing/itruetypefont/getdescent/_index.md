@@ -1,14 +1,14 @@
 ---
-title: ITrueTypeFont.GetDescent
-second_title: Aspose.SVG för .NET API Referens
-description: ITrueTypeFont metod. Returnerar nedstigningen i poäng.
+title: "ITrueTypeFont.GetDescent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ITrueTypeFont GetDescent method. Hämtar teckensnittets nedstigning i punkter med den angivna teckensnittsstorleken"
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.svg.drawing/itruetypefont/getdescent/
 ---
 ## ITrueTypeFont.GetDescent method
 
-Returnerar nedstigningen i poäng.
+Hämtar teckensnittets descent i punkter med den angivna teckensnittsstorleken.
 
 ```csharp
 public float GetDescent(float fontSize)
@@ -16,16 +16,14 @@ public float GetDescent(float fontSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontSize | Single | Teckensnittets storlek. |
+| fontSize | Single | Storleken på teckensnittet. |
 
 ### Returvärde
 
-Nedstigningen i poäng.
+Teckensnittets nedstigning i punkter.
 
 ### Se även
 
 * interface [ITrueTypeFont](../)
-* namnutrymme [Aspose.Svg.Drawing](../../itruetypefont/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

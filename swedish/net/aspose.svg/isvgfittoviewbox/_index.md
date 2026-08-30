@@ -1,14 +1,14 @@
 ---
-title: Interface ISVGFitToViewBox
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ISVGFitToViewBox gränssnitt. Gränssnitt SVGFitToViewBox definierar DOMattribut som gäller för element som har XMLattribut viewBox och preserveAspectRatio.
+title: "ISVGFitToViewBox gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ISVGFitToViewBox gränssnitt. SVGFitToViewBox-gränssnittet definierar DOM-attribut som gäller för element som har XML-attributen viewBox och preserveAspectRatio."
 type: docs
-weight: 2010
+weight: 4080
 url: /sv/net/aspose.svg/isvgfittoviewbox/
 ---
 ## ISVGFitToViewBox interface
 
-Gränssnitt SVGFitToViewBox definierar DOM-attribut som gäller för element som har XML-attribut 'viewBox' och 'preserveAspectRatio'.
+Gränssnittet SVGFitToViewBox definierar DOM‑attribut som gäller för element som har XML‑attributen ‘viewBox’ och ‘preserveAspectRatio’.
 
 ```csharp
 public interface ISVGFitToViewBox
@@ -16,14 +16,12 @@ public interface ISVGFitToViewBox
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PreserveAspectRatio](../../aspose.svg/isvgfittoviewbox/preserveaspectratio/) { get; } | Motsvarar attributet 'preserveAspectRatio' på det givna elementet. |
-| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox/) { get; } | Motsvarar attributet 'viewBox' på det givna elementet. |
+| [PreserveAspectRatio](../../aspose.svg/isvgfittoviewbox/preserveaspectratio/) { get; } | Motsvarar attributet ‘preserveAspectRatio’ på det givna elementet. |
+| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox/) { get; } | Motsvarar attributet ‘viewBox’ på det givna elementet. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg](../../aspose.svg/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

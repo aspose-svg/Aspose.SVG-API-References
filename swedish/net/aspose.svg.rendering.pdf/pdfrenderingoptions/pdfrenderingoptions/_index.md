@@ -1,14 +1,14 @@
 ---
-title: PdfRenderingOptions.PdfRenderingOptions
-second_title: Aspose.SVG för .NET API Referens
-description: PdfRenderingOptions byggare. Initierar en ny instans avPdfRenderingOptions class.
+title: "PdfRenderingOptions"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PdfRenderingOptions‑konstruktor. Initierar en ny instans av klassen PdfRenderingOptions."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering.pdf/pdfrenderingoptions/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions constructor
 
-Initierar en ny instans av[`PdfRenderingOptions`](../) class.
+Initierar en ny instans av klassen [`PdfRenderingOptions`](../).
 
 ```csharp
 public PdfRenderingOptions()
@@ -17,7 +17,5 @@ public PdfRenderingOptions()
 ### Se även
 
 * class [PdfRenderingOptions](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfrenderingoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

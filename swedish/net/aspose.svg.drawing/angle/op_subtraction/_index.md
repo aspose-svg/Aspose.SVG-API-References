@@ -1,7 +1,7 @@
 ---
-title: Angle.op_Subtraction
-second_title: Aspose.SVG för .NET API Referens
-description: Angle metod. Implementerar operatorn .
+title: "Angle.op_Subtraction"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Angle op_Subtraction-metoden. Implementerar operatorn -"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.drawing/angle/op_subtraction/
@@ -25,15 +25,13 @@ Resultatet av operatorn.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | Argumenten är ogiltiga |
-| ArgumentException | Argument har olika typer eller Argument har olika upplösningar eller |
+| ArgumentNullException | Argumenten är null |
+| ArgumentException | Argumenten har olika typer eller Argumenten har olika upplösningar eller |
 
 ### Se även
 
 * class [Angle](../)
-* namnutrymme [Aspose.Svg.Drawing](../../angle/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

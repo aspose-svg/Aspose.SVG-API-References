@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.SetStringValue
-second_title: Aspose.SVG för .NET API Referens
-description: CSSPrimitiveValue metod. En metod för att ställa in strängvärdet med den angivna enheten. Om egenskapen kopplad till detta värde inte kan acceptera den angivna enheten eller strängvärdet kommer värdet att vara oförändrat och ett DOMException kommer att höjas.
+title: "CSSPrimitiveValue.SetStringValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSPrimitiveValue SetStringValue‑metod. En metod för att sätta strängvärdet med den specificerade enheten. Om egenskapen som är kopplad till detta värde inte kan acceptera den specificerade enheten eller strängvärdet, förblir värdet oförändrat och ett DOMException kastas."
 type: docs
 weight: 100
 url: /sv/net/aspose.svg.dom.css/cssprimitivevalue/setstringvalue/
 ---
 ## CSSPrimitiveValue.SetStringValue method
 
-En metod för att ställa in strängvärdet med den angivna enheten. Om egenskapen kopplad till detta värde inte kan acceptera den angivna enheten eller strängvärdet, kommer värdet att vara oförändrat och ett DOMException kommer att höjas.
+En metod för att sätta strängvärdet med den specificerade enheten. Om egenskapen som är kopplad till detta värde inte kan acceptera den specificerade enheten eller strängvärdet, förblir värdet oförändrat och ett DOMException kastas.
 
 ```csharp
 public abstract void SetStringValue(ushort stringType, string stringValue)
@@ -16,13 +16,11 @@ public abstract void SetStringValue(ushort stringType, string stringValue)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stringType | UInt16 | Typ av sträng. |
+| stringType | UInt16 | Typ av strängen. |
 | stringValue | String | Strängvärdet. |
 
 ### Se även
 
 * class [CSSPrimitiveValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

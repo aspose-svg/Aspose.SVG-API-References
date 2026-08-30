@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.MarkerUnits
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMarkerElement fast egendom. Motsvarar attributet markerUnits på det givna markerelementet. En av de markörenhetstyper som definieras i detta gränssnitt.
+title: "SVGMarkerElement.MarkerUnits"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMarkerElement MarkerUnits-egenskapen. Motsvarar attributet markerUnits på det angivna marker-elementet. En av Marker Unit Types som definieras på detta gränssnitt"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/svgmarkerelement/markerunits/
 ---
 ## SVGMarkerElement.MarkerUnits property
 
-Motsvarar attributet 'markerUnits' på det givna 'marker'-elementet. En av de markörenhetstyper som definieras i detta gränssnitt.
+Motsvarar attributet ‘markerUnits’ på det angivna ‘marker’-elementet. En av Marker Unit Types som definieras i detta gränssnitt.
 
 ```csharp
 public SVGAnimatedEnumeration MarkerUnits { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'markerUnits' för det givna 'marker'-elementet.
+Attributet ‘markerUnits’ på det angivna ‘marker’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedEnumeration](../../../aspose.svg.datatypes/svganimatedenumeration/)
 * class [SVGMarkerElement](../)
-* namnutrymme [Aspose.Svg](../../svgmarkerelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,20 +1,20 @@
 ---
-title: MutationRecord.Target
-second_title: Aspose.SVG för .NET API Referens
-description: MutationRecord fast egendom. Returnerar noden som mutationen påverkade beroende på typen. För attribut är det elementet vars attribut ändrades. För characterData är det CharacterDatanoden. För childList är det noden vars barn har ändrats.
+title: "MutationRecord.Target"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationRecord Target egenskap. Returnerar den nod som mutationen påverkade beroende på typ. För attribut är det elementet vars attribut ändrades. För characterData är det CharacterData-noden. För childList är det den nod vars barn ändrades."
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.dom.mutations/mutationrecord/target/
 ---
 ## MutationRecord.Target property
 
-Returnerar noden som mutationen påverkade, beroende på typen. För "attribut" är det elementet vars attribut ändrades. För "characterData" är det CharacterData-noden. För "childList" är det noden vars barn har ändrats.
+Returnerar den nod som mutationen påverkade, beroende på typ. För "attributes" är det elementet vars attribut ändrades. För "characterData" är det CharacterData-noden. För "childList" är det noden vars barn ändrades.
 
 ```csharp
 public Node Target { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Målet.
 
@@ -22,7 +22,5 @@ Målet.
 
 * class [Node](../../../aspose.svg.dom/node/)
 * class [MutationRecord](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationrecord/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

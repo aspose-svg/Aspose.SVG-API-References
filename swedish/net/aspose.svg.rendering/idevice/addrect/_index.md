@@ -1,14 +1,14 @@
 ---
-title: IDevice.AddRect
-second_title: Aspose.SVG för .NET API Referens
-description: IDevice metod. Lägger till en rektangel till den aktuella sökvägen som en komplett undersökväg.
+title: "IDevice.AddRect"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDevice AddRect-metod. Lägger till en rektangel till den aktuella vägen som en komplett delväg"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.rendering/idevice/addrect/
 ---
 ## IDevice.AddRect method
 
-Lägger till en rektangel till den aktuella sökvägen som en komplett undersökväg.
+Lägger till en rektangel till den aktuella banan som en komplett delbana.
 
 ```csharp
 public void AddRect(RectangleF rect)
@@ -21,7 +21,5 @@ public void AddRect(RectangleF rect)
 ### Se även
 
 * interface [IDevice](../)
-* namnutrymme [Aspose.Svg.Rendering](../../idevice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

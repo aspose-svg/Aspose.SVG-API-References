@@ -1,14 +1,14 @@
 ---
-title: ICSSRule.ParentRule
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSRule fast egendom. Om denna regel finns i en annan regel t.ex. en stilregel inuti ett mediablock är detta den innehållande regeln. Om den här regeln inte är kapslad i några andra regler returnerar den null.
+title: "ICSSRule.ParentRule"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSRule ParentRule egenskap. Om denna regel är innesluten i en annan regel, e.g. en stilregel i ett media block, är detta den innehållande regeln. Om denna regel inte är nästlad i någon annan regel returneras null"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.css/icssrule/parentrule/
 ---
 ## ICSSRule.ParentRule property
 
-Om denna regel finns i en annan regel (t.ex. en stilregel inuti ett @mediablock), är detta den innehållande regeln. Om den här regeln inte är kapslad i några andra regler, returnerar den null.
+Om denna regel finns inuti en annan regel (t.ex. en stilregel i ett @media‑block) är detta den omgivande regeln. Om regeln inte är inbäddad i någon annan regel returneras null.
 
 ```csharp
 public ICSSRule ParentRule { get; }
@@ -17,7 +17,5 @@ public ICSSRule ParentRule { get; }
 ### Se även
 
 * interface [ICSSRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssrule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

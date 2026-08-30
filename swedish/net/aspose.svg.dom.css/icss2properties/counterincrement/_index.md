@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.CounterIncrement
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen mot inkrement i CSS2.
+title: "ICSS2Properties.CounterIncrement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties CounterIncrement egenskap. Se definitionen av counter-increment‑egenskapen i CSS2"
 type: docs
 weight: 360
 url: /sv/net/aspose.svg.dom.css/icss2properties/counterincrement/
 ---
 ## ICSS2Properties.CounterIncrement property
 
-Se egenskapsdefinitionen mot inkrement i CSS2.
+Se definitionen av egenskapen counter-increment i CSS2.
 
 ```csharp
 public string CounterIncrement { get; set; }
@@ -16,12 +16,10 @@ public string CounterIncrement { get; set; }
 
 ### Returvärde
 
-mot-inkrement egendom
+counter-increment egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

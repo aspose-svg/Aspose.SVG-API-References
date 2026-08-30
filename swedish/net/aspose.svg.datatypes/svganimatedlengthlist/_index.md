@@ -1,9 +1,9 @@
 ---
-title: Class SVGAnimatedLengthList
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.DataTypes.SVGAnimatedLengthList klass. Används för attribut av typen SVGLengthList som kan animeras.
+title: "SVGAnimatedLengthList-klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.DataTypes.SVGAnimatedLengthList-klass. Används för attribut av typen SVGLengthList som kan animeras."
 type: docs
-weight: 140
+weight: 2130
 url: /sv/net/aspose.svg.datatypes/svganimatedlengthlist/
 ---
 ## SVGAnimatedLengthList class
@@ -16,24 +16,22 @@ public class SVGAnimatedLengthList : SVGAnimatedValue<SVGLengthList>
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
-| override [ToString](../../aspose.svg.datatypes/svganimatedlengthlist/tostring/)() | Returnerar enString som representerar denna instans. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
+| override [ToString](../../aspose.svg.datatypes/svganimatedlengthlist/tostring/)() | Returnerar en sträng som representerar den här instansen. |
 
 ### Se även
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGLengthList](../svglengthlist/)
-* namnutrymme [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

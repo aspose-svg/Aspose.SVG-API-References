@@ -1,14 +1,14 @@
 ---
-title: SVGPoint.MatrixTransform
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPoint metod. Tillämpar en 2x3 matristransformation på detta SVGPointobjekt och returnerar ett nytt transformerat SVGPointobjekt newpoint  matris thispoint
+title: "SVGPoint.MatrixTransform"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPoint MatrixTransform-metoden. Tillämpar en 2x3-matristransformation på detta SVGPoint-objekt och returnerar ett nytt transformerat SVGPoint-objekt newpoint  matrix thispoint"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.datatypes/svgpoint/matrixtransform/
 ---
 ## SVGPoint.MatrixTransform method
 
-Tillämpar en 2x3 matristransformation på detta SVGPoint-objekt och returnerar ett nytt, transformerat SVGPoint-objekt: newpoint = matris* thispoint
+Tillämpar en 2×3‑matristransformation på detta SVGPoint‑objekt och returnerar ett nytt, transformerat SVGPoint‑objekt: newpoint = matrix* thispoint
 
 ```csharp
 public SVGPoint MatrixTransform(SVGMatrix matrix)
@@ -16,7 +16,7 @@ public SVGPoint MatrixTransform(SVGMatrix matrix)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| matrix | SVGMatrix | matrisen som ska tillämpas på detta SVGPoint-objekt. |
+| matrix | SVGMatrix | Matrisen som ska tillämpas på detta SVGPoint-objekt. |
 
 ### Returvärde
 
@@ -26,7 +26,5 @@ Ett nytt SVGPoint-objekt.
 
 * class [SVGMatrix](../../svgmatrix/)
 * class [SVGPoint](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgpoint/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

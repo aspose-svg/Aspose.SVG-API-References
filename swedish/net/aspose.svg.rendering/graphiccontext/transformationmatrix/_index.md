@@ -1,7 +1,7 @@
 ---
-title: GraphicContext.TransformationMatrix
-second_title: Aspose.SVG för .NET API Referens
-description: GraphicContext fast egendom. Ställer in eller hämtar transformationsmatris.
+title: "GraphicContext.TransformationMatrix"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GraphicContext TransformationMatrix-egenskap. Ställer in eller hämtar transformationsmatrisen"
 type: docs
 weight: 160
 url: /sv/net/aspose.svg.rendering/graphiccontext/transformationmatrix/
@@ -11,13 +11,12 @@ url: /sv/net/aspose.svg.rendering/graphiccontext/transformationmatrix/
 Ställer in eller hämtar transformationsmatris.
 
 ```csharp
-public virtual Matrix TransformationMatrix { get; set; }
+public virtual IMatrix TransformationMatrix { get; set; }
 ```
 
 ### Se även
 
+* interface [IMatrix](../../../aspose.svg.drawing/imatrix/)
 * class [GraphicContext](../)
-* namnutrymme [Aspose.Svg.Rendering](../../graphiccontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: FontMatchingProperties.FontWeight
-second_title: Aspose.SVG för .NET API Referens
-description: FontMatchingProperties fast egendom. Hämtar teckensnittets viktvärde.
+title: "FontMatchingProperties.FontWeight"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "FontMatchingProperties FontWeight property. Hämtar teckensnittets viktvärde"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontweight/
@@ -17,7 +17,5 @@ public int FontWeight { get; }
 ### Se även
 
 * class [FontMatchingProperties](../)
-* namnutrymme [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class SVGLengthList
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.DataTypes.SVGLengthList klass. Detta gränssnitt definierar en lista över SVGLengthobjekt.
+title: "SVGLengthList klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.DataTypes.SVGLengthList klass. Detta gränssnitt definierar en lista med SVGLength-objekt"
 type: docs
-weight: 230
+weight: 2220
 url: /sv/net/aspose.svg.datatypes/svglengthlist/
 ---
 ## SVGLengthList class
 
-Detta gränssnitt definierar en lista över SVGLength-objekt.
+Detta gränssnitt definierar en lista med SVGLength‑objekt.
 
 ```csharp
 public class SVGLengthList : SVGListBase<SVGLength>
@@ -16,7 +16,7 @@ public class SVGLengthList : SVGListBase<SVGLength>
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } |  |
 | [Length](../../aspose.svg.collections/svglistbase-1/length/) { get; } |  |
@@ -24,25 +24,23 @@ public class SVGLengthList : SVGListBase<SVGLength>
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(SVGLength) |  |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*[SVGLength](../svglength/)*) |  |
 | [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() |  |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(SVGLength) |  |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(SVGLength, ulong) |  |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(SVGLength, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svglengthlist/tostring/)() | Returnerar enString som representerar denna instans. |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*[SVGLength](../svglength/)*) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*[SVGLength](../svglength/), ulong*) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*[SVGLength](../svglength/), ulong*) |  |
+| override [ToString](../../aspose.svg.datatypes/svglengthlist/tostring/)() | Returnerar en sträng som representerar den här instansen. |
 
 ### Se även
 
 * class [SVGListBase&lt;T&gt;](../../aspose.svg.collections/svglistbase-1/)
 * class [SVGLength](../svglength/)
-* namnutrymme [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

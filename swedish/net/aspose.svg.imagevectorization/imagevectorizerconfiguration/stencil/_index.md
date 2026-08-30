@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizerConfiguration.Stencil
-second_title: Aspose.SVG för .NET API Referens
-description: ImageVectorizerConfiguration fast egendom. Hämtar eller ställer in stencileffektkonfiguration. Som standard tillämpas ingen stencileffekt.
+title: "ImageVectorizerConfiguration.Stencil"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageVectorizerConfiguration Stencil-egenskap. Hämtar eller anger stencil-effektkonfiguration. Som standard tillämpas ingen stencil-effekt"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/stencil/
 ---
 ## ImageVectorizerConfiguration.Stencil property
 
-Hämtar eller ställer in stencileffektkonfiguration. Som standard tillämpas ingen stencileffekt.
+Hämtar eller anger konfigurationen för stencil‑effekt. Som standard appliceras ingen stencil‑effekt.
 
 ```csharp
 public StencilConfiguration Stencil { get; set; }
@@ -18,7 +18,5 @@ public StencilConfiguration Stencil { get; set; }
 
 * class [StencilConfiguration](../../stencilconfiguration/)
 * class [ImageVectorizerConfiguration](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

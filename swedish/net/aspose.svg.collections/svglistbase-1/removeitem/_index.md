@@ -1,12 +1,12 @@
 ---
-title: SVGListBase1.RemoveItem
-second_title: Aspose.SVG för .NET API Referens
-description: SVGListBase metod. Tar bort ett befintligt objekt från listan.
+title: "SVGListBase-1.RemoveItem"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGListBase RemoveItem-metoden. Tar bort ett befintligt objekt från listan"
 type: docs
 weight: 100
 url: /sv/net/aspose.svg.collections/svglistbase-1/removeitem/
 ---
-## SVGListBase&lt;T&gt;.RemoveItem method
+## SVGListBase<T>.RemoveItem method
 
 Tar bort ett befintligt objekt från listan.
 
@@ -16,7 +16,7 @@ public T RemoveItem(ulong index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| index | UInt64 | Indexet för objektet som ska tas bort. Den första posten är nummer 0. |
+| index | UInt64 | Indexet för objektet som ska tas bort. Det första objektet har nummer 0. |
 
 ### Returvärde
 
@@ -24,15 +24,13 @@ Det borttagna objektet.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Koda[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Ökas när listan inte kan ändras. |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Koda[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Höjs om indexnumret är större än eller lika med numberOfItems. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Utlöst när listan inte kan modifieras. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err/). Utlöst om indexnumret är större än eller lika med numberOfItems. |
 
 ### Se även
 
 * class [SVGListBase&lt;T&gt;](../)
-* namnutrymme [Aspose.Svg.Collections](../../svglistbase-1/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

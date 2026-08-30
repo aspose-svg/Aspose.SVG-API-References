@@ -1,27 +1,25 @@
 ---
-title: Device2.MoveTo
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Börjar en ny undersökväg genom att flytta den aktuella punkten till koordinaterna för parametern pt och utelämnar alla anslutande linjesegment. Om den tidigare vägkonstruktionsmetoden i den aktuella sökvägen också var MoveTo åsidosätter den nya MoveTo den ingen rest av den tidigare MoveTooperationen finns kvar i sökvägen.
+title: "Device-2.MoveTo"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device MoveTo-metod. Påbörjar en ny delväg genom att flytta den aktuella punkten till koordinaterna för parametern pt och utelämna eventuella anslutande linjesegment. Om den föregående väggenereringsmetoden i den aktuella vägen också var MoveTo, så överskriver den nya MoveTo den; ingen spår av den tidigare MoveTo-operationen återstår i vägen"
 type: docs
-weight: 190
+weight: 220
 url: /sv/net/aspose.svg.rendering/device-2/moveto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.MoveTo method
+## Device<TGraphicContext,TRenderingOptions>.MoveTo method
 
-Börjar en ny undersökväg genom att flytta den aktuella punkten till koordinaterna för parametern pt, och utelämnar alla anslutande linjesegment. Om den tidigare vägkonstruktionsmetoden i den aktuella sökvägen också var "MoveTo", åsidosätter den nya "MoveTo" den; ingen rest av den tidigare "MoveTo"-operationen finns kvar i sökvägen.
+Påbörjar en ny underbana genom att flytta den aktuella punkten till koordinaterna för parametern pt, utan att lägga till något anslutningslinjesegment. Om den föregående bankonstruktionsmetoden i den aktuella banan också var \"MoveTo\", så åsidosätter den nya \"MoveTo\" den; inget spår av den föregående \"MoveTo\"-operationen finns kvar i banan.
 
 ```csharp
-public abstract void MoveTo(PointF pt)
+public virtual void MoveTo(PointF pt)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pt | PointF | Punkt för var du ska flytta vägen till. |
+| pt | PointF | Punkt dit vägen ska flyttas. |
 
 ### Se även
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

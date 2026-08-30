@@ -1,14 +1,14 @@
 ---
-title: Device2.Dispose
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Utför programdefinierade uppgifter associerade med att frigöra frigöra eller återställa ohanterade resurser.
+title: "Device-2.Dispose"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device Dispose-metoden. Utför applikationsdefinierade uppgifter som är förknippade med att frigöra, släppa eller återställa ohanterade resurser"
 type: docs
-weight: 100
+weight: 130
 url: /sv/net/aspose.svg.rendering/device-2/dispose/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Dispose method
+## Device<TGraphicContext,TRenderingOptions>.Dispose method
 
-Utför programdefinierade uppgifter associerade med att frigöra, frigöra eller återställa ohanterade resurser.
+Utför applikationsdefinierade uppgifter som är relaterade till att frigöra, släppa eller återställa ohanterade resurser.
 
 ```csharp
 public void Dispose()
@@ -17,7 +17,5 @@ public void Dispose()
 ### Se även
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

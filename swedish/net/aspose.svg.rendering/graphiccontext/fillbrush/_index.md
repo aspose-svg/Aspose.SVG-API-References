@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.FillBrush
-second_title: Aspose.SVG för .NET API Referens
-description: GraphicContext fast egendom. Ställer in eller hämtar penselobjektet som används för att fylla banornas inre.
+title: "GraphicContext.FillBrush"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GraphicContext FillBrush-egenskap. Ställer in eller hämtar penselobjektet som används för att fylla innanmålen av banor"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.svg.rendering/graphiccontext/fillbrush/
 ---
 ## GraphicContext.FillBrush property
 
-Ställer in eller hämtar penselobjektet som används för att fylla banornas inre.
+Ställer in eller hämtar penselobjektet som används för att fylla insidan av banor.
 
 ```csharp
 public virtual IBrush FillBrush { get; set; }
@@ -18,7 +18,5 @@ public virtual IBrush FillBrush { get; set; }
 
 * interface [IBrush](../../../aspose.svg.drawing/ibrush/)
 * class [GraphicContext](../)
-* namnutrymme [Aspose.Svg.Rendering](../../graphiccontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction.NodeType
-second_title: Aspose.SVG för .NET API Referens
-description: ProcessingInstruction fast egendom. En kod som representerar typen av det underliggande objektet.
+title: "ProcessingInstruction.NodeType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ProcessingInstruction NodeType-egenskapen. En kod som representerar typen av det underliggande objektet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom/processinginstruction/nodetype/
@@ -14,14 +14,12 @@ En kod som representerar typen av det underliggande objektet.
 public override ushort NodeType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av nod.
+Typen av noden.
 
 ### Se även
 
 * class [ProcessingInstruction](../)
-* namnutrymme [Aspose.Svg.Dom](../../processinginstruction/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class SVGPointList
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.DataTypes.SVGPointList klass. Det här gränssnittet definierar en lista över SVGPointobjekt.
+title: "SVGPointList klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.DataTypes.SVGPointList klass. Detta gränssnitt definierar en lista med SVGPoint‑objekt."
 type: docs
-weight: 280
+weight: 2270
 url: /sv/net/aspose.svg.datatypes/svgpointlist/
 ---
 ## SVGPointList class
 
-Det här gränssnittet definierar en lista över SVGPoint-objekt.
+Det här gränssnittet definierar en lista med SVGPoint-objekt.
 
 ```csharp
 public class SVGPointList : SVGListBase<SVGPoint>
@@ -16,7 +16,7 @@ public class SVGPointList : SVGListBase<SVGPoint>
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Item](../../aspose.svg.collections/svglistbase-1/item/) { get; set; } |  |
 | [Length](../../aspose.svg.collections/svglistbase-1/length/) { get; } |  |
@@ -24,25 +24,23 @@ public class SVGPointList : SVGListBase<SVGPoint>
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(SVGPoint) |  |
+| [AppendItem](../../aspose.svg.collections/svglistbase-1/appenditem/)(*[SVGPoint](../svgpoint/)*) |  |
 | [Clear](../../aspose.svg.collections/svglistbase-1/clear/)() |  |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
-| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(SVGPoint) |  |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(SVGPoint, ulong) |  |
-| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(SVGPoint, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svgpointlist/tostring/)() | Returnerar enString som representerar denna instans. |
+| [GetItem](../../aspose.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
+| [Initialize](../../aspose.svg.collections/svglistbase-1/initialize/)(*[SVGPoint](../svgpoint/)*) |  |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase-1/insertitembefore/)(*[SVGPoint](../svgpoint/), ulong*) |  |
+| [RemoveItem](../../aspose.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.svg.collections/svglistbase-1/replaceitem/)(*[SVGPoint](../svgpoint/), ulong*) |  |
+| override [ToString](../../aspose.svg.datatypes/svgpointlist/tostring/)() | Returnerar en sträng som representerar den här instansen. |
 
 ### Se även
 
 * class [SVGListBase&lt;T&gt;](../../aspose.svg.collections/svglistbase-1/)
 * class [SVGPoint](../svgpoint/)
-* namnutrymme [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../)

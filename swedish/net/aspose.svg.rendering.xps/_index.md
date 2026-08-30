@@ -1,18 +1,16 @@
 ---
-title: Aspose.Svg.Rendering.Xps
-second_title: Aspose.SVG för .NET API Referens
-description: Den Aspose.Svg.Rendering.Xps namnområdet tillhandahåller specifik enhetsklass såväl som några rendering alternativklasser som ansvarar för rendering till ett XPSdokument.
+title: "Aspose.Svg.Rendering.Xps"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.Xps‑namnutrymmet tillhandahåller en specifik enhetsklass samt några renderingsalternativklasser som ansvarar för rendering till ett xps‑dokument."
 type: docs
-weight: 290
+weight: 310
 url: /sv/net/aspose.svg.rendering.xps/
 ---
-Den **Aspose.Svg.Rendering.Xps** namnområdet tillhandahåller specifik enhetsklass såväl som några rendering alternativklasser som ansvarar för rendering till ett XPS-dokument.
+Den **Aspose.Svg.Rendering.Xps**-namnrymden tillhandahåller en specifik enhetsklass samt några renderingsalternativklasser som ansvarar för rendering till ett xps‑dokument.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [XpsDevice](./xpsdevice/) | Representerar rendering till ett XPS-dokument. |
-| [XpsRenderingOptions](./xpsrenderingoptions/) | Representerar renderingsalternativ för[`XpsDevice`](../aspose.svg.rendering.xps/xpsdevice/) . |
-
-
+| [XpsDevice](./xpsdevice/) | Representerar rendering till ett xps‑dokument. |
+| [XpsRenderingOptions](./xpsrenderingoptions/) | Representerar renderingsalternativ för [`XpsDevice`](../aspose.svg.rendering.xps/xpsdevice/). |

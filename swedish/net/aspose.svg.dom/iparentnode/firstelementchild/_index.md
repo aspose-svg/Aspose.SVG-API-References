@@ -1,28 +1,26 @@
 ---
-title: IParentNode.FirstElementChild
-second_title: Aspose.SVG för .NET API Referens
-description: IParentNode fast egendom. Returnerar det första underordnade som är ett element och null annars.
+title: "IParentNode.FirstElementChild"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IParentNode FirstElementChild-egenskapen. Returnerar det första barnet som är ett element och annars null"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom/iparentnode/firstelementchild/
 ---
 ## IParentNode.FirstElementChild property
 
-Returnerar det första underordnade som är ett element, och null annars.
+Returnerar det första barnet som är ett element, annars null.
 
 ```csharp
 public Element FirstElementChild { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det första elementet child.
+Det första elementbarnet.
 
 ### Se även
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* namnutrymme [Aspose.Svg.Dom](../../iparentnode/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

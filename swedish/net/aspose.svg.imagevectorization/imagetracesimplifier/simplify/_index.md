@@ -1,14 +1,14 @@
 ---
-title: ImageTraceSimplifier.Simplify
-second_title: Aspose.SVG för .NET API Referens
-description: ImageTraceSimplifier metod. Minskar antalet punkter i listan över spårpunkter.
+title: "ImageTraceSimplifier.Simplify"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageTraceSimplifier Simplify‑metod. Reducerar antalet punkter i listan med spårpunkterna."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.imagevectorization/imagetracesimplifier/simplify/
 ---
 ## ImageTraceSimplifier.Simplify method
 
-Minskar antalet punkter i listan över spårpunkter.
+Minskar antalet punkter i listan över spårningspunkterna.
 
 ```csharp
 public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)
@@ -16,16 +16,14 @@ public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Listan över spårpunkter. |
+| spår | IEnumerable`1 | Listan med spårpunkterna. |
 
 ### Returvärde
 
-Listan över reducerade spårpunkter.
+Listan med de reducerade spårpunkterna.
 
 ### Se även
 
 * class [ImageTraceSimplifier](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagetracesimplifier/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

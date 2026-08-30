@@ -1,14 +1,14 @@
 ---
-title: Class FileProtocolMessageHandler
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.MessageHandlers.FileProtocolMessageHandler klass. Representerarfil protokollmeddelandehanterare.
+title: "FileProtocolMessageHandler klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.MessageHandlers.FileProtocolMessageHandler klass. Representerar filprotokollmeddelandehanteraren"
 type: docs
-weight: 2360
+weight: 4430
 url: /sv/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler class
 
-Representerar`fil:` protokollmeddelandehanterare.
+Representerar `file:`‑protokoll‑meddelandehanteraren.
 
 ```csharp
 public class FileProtocolMessageHandler : MessageHandler
@@ -16,26 +16,24 @@ public class FileProtocolMessageHandler : MessageHandler
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FileProtocolMessageHandler](fileprotocolmessagehandler/)() | Initierar en ny instans av`FileProtocolMessageHandler` class. |
+| [FileProtocolMessageHandler](fileprotocolmessagehandler/)() | Initierar en ny instans av klassen `FileProtocolMessageHandler`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Filters](../../aspose.svg.net/messagehandler/filters/) { get; } | Hämtar filterlistan som motsvarar den angivna hanterartypen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Invoke](../../aspose.svg.net.messagehandlers/fileprotocolmessagehandler/invoke/)(INetworkOperationContext) | När den åsidosätts i en härledd klass används för att implementera meddelandehanteringen. |
+| override [Invoke](../../aspose.svg.net.messagehandlers/fileprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.svg.net/inetworkoperationcontext/)*) | När den åsidosätts i en avledd klass används den för att implementera meddelandehanteringen. |
 
 ### Se även
 
 * class [MessageHandler](../../aspose.svg.net/messagehandler/)
-* namnutrymme [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net.MessageHandlers](../../aspose.svg.net.messagehandlers/)
+* assembly [Aspose.SVG](../../)

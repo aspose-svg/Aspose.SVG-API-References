@@ -1,27 +1,25 @@
 ---
-title: RequestMessage.Credentials
-second_title: Aspose.SVG för .NET API Referens
-description: RequestMessage fast egendom. Hämtar eller ställer in autentiseringsinformation för begäran.
+title: "RequestMessage.Credentials"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "RequestMessage Credentials-egenskap. Hämtar eller anger autentiseringsinformation för begäran."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.net/requestmessage/credentials/
 ---
 ## RequestMessage.Credentials property
 
-Hämtar eller ställer in autentiseringsinformation för begäran.
+Hämtar eller anger autentiseringsinformation för begäran.
 
 ```csharp
 public ICredentials Credentials { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-En System.Net.ICredentials som innehåller de autentiseringsuppgifter som är kopplade till begäran. Standard är null.
+En System.Net.ICredentials som innehåller de autentiseringsuppgifter som är associerade med begäran. Standardvärdet är null.
 
 ### Se även
 
 * class [RequestMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../requestmessage/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

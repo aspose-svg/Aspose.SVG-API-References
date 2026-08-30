@@ -1,14 +1,14 @@
 ---
-title: CSSPrimitiveValue.GetRGBColorValue
-second_title: Aspose.SVG för .NET API Referens
-description: CSSPrimitiveValue metod. Denna metod används för att få RGBfärgen. Om detta CSSvärde inte innehåller ett RGBfärgvärde höjs ett DOMException. Modifiering av motsvarande stilegenskap kan uppnås med RGBColorgränssnittet.
+title: "CSSPrimitiveValue.GetRGBColorValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSPrimitiveValue GetRGBColorValue-metod. Denna metod används för att hämta RGB-färgen. Om detta CSS-värde inte innehåller ett RGB-färgvärde kastas ett DOMException-undantag. Modifiering av motsvarande stil-egenskap kan göras med RGBColor-gränssnittet."
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.dom.css/cssprimitivevalue/getrgbcolorvalue/
 ---
 ## CSSPrimitiveValue.GetRGBColorValue method
 
-Denna metod används för att få RGB-färgen. Om detta CSS-värde inte innehåller ett RGB-färgvärde höjs ett DOMException. Modifiering av motsvarande stilegenskap kan uppnås med RGBColor-gränssnittet.
+Denna metod används för att hämta RGB-färgen. Om detta CSS-värde inte innehåller ett RGB-färgvärde, kastas ett DOMException. Ändring av motsvarande stil-egenskap kan uppnås med hjälp av RGBColor-gränssnittet.
 
 ```csharp
 public abstract RGBColor GetRGBColorValue()
@@ -22,7 +22,5 @@ Returnerar RGB-färgvärde
 
 * class [RGBColor](../../rgbcolor/)
 * class [CSSPrimitiveValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssprimitivevalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

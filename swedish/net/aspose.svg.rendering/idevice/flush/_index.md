@@ -1,14 +1,14 @@
 ---
-title: IDevice.Flush
-second_title: Aspose.SVG för .NET API Referens
-description: IDevice metod. Rensar all data till utdataström.
+title: "IDevice.Flush"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDevice Flush‑metod. Spolar alla data till utdata‑strömmen"
 type: docs
 weight: 160
 url: /sv/net/aspose.svg.rendering/idevice/flush/
 ---
 ## IDevice.Flush method
 
-Rensar all data till utdataström.
+Spolar alla data till utdataflödet.
 
 ```csharp
 public void Flush()
@@ -17,7 +17,5 @@ public void Flush()
 ### Se även
 
 * interface [IDevice](../)
-* namnutrymme [Aspose.Svg.Rendering](../../idevice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

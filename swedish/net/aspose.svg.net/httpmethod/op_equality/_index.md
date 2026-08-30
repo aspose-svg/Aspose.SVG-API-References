@@ -1,14 +1,14 @@
 ---
-title: HttpMethod.op_Equality
-second_title: Aspose.SVG för .NET API Referens
-description: HttpMethod metod. Implementerar jämställdhetsoperatorn.
+title: "HttpMethod.op_Equality"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "HttpMethod op_Equality-metod. Implementerar likhetsoperatorn"
 type: docs
 weight: 90
 url: /sv/net/aspose.svg.net/httpmethod/op_equality/
 ---
 ## HttpMethod Equality operator
 
-Implementerar jämställdhetsoperatorn.
+Implementerar likhetsoperatorn.
 
 ```csharp
 public static bool operator ==(HttpMethod left, HttpMethod right)
@@ -16,8 +16,8 @@ public static bool operator ==(HttpMethod left, HttpMethod right)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| left | HttpMethod | Den vänstra operanden. |
-| right | HttpMethod | Den vänstra operanden. |
+| vänster | HttpMethod | Den vänstra operanden. |
+| höger | HttpMethod | Den vänstra operanden. |
 
 ### Returvärde
 
@@ -26,7 +26,5 @@ Resultatet av operationen.
 ### Se även
 
 * class [HttpMethod](../)
-* namnutrymme [Aspose.Svg.Net](../../httpmethod/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

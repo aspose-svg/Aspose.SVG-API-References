@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BackgroundColor
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se bakgrundsfärgsegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.BackgroundColor"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties BackgroundColor-egenskap. Se definitionen av background-color-egenskapen i CSS2"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom.css/icss2properties/backgroundcolor/
 ---
 ## ICSS2Properties.BackgroundColor property
 
-Se bakgrundsfärgsegenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen background-color i CSS2.
 
 ```csharp
 public string BackgroundColor { get; set; }
@@ -16,12 +16,10 @@ public string BackgroundColor { get; set; }
 
 ### Returvärde
 
-bakgrundsfärgsegenskap
+background-color-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

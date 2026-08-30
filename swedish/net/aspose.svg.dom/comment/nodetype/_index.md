@@ -1,7 +1,7 @@
 ---
-title: Comment.NodeType
-second_title: Aspose.SVG för .NET API Referens
-description: Comment fast egendom. En kod som representerar typen av det underliggande objektet.
+title: "Comment.NodeType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Comment NodeType property. En kod som representerar typen av det underliggande objektet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom/comment/nodetype/
@@ -14,14 +14,12 @@ En kod som representerar typen av det underliggande objektet.
 public override ushort NodeType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av nod.
+Typen av noden.
 
 ### Se även
 
 * class [Comment](../)
-* namnutrymme [Aspose.Svg.Dom](../../comment/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

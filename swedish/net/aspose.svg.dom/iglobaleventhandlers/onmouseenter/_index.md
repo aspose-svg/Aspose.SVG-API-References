@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnMouseEnter
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnMouseEnterhändelse.
+title: "IGlobalEventHandlers.OnMouseEnter"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnMouseEnter‑händelse. Hämtar eller anger händelsehanterare för OnMouseEnter‑händelsen"
 type: docs
 weight: 250
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/onmouseenter/
 ---
 ## IGlobalEventHandlers.OnMouseEnter event
 
-Hämtar eller ställer in händelsehanterare för OnMouseEnter-händelse.
+Hämtar eller anger händelsehanterare för OnMouseEnter-händelse.
 
 ```csharp
 public event DOMEventHandler OnMouseEnter;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnMouseEnter;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

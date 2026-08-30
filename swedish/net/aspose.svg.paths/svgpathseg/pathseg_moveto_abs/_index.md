@@ -1,14 +1,14 @@
 ---
-title: SVGPathSeg.PATHSEG_MOVETO_ABS
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPathSeg fält. Motsvarar ett absolute moveto M sökvägsdatakommando.
+title: "SVGPathSeg.PATHSEG_MOVETO_ABS"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPathSeg PATHSEG_MOVETO_ABS fält. Motsvarar ett absolut moveto M sökvägsdata-kommando"
 type: docs
 weight: 200
 url: /sv/net/aspose.svg.paths/svgpathseg/pathseg_moveto_abs/
 ---
 ## SVGPathSeg.PATHSEG_MOVETO_ABS field
 
-Motsvarar ett "absolute moveto" (M) sökvägsdatakommando.
+Motsvarar ett "absolut moveto" (M) sökvägsdatakommandot.
 
 ```csharp
 public const ushort PATHSEG_MOVETO_ABS;
@@ -17,7 +17,5 @@ public const ushort PATHSEG_MOVETO_ABS;
 ### Se även
 
 * class [SVGPathSeg](../)
-* namnutrymme [Aspose.Svg.Paths](../../svgpathseg/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Paths](../../../aspose.svg.paths/)
+* assembly [Aspose.SVG](../../../)

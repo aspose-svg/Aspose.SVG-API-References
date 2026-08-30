@@ -1,14 +1,14 @@
 ---
-title: Interface INetworkOperationContext
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Net.INetworkOperationContext gränssnitt. Ger kontextuell information för nätverkstjänsterna.
+title: "INetworkOperationContext gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Net.INetworkOperationContext gränssnitt. Tillhandahåller kontextuell information för nätverkstjänsterna."
 type: docs
-weight: 2310
+weight: 4380
 url: /sv/net/aspose.svg.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface
 
-Ger kontextuell information för nätverkstjänsterna.
+Tillhandahåller kontextuell information för nätverkstjänsterna.
 
 ```csharp
 public interface INetworkOperationContext
@@ -16,14 +16,12 @@ public interface INetworkOperationContext
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Request](../../aspose.svg.net/inetworkoperationcontext/request/) { get; set; } | Hämtar eller ställer in förfrågningsmeddelandet. |
-| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | Hämtar eller ställer in svarsmeddelandet. |
+| [Request](../../aspose.svg.net/inetworkoperationcontext/request/) { get; set; } | Hämtar eller anger begäranmeddelandet. |
+| [Response](../../aspose.svg.net/inetworkoperationcontext/response/) { get; set; } | Hämtar eller anger svarmeddelandet. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Net](../../aspose.svg.net/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Net](../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../)

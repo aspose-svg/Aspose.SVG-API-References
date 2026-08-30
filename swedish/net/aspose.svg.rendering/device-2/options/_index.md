@@ -1,14 +1,14 @@
 ---
-title: Device2.Options
-second_title: Aspose.SVG för .NET API Referens
-description: Device fast egendom. Får renderingsalternativ.
+title: "Device-2.Options"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device Options-egenskapen. Hämtar renderingsalternativ"
 type: docs
-weight: 20
+weight: 30
 url: /sv/net/aspose.svg.rendering/device-2/options/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Options property
+## Device<TGraphicContext,TRenderingOptions>.Options property
 
-Får renderingsalternativ.
+Hämtar renderingsalternativ.
 
 ```csharp
 public TRenderingOptions Options { get; }
@@ -17,7 +17,5 @@ public TRenderingOptions Options { get; }
 ### Se även
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Class ImageTraceSimplifier
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ImageVectorization.ImageTraceSimplifier klass. Klassen ImageTraceSimplifier är ansvarig för att minska antalet punkter i en kurva som approximeras av en serie av spårpunkterna.
+title: "ImageTraceSimplifier‑klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ImageVectorization.ImageTraceSimplifier‑klass. ImageTraceSimplifier‑klassen ansvarar för att reducera antalet punkter i en kurva som approximeras av en serie spårpunkter."
 type: docs
-weight: 2120
+weight: 4190
 url: /sv/net/aspose.svg.imagevectorization/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier class
 
-Klassen ImageTraceSimplifier är ansvarig för att minska antalet punkter i en kurva som approximeras av en serie av spårpunkterna.
+Klassen ImageTraceSimplifier ansvarar för att minska antalet punkter i en kurva som approximeras av en serie spårpunkter.
 
 ```csharp
 public class ImageTraceSimplifier : IImageTraceSimplifier
@@ -16,27 +16,25 @@ public class ImageTraceSimplifier : IImageTraceSimplifier
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ImageTraceSimplifier](imagetracesimplifier/#constructor)() | Initierar en ny instans av`ImageTraceSimplifier` class. |
-| [ImageTraceSimplifier](imagetracesimplifier/#constructor_1)(float) | Initierar en ny instans av`ImageTraceSimplifier` class. |
+| [ImageTraceSimplifier](imagetracesimplifier/#constructor)() | Initierar en ny instans av klassen `ImageTraceSimplifier`. |
+| [ImageTraceSimplifier](imagetracesimplifier/#constructor_1)(*float*) | Initierar en ny instans av klassen `ImageTraceSimplifier`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Tolerance](../../aspose.svg.imagevectorization/imagetracesimplifier/tolerance/) { get; set; } | Värdet på toleransen bestämmer den maximala feltoleransen som tillåts för en punkt som ska elimineras från spårning. Det måste vara i intervallet från 0 till 4. Eventuella högre eller lägre värden kommer att anpassas till minimi- och maximivärdena för detta intervall. Standardvärdet är 0,3. |
+| [Tolerance](../../aspose.svg.imagevectorization/imagetracesimplifier/tolerance/) { get; set; } | Värdet på toleransen bestämmer den maximala felmarginal som tillåts för en punkt att elimineras från spårningen. Det måste ligga i intervallet från 0 till 4. Alla högre eller lägre värden kommer att justeras till minimum- och maximumvärdena i detta intervall, enligt detta. Standardvärdet är 0,3. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Simplify](../../aspose.svg.imagevectorization/imagetracesimplifier/simplify/)(IEnumerable&lt;PointF&gt;) | Minskar antalet punkter i listan över spårpunkter. |
+| [Simplify](../../aspose.svg.imagevectorization/imagetracesimplifier/simplify/)(*IEnumerable&lt;PointF&gt;*) | Minskar antalet punkter i listan över spårningspunkterna. |
 
 ### Se även
 
 * interface [IImageTraceSimplifier](../iimagetracesimplifier/)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

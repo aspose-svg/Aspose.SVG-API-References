@@ -1,14 +1,14 @@
 ---
-title: UnitType.Em
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType fält. Måtten är relativt höjden på det överordnade elementets teckensnitt.
+title: "UnitType.Em"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType Em‑fält. Måttet är relativt till höjden på föräldraelementets teckensnitt"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.drawing/unittype/em/
 ---
 ## UnitType.Em field
 
-Måtten är relativt höjden på det överordnade elementets teckensnitt.
+Mätning är relativ till höjden på föräldraelementets teckensnitt.
 
 ```csharp
 public static readonly UnitType Em;
@@ -17,7 +17,5 @@ public static readonly UnitType Em;
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

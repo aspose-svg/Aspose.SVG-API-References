@@ -1,7 +1,7 @@
 ---
-title: MutationObserver.TakeRecords
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserver metod. Metoden returnerar en kopia av postkön och tömmer sedan postkön.
+title: "MutationObserver.TakeRecords"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserver TakeRecords-metoden. Metoden returnerar en kopia av postkön och tömmer sedan postkön."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom.mutations/mutationobserver/takerecords/
@@ -11,7 +11,7 @@ url: /sv/net/aspose.svg.dom.mutations/mutationobserver/takerecords/
 Metoden returnerar en kopia av postkön och tömmer sedan postkön.
 
 ```csharp
-public IEnumerable<MutationRecord> TakeRecords()
+public IList<MutationRecord> TakeRecords()
 ```
 
 ### Returvärde
@@ -22,7 +22,5 @@ Kopian av postkön.
 
 * class [MutationRecord](../../mutationrecord/)
 * class [MutationObserver](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserver/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

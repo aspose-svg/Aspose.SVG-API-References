@@ -1,28 +1,26 @@
 ---
-title: SVGFESpotLightElement.PointsAtY
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFESpotLightElement fast egendom. Motsvarar attributet pointsAtY på det givna feSpotLightelementet.
+title: "SVGFESpotLightElement.PointsAtY"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFESpotLightElement PointsAtY-egenskap. Motsvarar attributet pointsAtY på det givna feSpotLight-elementet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.filters/svgfespotlightelement/pointsaty/
 ---
 ## SVGFESpotLightElement.PointsAtY property
 
-Motsvarar attributet 'pointsAtY' på det givna 'feSpotLight'-elementet.
+Motsvarar attributet ‘pointsAtY’ på det angivna ‘feSpotLight’-elementet.
 
 ```csharp
 public SVGAnimatedNumber PointsAtY { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'pointsAtY' för det givna 'feSpotLight'-elementet.
+Attributet ‘pointsAtY’ för det givna ‘feSpotLight’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfespotlightelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

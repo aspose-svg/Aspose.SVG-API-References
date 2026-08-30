@@ -1,27 +1,25 @@
 ---
-title: TimeEvent.Detail
-second_title: Aspose.SVG för .NET API Referens
-description: TimeEvent fast egendom. Anger viss detaljinformation om händelsen beroende på typen av händelse. För den här händelsetypen indikerar det upprepade numret för animeringen.
+title: "TimeEvent.Detail"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "TimeEvent Detail-egenskap. Anger viss detaljerad information om händelsen beroende på händelsetypen. För denna händelsetyp indikerar den repetitionsnumret för animationen."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.events/timeevent/detail/
 ---
 ## TimeEvent.Detail property
 
-Anger viss detaljinformation om händelsen, beroende på typen av händelse. För den här händelsetypen, indikerar det upprepade numret för animeringen.
+Specificerar viss detaljerad information om händelsen, beroende på händelsetypen. För denna händelsetyp anger den repetitionsnumret för animationen.
 
 ```csharp
 public long Detail { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Detaljen.
 
 ### Se även
 
 * class [TimeEvent](../)
-* namnutrymme [Aspose.Svg.Events](../../timeevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

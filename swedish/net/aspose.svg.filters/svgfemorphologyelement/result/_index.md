@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.Result
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEMorphologyElement fast egendom. Motsvarar attributet result på det givna filterelementet.
+title: "SVGFEMorphologyElement.Result"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEMorphologyElement Result-egenskap. Motsvarar attributet result på det angivna filterelementet"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.filters/svgfemorphologyelement/result/
 ---
 ## SVGFEMorphologyElement.Result property
 
-Motsvarar attributet 'result' på det givna 'filter'-elementet.
+Motsvarar attributet ‘result’ på det givna ‘filter’-elementet.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'result' för det givna 'filter'-elementet.
+Attributet ‘result’ för det angivna ‘filter’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEMorphologyElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSSStyleDeclaration.Item
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSStyleDeclaration fast egendom. Används för att hämta egenskaperna som uttryckligen har ställts in i detta deklarationsblock. Ordningen på egenskaperna som hämtas med den här metoden behöver inte vara den ordning som de sattes in. Denna metod kan användas för att iterera över alla egenskaper i detta deklarationsblock.
+title: "ICSSStyleDeclaration.Item"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSStyleDeclaration Item property. Används för att hämta de egenskaper som har satts explicit i detta deklarationsblock. Ordningen på de egenskaper som hämtas med denna metod behöver inte vara den ordning de sattes i. Denna metod kan användas för att iterera över alla egenskaper i detta deklarationsblock."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.css/icssstyledeclaration/item/
 ---
 ## ICSSStyleDeclaration indexer
 
-Används för att hämta egenskaperna som uttryckligen har ställts in i detta deklarationsblock. Ordningen på egenskaperna som hämtas med den här metoden behöver inte vara den ordning som de sattes in. Denna metod kan användas för att iterera över alla egenskaper i detta deklarationsblock.
+Används för att hämta de egenskaper som har satts explicit i detta deklarationsblock. Ordningen på de egenskaper som hämtas med denna metod behöver inte vara den ordning de sattes i. Denna metod kan användas för att iterera över alla egenskaper i detta deklarationsblock.
 
 ```csharp
 public string this[int index] { get; }
@@ -16,7 +16,7 @@ public string this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Fastighetsindex |
+| index | Egenskapsindexet |
 
 ### Returvärde
 
@@ -25,7 +25,5 @@ CSS-värdet.
 ### Se även
 
 * interface [ICSSStyleDeclaration](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssstyledeclaration/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

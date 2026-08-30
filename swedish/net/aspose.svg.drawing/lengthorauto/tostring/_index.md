@@ -1,14 +1,14 @@
 ---
-title: LengthOrAuto.ToString
-second_title: Aspose.SVG för .NET API Referens
-description: LengthOrAuto metod. Returnerar enString som representerar denna instans.
+title: "LengthOrAuto.ToString"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "LengthOrAuto ToString‑metod. Returnerar en String som representerar detta objekt"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.drawing/lengthorauto/tostring/
 ---
 ## LengthOrAuto.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en sträng som representerar den här instansen.
 
 ```csharp
 public override string ToString()
@@ -16,12 +16,10 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar den här instansen.
 
 ### Se även
 
 * class [LengthOrAuto](../)
-* namnutrymme [Aspose.Svg.Drawing](../../lengthorauto/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

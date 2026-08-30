@@ -1,14 +1,14 @@
 ---
-title: Interface IImageTraceSimplifier
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ImageVectorization.IImageTraceSimplifier gränssnitt. IImageTraceSimplifiergränssnittet ansvarar för minskning av punkter i spåret.
+title: "IImageTraceSimplifier‑gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ImageVectorization.IImageTraceSimplifier‑gränssnitt. IImageTraceSimplifier‑gränssnittet ansvarar för att reducera antalet punkter i spåret"
 type: docs
-weight: 2090
+weight: 4160
 url: /sv/net/aspose.svg.imagevectorization/iimagetracesimplifier/
 ---
 ## IImageTraceSimplifier interface
 
-IImageTraceSimplifier-gränssnittet ansvarar för minskning av punkter i spåret.
+Gränssnittet IImageTraceSimplifier ansvarar för att reducera antalet punkter i spåret.
 
 ```csharp
 public interface IImageTraceSimplifier
@@ -16,13 +16,11 @@ public interface IImageTraceSimplifier
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Simplify](../../aspose.svg.imagevectorization/iimagetracesimplifier/simplify/)(IEnumerable&lt;PointF&gt;) | Minskar antalet punkter i spåret. |
+| [Simplify](../../aspose.svg.imagevectorization/iimagetracesimplifier/simplify/)(*IEnumerable&lt;PointF&gt;*) | Reducerar antalet punkter i spåret. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

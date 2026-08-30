@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.In1
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEMorphologyElement fast egendom. Motsvarar attributet in på det givna feMorphologyelementet.
+title: "SVGFEMorphologyElement.In1"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEMorphologyElement In1-egenskap. Motsvarar attributet in på det angivna feMorphology-elementet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.filters/svgfemorphologyelement/in1/
 ---
 ## SVGFEMorphologyElement.In1 property
 
-Motsvarar attributet 'in' på det givna 'feMorphology'-elementet.
+Motsvarar attributet ‘in’ på det angivna ‘feMorphology’-elementet.
 
 ```csharp
 public SVGAnimatedString In1 { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'in' för det givna 'feMorphology'-elementet.
+Attributet ‘in’ för det angivna ‘feMorphology’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFEMorphologyElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

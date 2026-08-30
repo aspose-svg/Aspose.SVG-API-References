@@ -1,14 +1,14 @@
 ---
-title: SVGStringList.SVGStringList
-second_title: Aspose.SVG för .NET API Referens
-description: SVGStringList byggare. Initierar en ny instans avSVGStringList class.
+title: "SVGStringList"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGStringList-konstruktorn. Initierar en ny instans av klassen SVGStringList."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-Initierar en ny instans av[`SVGStringList`](../) class.
+Initierar en ny instans av klassen [`SVGStringList`](../).
 
 ```csharp
 public SVGStringList()
@@ -17,14 +17,14 @@ public SVGStringList()
 ### Se även
 
 * class [SVGStringList](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgstringlist/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
+## SVGStringList(*IEnumerable&lt;string&gt;*) {#constructor_1}
 
-Initierar en ny instans av[`SVGStringList`](../) class.
+Initierar en ny instans av klassen [`SVGStringList`](../).
 
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
@@ -32,12 +32,10 @@ public SVGStringList(IEnumerable<string> enumerable)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | Det uppräknade. |
+| enumererbar | IEnumerable`1 | Den enumererbara. |
 
 ### Se även
 
 * class [SVGStringList](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgstringlist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Index
-second_title: Aspose.SVG för .NET API Referens
-description: GlyphInfo fast egendom. Hämtar indexet för denna glyf i typsnittet.
+title: "GlyphInfo.Index"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GlyphInfo Index-egenskap. Hämtar indexet för denna glyf i teckensnittet"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering/glyphinfo/index/
 ---
 ## GlyphInfo.Index property
 
-Hämtar indexet för denna glyf i typsnittet.
+Hämtar indexet för detta tecken i teckensnittet.
 
 ```csharp
 public uint Index { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Index för glyfen.
 
 ### Se även
 
 * struct [GlyphInfo](../)
-* namnutrymme [Aspose.Svg.Rendering](../../glyphinfo/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

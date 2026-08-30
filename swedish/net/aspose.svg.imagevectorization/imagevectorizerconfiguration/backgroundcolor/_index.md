@@ -1,14 +1,14 @@
 ---
-title: ImageVectorizerConfiguration.BackgroundColor
-second_title: Aspose.SVG för .NET API Referens
-description: ImageVectorizerConfiguration fast egendom. Hämtar eller ställer in bakgrundsfärg. Standardvärdet är transparent vit.
+title: "ImageVectorizerConfiguration.BackgroundColor"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageVectorizerConfiguration BackgroundColor-egenskap. Hämtar eller anger bakgrundsfärg. Standardvärdet är transparent vit"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/backgroundcolor/
 ---
 ## ImageVectorizerConfiguration.BackgroundColor property
 
-Hämtar eller ställer in bakgrundsfärg. Standardvärdet är transparent vit.
+Hämtar eller anger bakgrundsfärg. Standardvärdet är transparent vitt.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -18,7 +18,5 @@ public Color BackgroundColor { get; set; }
 
 * class [Color](../../../aspose.svg.drawing/color/)
 * class [ImageVectorizerConfiguration](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../imagevectorizerconfiguration/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

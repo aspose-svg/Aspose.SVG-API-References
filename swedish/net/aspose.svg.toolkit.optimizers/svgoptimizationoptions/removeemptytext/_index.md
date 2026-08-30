@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.RemoveEmptyText
-second_title: Aspose.SVG för .NET API Referens
-description: SVGOptimizationOptions fast egendom. Hämtar eller ställer in alternativet att ta bort tomma textelement. Det är sant som standard.
+title: "SVGOptimizationOptions.RemoveEmptyText"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGOptimizationOptions RemoveEmptyText egenskap. Hämtar eller anger alternativet för att ta bort tomma Text-element. Den är true som standard"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeemptytext/
 ---
 ## SVGOptimizationOptions.RemoveEmptyText property
 
-Hämtar eller ställer in alternativet att ta bort tomma textelement. Det är "sant" som standard.
+Hämtar eller anger alternativet för att ta bort tomma Text‑element. Det är 'true' som standard.
 
 ```csharp
 public bool RemoveEmptyText { get; set; }
@@ -17,7 +17,5 @@ public bool RemoveEmptyText { get; set; }
 ### Se även
 
 * class [SVGOptimizationOptions](../)
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

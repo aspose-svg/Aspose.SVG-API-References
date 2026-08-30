@@ -1,14 +1,14 @@
 ---
-title: Class ImageSaveOptions
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Saving.ImageSaveOptions klass. Dataklass för specifika alternativ.
+title: "ImageSaveOptions klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Saving.ImageSaveOptions klass. Specifik alternativ‑dataklass"
 type: docs
-weight: 3620
+weight: 5690
 url: /sv/net/aspose.svg.saving/imagesaveoptions/
 ---
 ## ImageSaveOptions class
 
-Dataklass för specifika alternativ.
+Specifik alternativdataklass.
 
 ```csharp
 public class ImageSaveOptions : ImageRenderingOptions
@@ -16,29 +16,27 @@ public class ImageSaveOptions : ImageRenderingOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ImageSaveOptions](imagesaveoptions/#constructor)() | Initierar en ny instans av`ImageSaveOptions` klass;Png kommer att användas som standardbildformat. |
-| [ImageSaveOptions](imagesaveoptions/#constructor_1)(ImageFormat) | Bildformat[`ImageFormat`](../../aspose.svg.rendering.image/imageformat/) baserat på initialization |
+| [ImageSaveOptions](imagesaveoptions/#constructor)() | Initierar en ny instans av `ImageSaveOptions`‑klassen; Png kommer att användas som standardbildformat. |
+| [ImageSaveOptions](imagesaveoptions/#constructor_1)(*[ImageFormat](../../aspose.svg.rendering.image/imageformat/)*) | Bildformat [`ImageFormat`](../../aspose.svg.rendering.image/imageformat/) baserat på initiering |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Hämtar eller sätterColor som kommer att fylla bakgrunden på varje sida. Standardvärdet ärTransparent . |
-| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | Ställer in eller får taggat bildfilformat (TIFF)[`Compression`](../../aspose.svg.rendering.image/compression/) . Som standard är denna egenskapLZW . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Får en[`CssOptions`](../../aspose.svg.rendering/cssoptions/) objekt som används för konfiguration av css-egenskapsbearbetning. |
-| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | Ställer in eller hämtar[`ImageFormat`](../../aspose.svg.rendering.image/imageformat/) . Som standard är denna egenskapPng . |
-| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Ställer in eller får horisontell upplösning för utdata och interna (som används under filterbearbetning) bilder, i pixlar per tum. Som standard är den här egenskapen 300 dpi. |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Hämtar ett sidinställningar objekt används för konfigurationsutdata siduppsättning. |
-| [SmoothingMode](../../aspose.svg.rendering.image/imagerenderingoptions/smoothingmode/) { get; set; } | Hämtar eller ställer in renderingskvaliteten för denna grafik. |
-| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | Får en[`TextOptions`](../../aspose.svg.rendering.image/textoptions/) objekt som används för konfiguration av textrendering. |
-| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Ställer in eller får vertikal upplösning för utdata och interna (som används under filterbearbetning) bilder, i pixlar per tum. Som standard är den här egenskapen 300 dpi. |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Hämtar eller anger färg som kommer att fylla bakgrunden på varje sida. Standardvärdet är Transparent. |
+| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | Anger eller hämtar Tagged Image File Format (TIFF) [`Compression`](../../aspose.svg.rendering.image/compression/). Standardvärdet för denna egenskap är LZW. |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Hämtar ett [`CssOptions`](../../aspose.svg.rendering/cssoptions/)‑objekt som används för konfiguration av bearbetning av CSS‑egenskaper. |
+| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | Anger eller hämtar [`ImageFormat`](../../aspose.svg.rendering.image/imageformat/). Standardvärdet för denna egenskap är Png. |
+| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Anger eller hämtar horisontell upplösning för utdata‑ och interna (som används under filterbehandling) bilder, i pixlar per tum. Standardvärdet för denna egenskap är 300 dpi. |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Hämtar ett sidinställningsobjekt som används för konfiguration av utdata siduppsättning. |
+| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | Hämtar ett [`TextOptions`](../../aspose.svg.rendering.image/textoptions/)‑objekt som används för konfiguration av textrendering. |
+| [UseAntialiasing](../../aspose.svg.rendering.image/imagerenderingoptions/useantialiasing/) { get; set; } | Anger om antialiasing ska användas. Som standard är antialiasing aktiverat. |
+| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Anger eller hämtar vertikal upplösning för utdata‑ och interna (som används under filterbehandling) bilder, i pixlar per tum. Standardvärdet för denna egenskap är 300 dpi. |
 
 ### Se även
 
 * class [ImageRenderingOptions](../../aspose.svg.rendering.image/imagerenderingoptions/)
-* namnutrymme [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

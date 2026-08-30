@@ -1,14 +1,14 @@
 ---
-title: Document.OnSubmit
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnSubmithändelse.
+title: "Document.OnSubmit"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnSubmit‑händelse. Hämtar eller anger händelsehanterare för OnSubmit‑händelsen"
 type: docs
 weight: 730
 url: /sv/net/aspose.svg.dom/document/onsubmit/
 ---
 ## Document.OnSubmit event
 
-Hämtar eller ställer in händelsehanterare för OnSubmit-händelse.
+Hämtar eller anger händelsehanterare för OnSubmit‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnSubmit;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnSubmit;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGZoomEvent.PreviousTranslate
-second_title: Aspose.SVG för .NET API Referens
-description: SVGZoomEvent fast egendom. Översättningsvärdena från tidigare zoomoperationer som var på plats innan zoomoperationen inträffade. SVGPointobjektet är skrivskyddat.
+title: "SVGZoomEvent.PreviousTranslate"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGZoomEvent PreviousTranslate-egenskap. Översättningsvärdena från tidigare zoomoperationer som var i kraft innan zoomoperationen inträffade. SVGPoint-objektet är skrivskyddat."
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.events/svgzoomevent/previoustranslate/
 ---
 ## SVGZoomEvent.PreviousTranslate property
 
-Översättningsvärdena från tidigare zoomoperationer som var på plats innan zoomoperationen inträffade. SVGPoint-objektet är skrivskyddat.
+Översättningsvärdena från tidigare zoomoperationer som var i kraft innan zoomoperationen inträffade. SVGPoint-objektet är skrivskyddat.
 
 ```csharp
 public SVGPoint PreviousTranslate { get; }
@@ -18,7 +18,5 @@ public SVGPoint PreviousTranslate { get; }
 
 * class [SVGPoint](../../../aspose.svg.datatypes/svgpoint/)
 * class [SVGZoomEvent](../)
-* namnutrymme [Aspose.Svg.Events](../../svgzoomevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Events](../../../aspose.svg.events/)
+* assembly [Aspose.SVG](../../../)

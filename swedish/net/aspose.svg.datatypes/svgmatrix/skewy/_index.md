@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.SkewY
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMatrix metod. Eftermultiplicerar en skev transformation på den aktuella matrisen och returnerar den resulterande matrisen.
+title: "SVGMatrix.SkewY"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMatrix SkewY‑metod. Postmultiplicerar en skewY‑transformering på den aktuella matrisen och returnerar den resulterande matrisen."
 type: docs
 weight: 120
 url: /sv/net/aspose.svg.datatypes/svgmatrix/skewy/
 ---
 ## SVGMatrix.SkewY method
 
-Eftermultiplicerar en skev transformation på den aktuella matrisen och returnerar den resulterande matrisen.
+Post‑multiplicerar en skewY‑transformation på den aktuella matrisen och returnerar den resulterande matrisen.
 
 ```csharp
 public SVGMatrix SkewY(float angle)
@@ -20,12 +20,10 @@ public SVGMatrix SkewY(float angle)
 
 ### Returvärde
 
-Skev vinkel.
+Snedvinkel.
 
 ### Se även
 
 * class [SVGMatrix](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgmatrix/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Unit.FromPoints
-second_title: Aspose.SVG för .NET API Referens
-description: Unit metod. Returnerar enLength objekt som representeras i punkter.
+title: "Unit.FromPoints"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Unit FromPoints‑metod. Returnerar ett Length‑objekt som representeras i punkter."
 type: docs
 weight: 180
 url: /sv/net/aspose.svg.drawing/unit/frompoints/
 ---
 ## Unit.FromPoints method
 
-Returnerar en[`Length`](../../length/) objekt som representeras i punkter.
+Returnerar ett [`Length`](../../length/) objekt som representeras i punkter.
 
 ```csharp
 public static Length FromPoints(double value)
@@ -20,13 +20,11 @@ public static Length FromPoints(double value)
 
 ### Returvärde
 
-Returnerar a[`Length`](../../length/) objekt.
+Returnerar ett [`Length`](../../length/) objekt.
 
 ### Se även
 
 * class [Length](../../length/)
 * class [Unit](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

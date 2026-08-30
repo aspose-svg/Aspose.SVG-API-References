@@ -1,27 +1,25 @@
 ---
-title: TypeInfo.TypeNamespace
-second_title: Aspose.SVG för .NET API Referens
-description: TypeInfo fast egendom. Hämtar typen namnutrymme. Namnutrymmet av typen som deklareras för det associerade elementet eller attributet eller null om elementet inte har deklaration eller om ingen namnområdesinformation är tillgänglig.
+title: "TypeInfo.TypeNamespace"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "TypeInfo TypeNamespace-egenskap. Hämtar typens namnrymd. Namnrymden för den typ som deklarerats för det associerade elementet eller attributet, eller null om elementet saknar deklaration eller om ingen namnrymdsinformation är tillgänglig."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom/typeinfo/typenamespace/
 ---
 ## TypeInfo.TypeNamespace property
 
-Hämtar typen namnutrymme. Namnutrymmet av typen som deklareras för det associerade elementet eller attributet eller null om elementet inte har deklaration eller om ingen namnområdesinformation är tillgänglig.
+Hämtar typens namnrymd. Namnrymden för den typ som deklarerats för det associerade elementet eller attributet eller null om elementet saknar deklaration eller om ingen namnrymdsinformation är tillgänglig.
 
 ```csharp
 public string TypeNamespace { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typnamnutrymmet.
+Typens namnrymd.
 
 ### Se även
 
 * class [TypeInfo](../)
-* namnutrymme [Aspose.Svg.Dom](../../typeinfo/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

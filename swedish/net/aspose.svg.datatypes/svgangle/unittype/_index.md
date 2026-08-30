@@ -1,7 +1,7 @@
 ---
-title: SVGAngle.UnitType
-second_title: Aspose.SVG för .NET API Referens
-description: SVGAngle fast egendom. Typen av värdet som specificeras av en av SVG_ANGLETYPE_konstanterna som definieras i detta gränssnitt.
+title: "SVGAngle.UnitType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGAngle UnitType‑egenskap. Typen av värdet som anges av en av SVG_ANGLETYPE_-konstanterna som definieras på detta gränssnitt."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.datatypes/svgangle/unittype/
@@ -14,14 +14,12 @@ Typen av värdet som specificeras av en av SVG_ANGLETYPE_*-konstanterna som defi
 public ushort UnitType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av enhet.
+Typen av enheten.
 
 ### Se även
 
 * class [SVGAngle](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgangle/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

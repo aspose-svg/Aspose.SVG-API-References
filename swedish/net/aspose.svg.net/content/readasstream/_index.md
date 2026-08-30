@@ -1,7 +1,7 @@
 ---
-title: Content.ReadAsStream
-second_title: Aspose.SVG för .NET API Referens
-description: Content metod. Serialisera HTTPinnehållet och returnera en ström som representerar innehållet.
+title: "Content.ReadAsStream"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Content ReadAsStream‑metod. Serialiserar HTTP‑innehållet och returnerar en ström som representerar innehållet"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.net/content/readasstream/
@@ -21,7 +21,5 @@ Serialiserad ström som representerar innehållet
 ### Se även
 
 * class [Content](../)
-* namnutrymme [Aspose.Svg.Net](../../content/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

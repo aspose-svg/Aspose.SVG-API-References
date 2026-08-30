@@ -1,28 +1,26 @@
 ---
-title: INonDocumentTypeChildNode.PreviousElementSibling
-second_title: Aspose.SVG för .NET API Referens
-description: INonDocumentTypeChildNode fast egendom. Returnerar det första föregående syskon som är ett element och null annars.
+title: "INonDocumentTypeChildNode.PreviousElementSibling"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "INonDocumentTypeChildNode PreviousElementSibling‑egenskap. Returnerar den första föregående syskonen som är ett element och null annars"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/
 ---
 ## INonDocumentTypeChildNode.PreviousElementSibling property
 
-Returnerar det första föregående syskon som är ett element, och null annars.
+Returnerar den första föregående syskonen som är ett element, och null annars.
 
 ```csharp
 public Element PreviousElementSibling { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det föregående elementet syskon.
+Den föregående element‑syskonet.
 
 ### Se även
 
 * class [Element](../../element/)
 * interface [INonDocumentTypeChildNode](../)
-* namnutrymme [Aspose.Svg.Dom](../../inondocumenttypechildnode/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

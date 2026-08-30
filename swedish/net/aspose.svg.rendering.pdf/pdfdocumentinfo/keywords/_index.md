@@ -1,14 +1,14 @@
 ---
-title: PdfDocumentInfo.Keywords
-second_title: Aspose.SVG för .NET API Referens
-description: PdfDocumentInfo fast egendom. Nyckelord som är kopplade till dokumentet.
+title: "PdfDocumentInfo.Keywords"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PdfDocumentInfo Keywords egenskap. Nyckelord som är associerade med dokumentet"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.rendering.pdf/pdfdocumentinfo/keywords/
 ---
 ## PdfDocumentInfo.Keywords property
 
-Nyckelord som är kopplade till dokumentet.
+Nyckelord som är associerade med dokumentet.
 
 ```csharp
 public string Keywords { get; set; }
@@ -17,7 +17,5 @@ public string Keywords { get; set; }
 ### Se även
 
 * class [PdfDocumentInfo](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnCueChange
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnCueChangehändelse.
+title: "IGlobalEventHandlers.OnCueChange"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnCueChange händelse. Hämtar eller anger händelsehanterare för OnCueChange händelse"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/oncuechange/
 ---
 ## IGlobalEventHandlers.OnCueChange event
 
-Hämtar eller ställer in händelsehanterare för OnCueChange-händelse.
+Hämtar eller anger händelsehanterare för OnCueChange‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnCueChange;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnCueChange;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

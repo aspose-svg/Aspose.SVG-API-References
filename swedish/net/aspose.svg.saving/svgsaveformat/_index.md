@@ -1,28 +1,27 @@
 ---
-title: Enum SVGSaveFormat
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Saving.SVGSaveFormat uppräkning. Anger format i vilket dokument sparas.
+title: "SVGSaveFormat Enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Saving.SVGSaveFormat enum. Anger formatet som dokumentet sparas i"
 type: docs
-weight: 3660
+weight: 5780
 url: /sv/net/aspose.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration
 
-Anger format i vilket dokument sparas.
+Anger formatet i vilket dokumentet sparas.
 
 ```csharp
 public enum SVGSaveFormat
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | SVG | `0` | Dokumentet kommer att sparas som SVG. |
+| SVGZ | `1` | Dokumentet kommer att sparas som SVGZ. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

@@ -1,7 +1,7 @@
 ---
-title: PdfDocumentInfo.Producer
-second_title: Aspose.SVG för .NET API Referens
-description: PdfDocumentInfo fast egendom. Namnet på produkten som konverterade dokumentet.
+title: "PdfDocumentInfo.Producer"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PdfDocumentInfo Producer egenskap. Namnet på produkten som konverterade dokumentet"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.rendering.pdf/pdfdocumentinfo/producer/
@@ -17,7 +17,5 @@ public string Producer { get; set; }
 ### Se även
 
 * class [PdfDocumentInfo](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfdocumentinfo/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

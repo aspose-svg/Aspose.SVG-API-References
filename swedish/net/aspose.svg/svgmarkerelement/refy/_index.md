@@ -1,28 +1,26 @@
 ---
-title: SVGMarkerElement.RefY
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMarkerElement fast egendom. Motsvarar attributet refY på det givna markerelementet.
+title: "SVGMarkerElement.RefY"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMarkerElement RefY‑egenskap. Motsvarar attributet refY på det angivna marker‑elementet."
 type: docs
 weight: 80
 url: /sv/net/aspose.svg/svgmarkerelement/refy/
 ---
 ## SVGMarkerElement.RefY property
 
-Motsvarar attributet 'refY' på det givna 'marker'-elementet.
+Motsvarar attributet ‘refY’ på det angivna ‘marker’-elementet.
 
 ```csharp
 public SVGAnimatedLength RefY { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'refY' för det givna 'marker'-elementet.
+Attributet ‘refY’ för det angivna ‘marker’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMarkerElement](../)
-* namnutrymme [Aspose.Svg](../../svgmarkerelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

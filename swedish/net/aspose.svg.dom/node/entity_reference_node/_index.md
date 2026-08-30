@@ -1,9 +1,9 @@
 ---
-title: Node.ENTITY_REFERENCE_NODE
-second_title: Aspose.SVG för .NET API Referens
-description: Node fält. En entitetsreferensnod
+title: "Node.ENTITY_REFERENCE_NODE"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node ENTITY_REFERENCE_NODE-fält. En entitetsreferensnod"
 type: docs
-weight: 400
+weight: 380
 url: /sv/net/aspose.svg.dom/node/entity_reference_node/
 ---
 ## Node.ENTITY_REFERENCE_NODE field
@@ -17,7 +17,5 @@ public const ushort ENTITY_REFERENCE_NODE;
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

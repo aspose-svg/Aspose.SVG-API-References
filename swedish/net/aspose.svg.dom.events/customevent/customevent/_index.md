@@ -1,14 +1,14 @@
 ---
-title: CustomEvent.CustomEvent
-second_title: Aspose.SVG för .NET API Referens
-description: CustomEvent byggare. Initierar en ny instans avCustomEvent class.
+title: "CustomEvent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CustomEvent konstruktor. Skapar en ny instans av klassen CustomEvent"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.events/customevent/customevent/
 ---
-## CustomEvent(string) {#constructor}
+## CustomEvent(*string*) {#constructor}
 
-Initierar en ny instans av[`CustomEvent`](../) class.
+Skapar en ny instans av klassen [`CustomEvent`](../).
 
 ```csharp
 public CustomEvent(string type)
@@ -21,14 +21,14 @@ public CustomEvent(string type)
 ### Se även
 
 * class [CustomEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../customevent/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## CustomEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## CustomEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Initierar en ny instans av[`CustomEvent`](../) class.
+Skapar en ny instans av klassen [`CustomEvent`](../).
 
 ```csharp
 public CustomEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public CustomEvent(string type, IDictionary<string, object> eventInitDict)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | type | String | Händelsetypen. |
-| eventInitDict | IDictionary`2 | Händelsens initialiseringsordbok. |
+| eventInitDict | IDictionary`2 | Händelsens initieringsordbok. |
 
 ### Se även
 
 * class [CustomEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../customevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

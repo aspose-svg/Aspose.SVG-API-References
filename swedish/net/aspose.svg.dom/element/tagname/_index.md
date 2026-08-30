@@ -1,27 +1,25 @@
 ---
-title: Element.TagName
-second_title: Aspose.SVG för .NET API Referens
-description: Element fast egendom. Namnet på elementet.
+title: "Element.TagName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element TagName-egenskapen. Namnet på elementet."
 type: docs
-weight: 210
+weight: 200
 url: /sv/net/aspose.svg.dom/element/tagname/
 ---
 ## Element.TagName property
 
-Namnet på elementet.
+Elementets namn.
 
 ```csharp
 public string TagName { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnet på elementet.
+Elementets namn.
 
 ### Se även
 
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

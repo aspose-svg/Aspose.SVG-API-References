@@ -1,14 +1,14 @@
 ---
-title: SVGSaveOptions.VectorizeText
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSaveOptions fast egendom. Hämtar eller ställer in om textelement ska ersättas med sökvägar.
+title: "SVGSaveOptions.VectorizeText"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSaveOptions VectorizeText egenskap. Hämtar eller anger om textelement ersätts med banor"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.saving/svgsaveoptions/vectorizetext/
 ---
 ## SVGSaveOptions.VectorizeText property
 
-Hämtar eller ställer in om textelement ska ersättas med sökvägar.
+Hämtar eller anger om textelement ersätts med banor.
 
 ```csharp
 public bool VectorizeText { get; set; }
@@ -17,7 +17,5 @@ public bool VectorizeText { get; set; }
 ### Se även
 
 * class [SVGSaveOptions](../)
-* namnutrymme [Aspose.Svg.Saving](../../svgsaveoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

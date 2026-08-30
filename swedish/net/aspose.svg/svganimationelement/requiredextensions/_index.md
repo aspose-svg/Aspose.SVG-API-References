@@ -1,20 +1,20 @@
 ---
-title: SVGAnimationElement.RequiredExtensions
-second_title: Aspose.SVG för .NET API Referens
-description: SVGAnimationElement fast egendom. Motsvarar attributet requiredExtensions på det givna elementet.
+title: "SVGAnimationElement.RequiredExtensions"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGAnimationElement RequiredExtensions‑egenskap. Motsvarar attributet requiredExtensions på det givna elementet."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/svganimationelement/requiredextensions/
 ---
 ## SVGAnimationElement.RequiredExtensions property
 
-Motsvarar attributet 'requiredExtensions' på det givna elementet.
+Motsvarar attributet ‘requiredExtensions’ på det givna elementet.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De nödvändiga tilläggen.
 
@@ -22,7 +22,5 @@ De nödvändiga tilläggen.
 
 * class [SVGStringList](../../../aspose.svg.datatypes/svgstringlist/)
 * class [SVGAnimationElement](../)
-* namnutrymme [Aspose.Svg](../../svganimationelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,28 +1,26 @@
 ---
-title: SVGFETurbulenceElement.Result
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFETurbulenceElement fast egendom. Motsvarar attributet result på det givna filterelementet.
+title: "SVGFETurbulenceElement.Result"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFETurbulenceElement Result-egenskap. Motsvarar attributet result på det givna filterelementet."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.filters/svgfeturbulenceelement/result/
 ---
 ## SVGFETurbulenceElement.Result property
 
-Motsvarar attributet 'result' på det givna 'filter'-elementet.
+Motsvarar attributet ‘result’ på det givna ‘filter’-elementet.
 
 ```csharp
 public SVGAnimatedString Result { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'result' för det givna 'filter'-elementet.
+Attributet ‘result’ för det angivna ‘filter’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFETurbulenceElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeturbulenceelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Orphans
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se definitionen av föräldralösa egendom i CSS2.
+title: "ICSS2Properties.Orphans"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Orphans egenskap. Se definitionen av orphans egenskapen i CSS2"
 type: docs
-weight: 740
+weight: 770
 url: /sv/net/aspose.svg.dom.css/icss2properties/orphans/
 ---
 ## ICSS2Properties.Orphans property
 
-Se definitionen av föräldralösa egendom i CSS2.
+Se egendefinitionen för orphans i CSS2.
 
 ```csharp
 public string Orphans { get; set; }
@@ -16,12 +16,10 @@ public string Orphans { get; set; }
 
 ### Returvärde
 
-föräldralösa egendom
+orphans egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

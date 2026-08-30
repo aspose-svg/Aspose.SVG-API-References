@@ -1,14 +1,14 @@
 ---
-title: Rect.Top
-second_title: Aspose.SVG för .NET API Referens
-description: Rect fast egendom. Det här attributet används för toppen av rect.
+title: "Rect.Top"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Rect Top egenskap. Detta attribut används för rektangelns övre kant"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom.css/rect/top/
 ---
 ## Rect.Top property
 
-Det här attributet används för toppen av rect.
+Detta attribut används för rektangelns topp.
 
 ```csharp
 public CSSPrimitiveValue Top { get; }
@@ -18,7 +18,5 @@ public CSSPrimitiveValue Top { get; }
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../rect/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

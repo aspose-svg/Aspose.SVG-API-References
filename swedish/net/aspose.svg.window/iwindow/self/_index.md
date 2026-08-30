@@ -1,14 +1,14 @@
 ---
-title: IWindow.Self
-second_title: Aspose.SVG för .NET API Referens
-description: IWindow fast egendom. Returnerar Windowobjektets webbläsarkontexts WindowProxyobjekt.
+title: "IWindow.Self"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindow Self-egenskap. Returnerar Window-objektets surfkontexts WindowProxy-objekt."
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.svg.window/iwindow/self/
 ---
 ## IWindow.Self property
 
-Returnerar Window-objektets webbläsarkontexts WindowProxy-objekt.
+Returnerar Window-objektets surfkontexts WindowProxy-objekt.
 
 ```csharp
 public IWindow Self { get; }
@@ -17,7 +17,5 @@ public IWindow Self { get; }
 ### Se även
 
 * interface [IWindow](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindow/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

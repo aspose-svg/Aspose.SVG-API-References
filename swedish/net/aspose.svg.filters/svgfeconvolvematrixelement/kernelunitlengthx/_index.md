@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.KernelUnitLengthX
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEConvolveMatrixElement fast egendom. Motsvarar attributet kernelUnitLength på det givna feConvolveMatrixelementet.
+title: "SVGFEConvolveMatrixElement.KernelUnitLengthX"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEConvolveMatrixElement KernelUnitLengthX egenskap. Motsvarar attributet kernelUnitLength på det givna feConvolveMatrix-elementet."
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.filters/svgfeconvolvematrixelement/kernelunitlengthx/
 ---
 ## SVGFEConvolveMatrixElement.KernelUnitLengthX property
 
-Motsvarar attributet 'kernelUnitLength' på det givna 'feConvolveMatrix'-elementet.
+Motsvarar attributet ‘kernelUnitLength’ på det angivna ‘feConvolveMatrix’-elementet.
 
 ```csharp
 public SVGAnimatedNumber KernelUnitLengthX { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'kernelUnitLength' för det givna 'feConvolveMatrix'-elementet.
+Attributet ‘kernelUnitLength’ för det givna ‘feConvolveMatrix’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEConvolveMatrixElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Document.OnToggle
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnTogglehändelse.
+title: "Document.OnToggle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnToggle händelse. Hämtar eller anger händelsehanterare för OnToggle händelse"
 type: docs
 weight: 760
 url: /sv/net/aspose.svg.dom/document/ontoggle/
 ---
 ## Document.OnToggle event
 
-Hämtar eller ställer in händelsehanterare för OnToggle-händelse.
+Hämtar eller anger händelsehanterare för OnToggle‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnToggle;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnToggle;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

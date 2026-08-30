@@ -1,14 +1,14 @@
 ---
-title: Color.FromHsl
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Returnerar en ny färg med de begärda värdena för nyans mättnad och mättnad.
+title: "Color.FromHsl"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color FromHsl-metoden. Returnerar en ny Color med de begärda hue- och saturation-värdena"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.drawing/color/fromhsl/
 ---
 ## Color.FromHsl method
 
-Returnerar en ny färg med de begärda värdena för nyans, mättnad och mättnad.
+Returnerar en ny Color med de begärda hue, saturation, saturation‑värdena.
 
 ```csharp
 public static Color FromHsl(float hue, float saturation, float lightness)
@@ -16,18 +16,16 @@ public static Color FromHsl(float hue, float saturation, float lightness)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| hue | Single | En float som representerar nyanskomponenten i färgen. |
-| saturation | Single | En float som representerar färgens mättnadskomponent. |
-| lightness | Single | En flottör som representerar färgens ljushetskomponent. |
+| nyans | Single | Ett float som representerar nyanskomponenten i färgen. |
+| saturation | Single | Ett float som representerar mättnadskomponenten i färgen. |
+| ljushet | Single | Ett flyttal som representerar färgens ljushetskomponent. |
 
 ### Returvärde
 
-En ny instans av[`Color`](../) klass
+En ny instans av klassen [`Color`](../)
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

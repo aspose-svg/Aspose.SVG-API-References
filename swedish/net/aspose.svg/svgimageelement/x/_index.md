@@ -1,28 +1,26 @@
 ---
-title: SVGImageElement.X
-second_title: Aspose.SVG för .NET API Referens
-description: SVGImageElement fast egendom. Motsvarar attributet x på det givna imageelementet.
+title: "SVGImageElement.X"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGImageElement X egenskap. Motsvarar attributet x på det angivna bildelementet."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/svgimageelement/x/
 ---
 ## SVGImageElement.X property
 
-Motsvarar attributet 'x' på det givna 'image'-elementet.
+Motsvarar attributet ‘x’ på det angivna ‘image’-elementet.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Motsvarar attributet 'x' på det givna 'image'-elementet.
+Motsvarar attributet ‘x’ på det angivna ‘image’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGImageElement](../)
-* namnutrymme [Aspose.Svg](../../svgimageelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

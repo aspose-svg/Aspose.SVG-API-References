@@ -1,14 +1,14 @@
 ---
-title: UnitType.op_Equality
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType metod. Bestämmer om de två angivnaUnitType värdena är lika.
+title: "UnitType.op_Equality"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType op_Equality-metod. Bestämmer om de två angivna UnitType-värdena är lika"
 type: docs
 weight: 340
 url: /sv/net/aspose.svg.drawing/unittype/op_equality/
 ---
 ## UnitType Equality operator
 
-Bestämmer om de två angivna[`UnitType`](../) värdena är lika.
+Bestämmer om de två angivna [`UnitType`](../) värdena är lika.
 
 ```csharp
 public static bool operator ==(UnitType first, UnitType second)
@@ -16,17 +16,15 @@ public static bool operator ==(UnitType first, UnitType second)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| first | UnitType | Den första[`UnitType`](../) värde att jämföra. |
-| second | UnitType | Den andra[`UnitType`](../) värde att jämföra. |
+| first | UnitType | Det första [`UnitType`](../) värdet att jämföra. |
+| second | UnitType | Det andra [`UnitType`](../) värdet att jämföra. |
 
 ### Returvärde
 
-`Sann` om båda[`UnitType`](../) är jämlika; annat,`falsk` .
+`true` om båda [`UnitType`](../) är lika; annars, `false`.
 
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

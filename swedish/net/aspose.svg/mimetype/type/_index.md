@@ -1,7 +1,7 @@
 ---
-title: MimeType.Type
-second_title: Aspose.SVG för .NET API Referens
-description: MimeType fast egendom. Hämtar mediatypen.
+title: "MimeType.Type"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MimeType Type-egenskap. Hämtar mediatypen"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg/mimetype/type/
@@ -14,14 +14,12 @@ Hämtar mediatypen.
 public string Type { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Medietypen.
+Mediatypen.
 
 ### Se även
 
 * class [MimeType](../)
-* namnutrymme [Aspose.Svg](../../mimetype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

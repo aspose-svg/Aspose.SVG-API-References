@@ -1,27 +1,25 @@
 ---
-title: MouseEvent.Button
-second_title: Aspose.SVG för .NET API Referens
-description: MouseEvent fast egendom. Under mushändelser orsakade av nedtryckning eller släppning av en musknapp MÅSTE knappen användas för att indikera vilken pekenhetsknapp som ändrat tillstånd.
+title: "MouseEvent.Button"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MouseEvent Button-egenskap. Under mus-händelser som orsakas av nedtryckning eller släpp av en musknapp måste knappen ANVÄNDAS för att ange vilken pekarenhet-knapp som ändrade tillstånd."
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.events/mouseevent/button/
 ---
 ## MouseEvent.Button property
 
-Under mushändelser orsakade av nedtryckning eller släppning av en musknapp, MÅSTE knappen användas för att indikera vilken pekenhetsknapp som ändrat tillstånd.
+Under mus‑händelser som orsakas av nedtryckning eller släpp av en musknapp, måste attributet button användas för att ange vilken pekarenhet‑knapp som ändrade tillstånd.
 
 ```csharp
 public short Button { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Knappen.
 
 ### Se även
 
 * class [MouseEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../mouseevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

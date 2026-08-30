@@ -1,14 +1,14 @@
 ---
-title: IStyleSheet.Media
-second_title: Aspose.SVG för .NET API Referens
-description: IStyleSheet fast egendom. Det avsedda målmediet för stilinformation.
+title: "IStyleSheet.Media"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IStyleSheet Media-egenskap. Den avsedda destinationsmediet för stilinformation"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom.css/istylesheet/media/
 ---
 ## IStyleSheet.Media property
 
-Det avsedda målmediet för stilinformation.
+Den avsedda destinationsmediet för stilinformation.
 
 ```csharp
 public IMediaList Media { get; }
@@ -18,7 +18,5 @@ public IMediaList Media { get; }
 
 * interface [IMediaList](../../imedialist/)
 * interface [IStyleSheet](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../istylesheet/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

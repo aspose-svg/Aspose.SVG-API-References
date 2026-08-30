@@ -1,30 +1,28 @@
 ---
-title: Device2.DrawImage
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Ritar den angivna bilden.
+title: "Device-2.DrawImage"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device DrawImage-metoden. Ritar den angivna bilden"
 type: docs
-weight: 110
+weight: 140
 url: /sv/net/aspose.svg.rendering/device-2/drawimage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DrawImage method
+## Device<TGraphicContext,TRenderingOptions>.DrawImage method
 
 Ritar den angivna bilden.
 
 ```csharp
-public abstract void DrawImage(byte[] data, ImageType type, RectangleF rect)
+public virtual void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| data | Byte[] | En uppsättning byte som representerar bilden. |
-| type | ImageType | Bildtyp. |
+| data | Byte[] | En array av byte som representerar bilden. |
+| imageFormat | WebImageFormat | Bildformat. |
 | rect | RectangleF | En rektangel som bestämmer position och storlek för att rita. |
 
 ### Se även
 
-* enum [ImageType](../../imagetype/)
+* enum [WebImageFormat](../../../aspose.svg.drawing/webimageformat/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

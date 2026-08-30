@@ -1,28 +1,26 @@
 ---
-title: SVGFEMorphologyElement.Y
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEMorphologyElement fast egendom. Motsvarar attributet y på det givna filterelementet.
+title: "SVGFEMorphologyElement.Y"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEMorphologyElement Y-egenskap. Motsvarar attributet y på det angivna filterelementet"
 type: docs
 weight: 90
 url: /sv/net/aspose.svg.filters/svgfemorphologyelement/y/
 ---
 ## SVGFEMorphologyElement.Y property
 
-Motsvarar attributet 'y' på det givna 'filter'-elementet.
+Motsvarar attributet ‘y’ på det givna ‘filter’-elementet.
 
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'y' för det givna 'filter'-elementet.
+Attributet ‘y’ för det angivna ‘filter’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEMorphologyElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfemorphologyelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: MimeType.op_Inequality
-second_title: Aspose.SVG för .NET API Referens
-description: MimeType metod. Jämför två Mimetyper och returnerar en boolean som anger om de två matchar.
+title: "MimeType.op_Inequality"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MimeType op_Inequality-metod. Jämför två Mime-typer och returnerar ett boolean-värde som indikerar om de två matchar"
 type: docs
 weight: 100
 url: /sv/net/aspose.svg/mimetype/op_inequality/
 ---
 ## MimeType Inequality operator
 
-Jämför två Mime-typer och returnerar en boolean som anger om de två matchar.
+Jämför två Mime-typer och returnerar ett booleskt värde som indikerar om de två matchar.
 
 ```csharp
 public static bool operator !=(MimeType a, MimeType b)
@@ -21,12 +21,10 @@ public static bool operator !=(MimeType a, MimeType b)
 
 ### Returvärde
 
-Sann om båda prioriteringarna inte är lika, annarsfalsk .
+True om båda prioriteringarna inte är lika, annars false.
 
 ### Se även
 
 * class [MimeType](../)
-* namnutrymme [Aspose.Svg](../../mimetype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

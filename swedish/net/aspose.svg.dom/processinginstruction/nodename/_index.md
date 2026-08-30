@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction.NodeName
-second_title: Aspose.SVG för .NET API Referens
-description: ProcessingInstruction fast egendom. Namnet på denna nod beroende på dess typ.
+title: "ProcessingInstruction.NodeName"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ProcessingInstruction NodeName-egenskapen. Namnet på denna nod beroende på dess typ"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom/processinginstruction/nodename/
@@ -14,14 +14,12 @@ Namnet på denna nod, beroende på dess typ.
 public override string NodeName { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnet på noden.
+Nodens namn.
 
 ### Se även
 
 * class [ProcessingInstruction](../)
-* namnutrymme [Aspose.Svg.Dom](../../processinginstruction/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

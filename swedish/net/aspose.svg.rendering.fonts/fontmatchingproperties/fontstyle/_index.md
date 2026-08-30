@@ -1,14 +1,14 @@
 ---
-title: FontMatchingProperties.FontStyle
-second_title: Aspose.SVG för .NET API Referens
-description: FontMatchingProperties fast egendom. Hämtar teckensnittsstilsvärdet. Den här egenskapen kan ha sådana värden normal kursiv oblique.
+title: "FontMatchingProperties.FontStyle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "FontMatchingProperties FontStyle property. Hämtar teckensnittsstilens värde. Denna egenskap kan ha sådana värden normal italic oblique"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontstyle/
 ---
 ## FontMatchingProperties.FontStyle property
 
-Hämtar teckensnittsstilsvärdet. Den här egenskapen kan ha sådana värden: normal, kursiv, oblique.
+Hämtar teckensnittets stilvärde. Denna egenskap kan ha följande värden: normal, italic, oblique.
 
 ```csharp
 public string FontStyle { get; }
@@ -17,7 +17,5 @@ public string FontStyle { get; }
 ### Se även
 
 * class [FontMatchingProperties](../)
-* namnutrymme [Aspose.Svg.Rendering.Fonts](../../fontmatchingproperties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Fonts](../../../aspose.svg.rendering.fonts/)
+* assembly [Aspose.SVG](../../../)

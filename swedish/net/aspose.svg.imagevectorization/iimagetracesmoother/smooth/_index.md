@@ -1,7 +1,7 @@
 ---
-title: IImageTraceSmoother.Smooth
-second_title: Aspose.SVG för .NET API Referens
-description: IImageTraceSmoother metod. Jämnar ut spår.
+title: "IImageTraceSmoother.Smooth"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IImageTraceSmoother Smooth-metod. Utjämnar trace."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.imagevectorization/iimagetracesmoother/smooth/
@@ -16,16 +16,14 @@ public IEnumerable<PointF> Smooth(IEnumerable<PointF> trace)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| trace | IEnumerable`1 | Listan över spårpunkter. |
+| spår | IEnumerable`1 | Listan med spårpunkterna. |
 
 ### Returvärde
 
-Listan över utjämnade spårpunkter.
+Listan med de utjämnade spårpunkterna.
 
 ### Se även
 
 * interface [IImageTraceSmoother](../)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../iimagetracesmoother/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../../)

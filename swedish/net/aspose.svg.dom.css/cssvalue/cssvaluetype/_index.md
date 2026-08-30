@@ -1,27 +1,25 @@
 ---
-title: CSSValue.CSSValueType
-second_title: Aspose.SVG för .NET API Referens
-description: CSSValue fast egendom. En kod som definierar typen av värdet.
+title: "CSSValue.CSSValueType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CSSValue CSSValueType-egenskapen. En kod som definierar värdets typ"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.css/cssvalue/cssvaluetype/
 ---
 ## CSSValue.CSSValueType property
 
-En kod som definierar typen av värdet.
+En kod som definierar värdets typ.
 
 ```csharp
 public ushort CSSValueType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Typen av CSS-värdet.
 
 ### Se även
 
 * class [CSSValue](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../cssvalue/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

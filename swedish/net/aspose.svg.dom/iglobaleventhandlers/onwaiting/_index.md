@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnWaiting
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnWaitinghändelse.
+title: "IGlobalEventHandlers.OnWaiting"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnWaiting händelse. Hämtar eller anger händelsehanterare för OnWaiting händelse."
 type: docs
 weight: 500
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/onwaiting/
 ---
 ## IGlobalEventHandlers.OnWaiting event
 
-Hämtar eller ställer in händelsehanterare för OnWaiting-händelse.
+Hämtar eller anger händelsehanterare för OnWaiting‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnWaiting;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnWaiting;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

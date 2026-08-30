@@ -1,27 +1,25 @@
 ---
-title: Attr.Specified
-second_title: Aspose.SVG för .NET API Referens
-description: Attr fast egendom. True om detta attribut uttryckligen gavs ett värde i instansdokumentet annars falskt.
+title: "Attr.Specified"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Attr Specified egenskap. Sant om detta attribut explicit fick ett värde i instansdokumentet, falskt annars"
 type: docs
-weight: 110
+weight: 90
 url: /sv/net/aspose.svg.dom/attr/specified/
 ---
 ## Attr.Specified property
 
-True om detta attribut uttryckligen gavs ett värde i instansdokumentet, annars falskt.
+Sant om detta attribut explicit fick ett värde i instansdokumentet, falskt annars.
 
 ```csharp
 public bool Specified { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om specificerat; annat,`falsk` .
+`true` om specificerad; annars `false`.
 
 ### Se även
 
 * class [Attr](../)
-* namnutrymme [Aspose.Svg.Dom](../../attr/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

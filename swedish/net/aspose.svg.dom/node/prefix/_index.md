@@ -1,27 +1,31 @@
 ---
-title: Node.Prefix
-second_title: Aspose.SVG för .NET API Referens
-description: Node fast egendom. Namnutrymmesprefixet för denna nod eller null om det är ospecificerat. När den är definierad som null har inställningen ingen effekt
+title: "Node.Prefix"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node Prefix-egenskap. Returnerar namnrymdspräfixet för det angivna elementet eller null om inget prefix har angetts"
 type: docs
-weight: 150
+weight: 140
 url: /sv/net/aspose.svg.dom/node/prefix/
 ---
 ## Node.Prefix property
 
-Namnutrymmesprefixet för denna nod, eller null om det är ospecificerat. När den är definierad som null har inställningen ingen effekt
+Returnerar namnrymdsprefixet för det angivna elementet, eller null om inget prefix har angetts.
 
 ```csharp
 public virtual string Prefix { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Prefixet.
+Egenskapen returnerar associerat namnrymdspräfix.
+
+## Anmärkningar
+
+Referens:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-prefix).
 
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

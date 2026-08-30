@@ -1,14 +1,14 @@
 ---
-title: Class SplinePathBuilder
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.ImageVectorization.SplinePathBuilder klass. DenSplinePathBuilder klass ansvarar för att bygga vägsegmentSVGPathSeg från listan över spårpunkter. Denna banbyggare är baserad på att applicera en CatmullRoma spline på en uppsättning utjämnade och reducerade banpunkter..
+title: "SplinePathBuilder‑klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.ImageVectorization.SplinePathBuilder‑klass. SplinePathBuilder‑klassen är utformad för att konstruera en jämn bana genom att omvandla centripetala Catmull‑Rom‑splines till Bézier‑kurvor. Den erbjuder en metod för att generera en bana som jämnt interpolerar genom en uppsättning punkter och ger en balans mellan noggrannhet mot punkterna och kurvans släthet."
 type: docs
-weight: 2160
+weight: 4230
 url: /sv/net/aspose.svg.imagevectorization/splinepathbuilder/
 ---
 ## SplinePathBuilder class
 
-Den`SplinePathBuilder` klass ansvarar för att bygga vägsegment[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg/) från listan över spårpunkter. Denna banbyggare är baserad på att applicera en Catmull-Roma spline på en uppsättning utjämnade och reducerade banpunkter..
+Klassen `SplinePathBuilder` är utformad för att konstruera en jämn bana genom att omvandla centripetala Catmull‑Rom‑splines till Bézier‑kurvor. Den erbjuder en metod för att generera en bana som jämnt interpolerar genom en uppsättning punkter, vilket ger en balans mellan noggrannhet mot punkterna och kurvans släthet.
 
 ```csharp
 public class SplinePathBuilder : IPathBuilder
@@ -16,30 +16,28 @@ public class SplinePathBuilder : IPathBuilder
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SplinePathBuilder](splinepathbuilder/#constructor)() | Initierar en ny instans av`SplinePathBuilder` class. |
-| [SplinePathBuilder](splinepathbuilder/#constructor_2)(float) | Initierar en ny instans av`SplinePathBuilder` class. |
-| [SplinePathBuilder](splinepathbuilder/#constructor_1)(IImageTraceSmoother, IImageTraceSimplifier, float) | Initierar en ny instans av`SplinePathBuilder` class. |
+| [SplinePathBuilder](splinepathbuilder/#constructor)() | Initierar en ny instans av klassen `SplinePathBuilder`. |
+| [SplinePathBuilder](splinepathbuilder/#constructor_2)(*float*) | Initierar en ny instans av klassen `SplinePathBuilder`. |
+| [SplinePathBuilder](splinepathbuilder/#constructor_1)(*[IImageTraceSmoother](../iimagetracesmoother/), [IImageTraceSimplifier](../iimagetracesimplifier/), float*) | Initierar en ny instans av klassen `SplinePathBuilder`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Tension](../../aspose.svg.imagevectorization/splinepathbuilder/tension/) { get; set; } | Värdet på spänningarna påverkar hur skarpt kurvan böjs vid de (interpolerade) kontrollpunkterna. Det måste vara i intervallet från 0 till 1. Eventuella högre eller lägre värden kommer att anpassas till minimi- och maximivärdena för detta område, i enlighet därmed. |
-| [TraceSimplifier](../../aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/) { get; set; } | Hämtar eller ställer in spårningsförenklaren. |
-| [TraceSmoother](../../aspose.svg.imagevectorization/splinepathbuilder/tracesmoother/) { get; set; } | Får eller gör spårningen jämnare. |
+| [Tension](../../aspose.svg.imagevectorization/splinepathbuilder/tension/) { get; set; } | Värdet på spänningarna påverkar hur skarpt kurvan böjer sig vid de (interpolerade) kontrollpunkterna. Det måste ligga i intervallet 0 till 1. Alla högre eller lägre värden kommer att justeras till respektive minimum- respektive maximumvärde i detta intervall. |
+| [TraceSimplifier](../../aspose.svg.imagevectorization/splinepathbuilder/tracesimplifier/) { get; set; } | Hämtar eller anger spårförenkling. |
+| [TraceSmoother](../../aspose.svg.imagevectorization/splinepathbuilder/tracesmoother/) { get; set; } | Hämtar eller anger spårutjämning. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Build](../../aspose.svg.imagevectorization/splinepathbuilder/build/)(IEnumerable&lt;PointF&gt;, SVGPathElement) | Bygger bansegment från listan över spårpunkter. |
+| [Build](../../aspose.svg.imagevectorization/splinepathbuilder/build/)(*IEnumerable&lt;PointF&gt;*) | Konstruerar en jämn bana genom en sekvens av punkter genom att konvertera centripetala Catmull‑Rom‑splines till Bézier‑kurvor. Denna metod säkerställer en naturlig och jämn övergång genom varje punkt och skapar en SVG‑bana som noggrant följer det angivna spåret. |
 
 ### Se även
 
 * interface [IPathBuilder](../ipathbuilder/)
-* namnutrymme [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.ImageVectorization](../../aspose.svg.imagevectorization/)
+* assembly [Aspose.SVG](../../)

@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Offset
-second_title: Aspose.SVG för .NET API Referens
-description: GlyphInfo fast egendom. Får offset till nästa glyf i poäng.
+title: "GlyphInfo.Offset"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GlyphInfo Offset-egenskap. Hämtar förskjutningen till nästa glyf i punkter"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.rendering/glyphinfo/offset/
 ---
 ## GlyphInfo.Offset property
 
-Får offset till nästa glyf i poäng.
+Hämtar förskjutningen till nästa tecken i punkter.
 
 ```csharp
 public float Offset { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Offset i poäng.
+Förskjutning i punkter.
 
 ### Se även
 
 * struct [GlyphInfo](../)
-* namnutrymme [Aspose.Svg.Rendering](../../glyphinfo/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

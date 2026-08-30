@@ -1,14 +1,14 @@
 ---
-title: UnitType.Percentage
-second_title: Aspose.SVG för .NET API Referens
-description: UnitType fält. Mätningen är i procent.
+title: "UnitType.Percentage"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "UnitType Percentage-fält. Mätning är i procent"
 type: docs
 weight: 180
 url: /sv/net/aspose.svg.drawing/unittype/percentage/
 ---
 ## UnitType.Percentage field
 
-Mätningen är i procent.
+Mätning är i procent.
 
 ```csharp
 public static readonly UnitType Percentage;
@@ -17,7 +17,5 @@ public static readonly UnitType Percentage;
 ### Se även
 
 * class [UnitType](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unittype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

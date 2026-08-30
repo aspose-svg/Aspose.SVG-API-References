@@ -1,28 +1,26 @@
 ---
-title: SVGFEConvolveMatrixElement.Bias
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEConvolveMatrixElement fast egendom. Motsvarar attributet bias på det givna feConvolveMatrixelementet.
+title: "SVGFEConvolveMatrixElement.Bias"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEConvolveMatrixElement Bias-egenskap. Motsvarar attributet bias på det givna feConvolveMatrix-elementet"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.filters/svgfeconvolvematrixelement/bias/
 ---
 ## SVGFEConvolveMatrixElement.Bias property
 
-Motsvarar attributet 'bias' på det givna 'feConvolveMatrix'-elementet.
+Motsvarar attributet ‘bias’ på det angivna ‘feConvolveMatrix’-elementet.
 
 ```csharp
 public SVGAnimatedNumber Bias { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'bias' för det givna 'feConvolveMatrix'-elementet.
+Attributet ‘bias’ på det givna ‘feConvolveMatrix’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEConvolveMatrixElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: IParentNode.QuerySelector
-second_title: Aspose.SVG för .NET API Referens
-description: IParentNode metod. Returnerar det första elementet som är en avkomling av noden som matchar väljare.
+title: "IParentNode.QuerySelector"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IParentNode QuerySelector-metoden. Returnerar det första elementet som är en nedstammning till noden och som matchar selektorer"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.dom/iparentnode/queryselector/
 ---
 ## IParentNode.QuerySelector method
 
-Returnerar det första elementet som är en avkomling av noden som matchar väljare.
+Returnerar det första elementet som är en ättling till noden som matchar selektorer.
 
 ```csharp
 public Element QuerySelector(string selectors)
@@ -16,7 +16,7 @@ public Element QuerySelector(string selectors)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| selectors | String | Väljarna. |
+| selektorer | String | Selektorerna. |
 
 ### Returvärde
 
@@ -26,7 +26,5 @@ Returnerar det första matchade elementet.
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* namnutrymme [Aspose.Svg.Dom](../../iparentnode/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

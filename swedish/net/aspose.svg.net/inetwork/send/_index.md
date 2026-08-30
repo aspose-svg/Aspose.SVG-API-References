@@ -1,14 +1,14 @@
 ---
-title: INetwork.Send
-second_title: Aspose.SVG för .NET API Referens
-description: INetwork metod. Skickar enRequestMessage meddelande.
+title: "INetwork.Send"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "INetwork Send-metod. Skickar ett RequestMessage-meddelande"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/inetwork/send/
 ---
 ## INetwork.Send method
 
-Skickar en[`RequestMessage`](../../requestmessage/) meddelande.
+Skickar ett [`RequestMessage`](../../requestmessage/) meddelande.
 
 ```csharp
 public ResponseMessage Send(RequestMessage message)
@@ -20,14 +20,12 @@ public ResponseMessage Send(RequestMessage message)
 
 ### Returvärde
 
-A[`ResponseMessage`](../../responsemessage/) meddelande
+Ett [`ResponseMessage`](../../responsemessage/) meddelande
 
 ### Se även
 
 * class [ResponseMessage](../../responsemessage/)
 * class [RequestMessage](../../requestmessage/)
 * interface [INetwork](../)
-* namnutrymme [Aspose.Svg.Net](../../inetwork/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

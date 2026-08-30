@@ -1,28 +1,26 @@
 ---
-title: SVGPatternElement.X
-second_title: Aspose.SVG för .NET API Referens
-description: SVGPatternElement fast egendom. Motsvarar attributet x på det givna patternelementet.
+title: "SVGPatternElement.X"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGPatternElement X-egenskapen. Motsvarar attributet x på det angivna pattern-elementet."
 type: docs
 weight: 120
 url: /sv/net/aspose.svg/svgpatternelement/x/
 ---
 ## SVGPatternElement.X property
 
-Motsvarar attributet 'x' på det givna 'pattern'-elementet.
+Motsvarar attributet ‘x’ på det givna ‘pattern’-elementet.
 
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'x' för det givna 'pattern'-elementet.
+Attributet ‘x’ för det angivna ‘pattern’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGPatternElement](../)
-* namnutrymme [Aspose.Svg](../../svgpatternelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: RequestMessage.RequestMessage
-second_title: Aspose.SVG för .NET API Referens
-description: RequestMessage byggare. Initierar en ny instans avRequestMessage class.
+title: "RequestMessage"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "RequestMessage‑konstruktor. Initierar en ny instans av klassen RequestMessage"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.net/requestmessage/requestmessage/
 ---
-## RequestMessage(string) {#constructor_1}
+## RequestMessage(*string*) {#constructor_1}
 
-Initierar en ny instans av[`RequestMessage`](../) class.
+Initierar en ny instans av klassen [`RequestMessage`](../).
 
 ```csharp
 public RequestMessage(string address)
@@ -16,19 +16,19 @@ public RequestMessage(string address)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| address | String | Begärans adress. |
+| adress | String | Begärans adress. |
 
 ### Se även
 
 * class [RequestMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../requestmessage/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## RequestMessage(Url) {#constructor}
+## RequestMessage(*[Url](../../../aspose.svg/url/)*) {#constructor}
 
-Initierar en ny instans av[`RequestMessage`](../) class.
+Initierar en ny instans av klassen [`RequestMessage`](../).
 
 ```csharp
 public RequestMessage(Url uri)
@@ -36,13 +36,11 @@ public RequestMessage(Url uri)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| uri | Url | URL för begäran. |
+| uri | URL | Begärans URL. |
 
 ### Se även
 
 * class [Url](../../../aspose.svg/url/)
 * class [RequestMessage](../)
-* namnutrymme [Aspose.Svg.Net](../../requestmessage/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Net](../../../aspose.svg.net/)
+* assembly [Aspose.SVG](../../../)

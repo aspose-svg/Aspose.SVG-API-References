@@ -1,14 +1,14 @@
 ---
-title: Attr.OwnerElement
-second_title: Aspose.SVG för .NET API Referens
-description: Attr fast egendom. Elementnoden som detta attribut är kopplat till eller null om detta attribut inte används.
+title: "Attr.OwnerElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Attr OwnerElement egenskap. Element-noden som detta attribut är fäst vid eller null om detta attribut inte används"
 type: docs
-weight: 80
+weight: 70
 url: /sv/net/aspose.svg.dom/attr/ownerelement/
 ---
 ## Attr.OwnerElement property
 
-Elementnoden som detta attribut är kopplat till eller null om detta attribut inte används.
+Element-noden som detta attribut är fäst vid eller null om detta attribut inte används.
 
 ```csharp
 public Element OwnerElement { get; }
@@ -18,7 +18,5 @@ public Element OwnerElement { get; }
 
 * class [Element](../../element/)
 * class [Attr](../)
-* namnutrymme [Aspose.Svg.Dom](../../attr/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

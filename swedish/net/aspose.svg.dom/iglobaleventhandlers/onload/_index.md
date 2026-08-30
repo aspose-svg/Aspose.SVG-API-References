@@ -1,14 +1,14 @@
 ---
-title: IGlobalEventHandlers.OnLoad
-second_title: Aspose.SVG för .NET API Referens
-description: IGlobalEventHandlers händelse. Hämtar eller ställer in händelsehanterare för OnLoadhändelse.
+title: "IGlobalEventHandlers.OnLoad"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IGlobalEventHandlers OnLoad‑händelse. Hämtar eller anger händelsehanterare för OnLoad‑händelse"
 type: docs
 weight: 200
 url: /sv/net/aspose.svg.dom/iglobaleventhandlers/onload/
 ---
 ## IGlobalEventHandlers.OnLoad event
 
-Hämtar eller ställer in händelsehanterare för OnLoad-händelse.
+Hämtar eller anger händelsehanterare för OnLoad-händelse.
 
 ```csharp
 public event DOMEventHandler OnLoad;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnLoad;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namnutrymme [Aspose.Svg.Dom](../../iglobaleventhandlers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

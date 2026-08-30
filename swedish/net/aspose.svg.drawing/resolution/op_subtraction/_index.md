@@ -1,7 +1,7 @@
 ---
-title: Resolution.op_Subtraction
-second_title: Aspose.SVG för .NET API Referens
-description: Resolution metod. Implementerar operatorn .
+title: "Resolution.op_Subtraction"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Resolution op_Subtraction-metoden. Implementerar operatorn -"
 type: docs
 weight: 90
 url: /sv/net/aspose.svg.drawing/resolution/op_subtraction/
@@ -25,15 +25,13 @@ Resultatet av operatorn.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | Argumenten är ogiltiga |
-| ArgumentException | Argument har olika typer eller Argument har olika upplösningar eller |
+| ArgumentNullException | Argumenten är null |
+| ArgumentException | Argumenten har olika typer eller Argumenten har olika upplösningar eller |
 
 ### Se även
 
 * class [Resolution](../)
-* namnutrymme [Aspose.Svg.Drawing](../../resolution/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

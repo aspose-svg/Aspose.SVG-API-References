@@ -1,14 +1,14 @@
 ---
-title: Interface ITextureBrush
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Drawing.ITextureBrush gränssnitt. Definierar borstgränssnitt som använder en bild för att fylla det inre av en form.
+title: "ITextureBrush-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Drawing.ITextureBrush-gränssnitt. Definierar penselgränssnitt som använder en bild för att fylla insidan av en form."
 type: docs
-weight: 1490
+weight: 3520
 url: /sv/net/aspose.svg.drawing/itexturebrush/
 ---
 ## ITextureBrush interface
 
-Definierar borstgränssnitt som använder en bild för att fylla det inre av en form.
+Definierar penselgränssnitt som använder en bild för att fylla insidan av en form.
 
 ```csharp
 public interface ITextureBrush : ITransformableBrush
@@ -16,17 +16,15 @@ public interface ITextureBrush : ITransformableBrush
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ColorMap](../../aspose.svg.drawing/itexturebrush/colormap/) { get; } | Antalet element måste vara jämnt. Varje jämnt element har gamla färger. Varje udda element har ny färg. |
-| [Image](../../aspose.svg.drawing/itexturebrush/image/) { get; } | Hämtar eller ställer in bilden som används av penseln. |
-| [ImageArea](../../aspose.svg.drawing/itexturebrush/imagearea/) { get; } | Anger den del av bilden som används av penseln. Om den är lika med RectangleF.Empty kommer hela bilden att användas. Koordinaterna är i pixlar. |
-| [Opacity](../../aspose.svg.drawing/itexturebrush/opacity/) { get; } | Få opacitetsvärde i en färgomvandlingsmatris. |
+| [ColorMap](../../aspose.svg.drawing/itexturebrush/colormap/) { get; } | Antalet element måste vara jämnt. Varje jämnt element är den gamla färgen. Varje udda element är den nya färgen. |
+| [Image](../../aspose.svg.drawing/itexturebrush/image/) { get; } | Hämtar eller anger bilden som används av penseln. |
+| [ImageArea](../../aspose.svg.drawing/itexturebrush/imagearea/) { get; } | Anger den del av bilden som används av penseln. Om den är lika med RectangleF.Empty används hela bilden. Koordinaterna är i pixlar. |
+| [Opacity](../../aspose.svg.drawing/itexturebrush/opacity/) { get; set; } | Hämta opacitetsvärde i en färgtransformationsmatris. |
 
 ### Se även
 
 * interface [ITransformableBrush](../itransformablebrush/)
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

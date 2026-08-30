@@ -1,14 +1,14 @@
 ---
-title: MimeType.FromFileExtension
-second_title: Aspose.SVG för .NET API Referens
-description: MimeType metod. Skapar en ny MIMEtyp baserat på filtillägget.
+title: "MimeType.FromFileExtension"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MimeType FromFileExtension-metod. Skapar en ny MIME-typ baserad på filändelse"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/mimetype/fromfileextension/
 ---
 ## MimeType.FromFileExtension method
 
-Skapar en ny MIME-typ baserat på filtillägget.
+Skapar en ny MIME-typ baserat på filändelse.
 
 ```csharp
 public static MimeType FromFileExtension(string fileName)
@@ -16,7 +16,7 @@ public static MimeType FromFileExtension(string fileName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | String | Namnet på filen. |
+| fileName | String | Filens namn. |
 
 ### Returvärde
 
@@ -25,7 +25,5 @@ Den nya instansen av MIME-typ
 ### Se även
 
 * class [MimeType](../)
-* namnutrymme [Aspose.Svg](../../mimetype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

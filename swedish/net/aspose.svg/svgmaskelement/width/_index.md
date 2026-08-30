@@ -1,28 +1,26 @@
 ---
-title: SVGMaskElement.Width
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMaskElement fast egendom. Motsvarar attributet width på det givna maskelementet. Tar en av konstanterna definierade i SVGUnitTypes.
+title: "SVGMaskElement.Width"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMaskElement Width-egenskap. Motsvarar attributet width på det angivna mask-elementet. Accepterar en av de konstanter som definieras i SVGUnitTypes"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg/svgmaskelement/width/
 ---
 ## SVGMaskElement.Width property
 
-Motsvarar attributet 'width' på det givna 'mask'-elementet. Tar en av konstanterna definierade i SVGUnitTypes.
+Motsvarar attributet ‘width’ på det angivna ‘mask’-elementet. Tar en av de konstanter som definieras i SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'width' för det givna 'mask'-elementet.
+Attributet ‘width’ på det angivna ‘mask’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGMaskElement](../)
-* namnutrymme [Aspose.Svg](../../svgmaskelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

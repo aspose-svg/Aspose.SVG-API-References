@@ -1,30 +1,27 @@
 ---
-title: Interface INetworkService
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Services.INetworkService gränssnitt. Tillhandahåller ett gränssnitt för nätverksoperationerna.
+title: "INetworkService Gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Services.INetworkService gränssnitt. Tillhandahåller ett gränssnitt för nätverksoperationer."
 type: docs
-weight: 3720
+weight: 5850
 url: /sv/net/aspose.svg.services/inetworkservice/
 ---
 ## INetworkService interface
 
-Tillhandahåller ett gränssnitt för nätverksoperationerna.
+Tillhandahåller ett gränssnitt för nätverksoperationer.
 
 ```csharp
-public interface INetworkService : IService
+public interface INetworkService
 ```
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers/) { get; } | Får en lista över[`MessageHandler`](../../aspose.svg.net/messagehandler/) instanser som ska åberopas som en[`RequestMessage`](../../aspose.svg.net/requestmessage/) körs. |
-| [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver/) { get; set; } | Hämtar eller ställer in URL-resolver. |
+| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers/) { get; } | Hämtar en lista med [`MessageHandler`](../../aspose.svg.net/messagehandler/)‑instanser som ska anropas när en [`RequestMessage`](../../aspose.svg.net/requestmessage/) körs. |
+| [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver/) { get; set; } | Hämtar eller anger URL‑upplösaren. |
 
 ### Se även
 
-* interface [IService](../iservice/)
-* namnutrymme [Aspose.Svg.Services](../../aspose.svg.services/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Services](../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../)

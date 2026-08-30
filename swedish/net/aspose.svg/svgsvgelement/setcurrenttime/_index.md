@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.SetCurrentTime
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSVGElement metod. Justerar klockan för detta SVGdokumentfragment och etablerar en ny aktuell tid. Om setCurrentTime anropas innan dokumentets tidslinje har börjat till exempel genom att skript körs i ett scriptelement innan dokumentets SVGLoadhändelse skickas så anger värdet av sekunder i den senaste anropet av metoden den tid som dokumentet kommer att söka när dokumentets tidslinje har börjat.
+title: "SVGSVGElement.SetCurrentTime"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSVGElement SetCurrentTime-metod. Justerar klockan för detta SVG-dokumentfragment och fastställer en ny aktuell tid. Om setCurrentTime anropas innan dokumentets tidslinje har börjat, till exempel av skript som körs i ett script-element innan dokumentets SVGLoad‑händelse har skickats, så ger värdet i sekunder i det senaste metodanropet den tid som dokumentet kommer att söka till när tidslinjen har börjat."
 type: docs
 weight: 230
 url: /sv/net/aspose.svg/svgsvgelement/setcurrenttime/
 ---
 ## SVGSVGElement.SetCurrentTime method
 
-Justerar klockan för detta SVG-dokumentfragment och etablerar en ny aktuell tid. Om setCurrentTime anropas innan dokumentets tidslinje har börjat (till exempel genom att skript körs i ett 'script'-element innan dokumentets SVGLoad-händelse skickas), så anger värdet av sekunder i den senaste anropet av metoden den tid som dokumentet kommer att söka när dokumentets tidslinje har börjat.
+Justera klockan för detta SVG-dokumentfragment och etablera en ny aktuell tid. Om setCurrentTime anropas innan dokumentets tidslinje har börjat (till exempel av skript som körs i ett ‘script’-element innan dokumentets SVGLoad‑händelse har skickats), ger värdet i sekunder från den senaste anropet av metoden den tid som dokumentet kommer att söka till när tidslinjen har börjat.
 
 ```csharp
 public void SetCurrentTime(float seconds)
@@ -16,12 +16,10 @@ public void SetCurrentTime(float seconds)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| seconds | Single | Den nya aktuella tiden i sekunder i förhållande till starttiden för det aktuella SVG-dokumentfragmentet. |
+| sekunder | Single | Den nya aktuella tiden i sekunder relativt starttiden för det aktuella SVG-dokumentfragmentet. |
 
 ### Se även
 
 * class [SVGSVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgsvgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

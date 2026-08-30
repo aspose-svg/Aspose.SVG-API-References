@@ -1,14 +1,14 @@
 ---
-title: IWindow.Alert
-second_title: Aspose.SVG för .NET API Referens
-description: IWindow metod. Visar en modal varning med det givna meddelandet och väntar på att användaren ska avvisa it
+title: "IWindow.Alert"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindow Alert-metod. Visar en modal alert med det angivna meddelandet och väntar på att användaren avfärdar den."
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.svg.window/iwindow/alert/
 ---
 ## IWindow.Alert method
 
-Visar en modal varning med det givna meddelandet och väntar på att användaren ska avvisa it
+Visar en modal varning med det angivna meddelandet och väntar på att användaren avfärdar den
 
 ```csharp
 public void Alert(string message)
@@ -16,12 +16,10 @@ public void Alert(string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | String | Budskapet. |
+| message | String | Meddelandet. |
 
 ### Se även
 
 * interface [IWindow](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindow/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

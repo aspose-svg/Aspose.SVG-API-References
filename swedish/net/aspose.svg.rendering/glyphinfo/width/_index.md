@@ -1,27 +1,25 @@
 ---
-title: GlyphInfo.Width
-second_title: Aspose.SVG för .NET API Referens
-description: GlyphInfo fast egendom. Hämtar bredden på glyfen i punkter.
+title: "GlyphInfo.Width"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GlyphInfo Width-egenskap. Hämtar bredden på glyfen i punkter"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.rendering/glyphinfo/width/
 ---
 ## GlyphInfo.Width property
 
-Hämtar bredden på glyfen, i punkter.
+Hämtar bredden på tecknet, i punkter.
 
 ```csharp
 public float Width { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bredd i poäng.
+Bredd i punkter.
 
 ### Se även
 
 * struct [GlyphInfo](../)
-* namnutrymme [Aspose.Svg.Rendering](../../glyphinfo/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

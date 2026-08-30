@@ -1,27 +1,25 @@
 ---
-title: SVGLength.UnitType
-second_title: Aspose.SVG för .NET API Referens
-description: SVGLength fast egendom. Typen av värdet som specificeras av en av SVG_LENGTHTYPE_konstanterna som definieras i detta gränssnitt.
+title: "SVGLength.UnitType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGLength UnitType-egenskapen. Typen av värdet enligt en av SVG_LENGTHTYPE_-konstanterna som definieras på detta gränssnitt."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.datatypes/svglength/unittype/
 ---
 ## SVGLength.UnitType property
 
-Typen av värdet som specificeras av en av SVG_LENGTHTYPE_*-konstanterna som definieras i detta gränssnitt.
+Typen av värdet enligt en av SVG_LENGTHTYPE_*-konstanterna som definieras på detta gränssnitt.
 
 ```csharp
 public ushort UnitType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av enhet.
+Typen av enheten.
 
 ### Se även
 
 * class [SVGLength](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svglength/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGOptimizationOptions.CollapseGroups
-second_title: Aspose.SVG för .NET API Referens
-description: SVGOptimizationOptions fast egendom. Hämtar eller ställer in alternativet att komprimera överflödiga grupper. Det är sant som standard.
+title: "SVGOptimizationOptions.CollapseGroups"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGOptimizationOptions CollapseGroups egenskap. Hämtar eller anger alternativet för att slå ihop överflödiga grupper. Den är true som standard"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/collapsegroups/
 ---
 ## SVGOptimizationOptions.CollapseGroups property
 
-Hämtar eller ställer in alternativet att komprimera överflödiga grupper. Det är "sant" som standard.
+Hämtar eller anger alternativet för att kollapsa överflödiga grupper. Det är 'true' som standard.
 
 ```csharp
 public bool CollapseGroups { get; set; }
@@ -17,7 +17,5 @@ public bool CollapseGroups { get; set; }
 ### Se även
 
 * class [SVGOptimizationOptions](../)
-* namnutrymme [Aspose.Svg.Toolkit.Optimizers](../../svgoptimizationoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Toolkit.Optimizers](../../../aspose.svg.toolkit.optimizers/)
+* assembly [Aspose.SVG](../../../)

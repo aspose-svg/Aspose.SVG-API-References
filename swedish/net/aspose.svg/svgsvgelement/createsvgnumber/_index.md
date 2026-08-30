@@ -1,7 +1,7 @@
 ---
-title: SVGSVGElement.CreateSVGNumber
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSVGElement metod. Skapar ett SVGNumberobjekt utanför alla dokumentträd. Objektet initieras till värdet noll.
+title: "SVGSVGElement.CreateSVGNumber"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSVGElement CreateSVGNumber-metoden. Skapar ett SVGNumber-objekt utanför alla dokumentträd. Objektet initieras till värdet noll."
 type: docs
 weight: 150
 url: /sv/net/aspose.svg/svgsvgelement/createsvgnumber/
@@ -22,7 +22,5 @@ Ett SVGNumber-objekt.
 
 * class [SVGNumber](../../../aspose.svg.datatypes/svgnumber/)
 * class [SVGSVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgsvgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

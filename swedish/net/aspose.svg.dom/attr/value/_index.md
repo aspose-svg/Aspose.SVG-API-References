@@ -1,27 +1,25 @@
 ---
-title: Attr.Value
-second_title: Aspose.SVG för .NET API Referens
-description: Attr fast egendom. Vid hämtning returneras värdet för attributet som en sträng.
+title: "Attr.Value"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Attr Value property. Vid hämtning returneras attributets värde som en sträng"
 type: docs
-weight: 130
+weight: 110
 url: /sv/net/aspose.svg.dom/attr/value/
 ---
 ## Attr.Value property
 
-Vid hämtning returneras värdet för attributet som en sträng.
+Vid hämtning returneras attributets värde som en sträng.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Värdet.
 
 ### Se även
 
 * class [Attr](../)
-* namnutrymme [Aspose.Svg.Dom](../../attr/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

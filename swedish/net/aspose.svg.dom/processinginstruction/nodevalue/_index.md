@@ -1,27 +1,25 @@
 ---
-title: ProcessingInstruction.NodeValue
-second_title: Aspose.SVG för .NET API Referens
-description: ProcessingInstruction fast egendom. Värdet för denna nod beroende på dess typ.
+title: "ProcessingInstruction.NodeValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ProcessingInstruction NodeValue-egenskapen. Värdet på denna nod beroende på dess typ"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg.dom/processinginstruction/nodevalue/
 ---
 ## ProcessingInstruction.NodeValue property
 
-Värdet för denna nod, beroende på dess typ.
+Värdet på denna nod, beroende på dess typ.
 
 ```csharp
 public override string NodeValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Nodvärdet.
 
 ### Se även
 
 * class [ProcessingInstruction](../)
-* namnutrymme [Aspose.Svg.Dom](../../processinginstruction/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

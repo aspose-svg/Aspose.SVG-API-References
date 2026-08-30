@@ -1,28 +1,26 @@
 ---
-title: ImageRenderingOptions.Text
-second_title: Aspose.SVG för .NET API Referens
-description: ImageRenderingOptions fast egendom. Får enTextOptions objekt som används för konfiguration av textrendering.
+title: "ImageRenderingOptions.Text"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ImageRenderingOptions Text-egenskap. Hämtar ett TextOptions-objekt som används för konfiguration av textrendering."
 type: docs
-weight: 60
+weight: 50
 url: /sv/net/aspose.svg.rendering.image/imagerenderingoptions/text/
 ---
 ## ImageRenderingOptions.Text property
 
-Får en[`TextOptions`](../../textoptions/) objekt som används för konfiguration av textrendering.
+Hämtar ett [`TextOptions`](../../textoptions/) objekt som används för konfiguration av textrendering.
 
 ```csharp
 public TextOptions Text { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den[`TextOptions`](../../textoptions/) objekt.
+Det [`TextOptions`](../../textoptions/) objektet.
 
 ### Se även
 
 * class [TextOptions](../../textoptions/)
 * class [ImageRenderingOptions](../)
-* namnutrymme [Aspose.Svg.Rendering.Image](../../imagerenderingoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Image](../../../aspose.svg.rendering.image/)
+* assembly [Aspose.SVG](../../../)

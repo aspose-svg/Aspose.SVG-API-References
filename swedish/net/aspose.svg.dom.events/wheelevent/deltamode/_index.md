@@ -1,27 +1,25 @@
 ---
-title: WheelEvent.DeltaMode
-second_title: Aspose.SVG för .NET API Referens
-description: WheelEvent fast egendom. DeltaModeattributet innehåller en indikation på måttenheterna för deltavärdena. Standardvärdet är DOM_DELTA_PIXEL pixlar.
+title: "WheelEvent.DeltaMode"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "WheelEvent DeltaMode‑egenskap. Attributet deltaMode innehåller en indikation på enheterna för mätning av delta‑värdena. Standardvärdet är DOM_DELTA_PIXEL pixlar."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.events/wheelevent/deltamode/
 ---
 ## WheelEvent.DeltaMode property
 
-DeltaMode-attributet innehåller en indikation på måttenheterna för deltavärdena. Standardvärdet är DOM_DELTA_PIXEL (pixlar).
+Attributet deltaMode innehåller en indikation på enheterna för mätning av delta‑värdena. Standardvärdet är DOM_DELTA_PIXEL (pixlar).
 
 ```csharp
 public ulong DeltaMode { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Deltaläget.
+Delta‑läget.
 
 ### Se även
 
 * class [WheelEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../wheelevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: GraphicContext.Font
-second_title: Aspose.SVG för .NET API Referens
-description: GraphicContext fast egendom. Ställer in eller hämtar True Typeteckensnittsobjektet som används för att rendera text.
+title: "GraphicContext.Font"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "GraphicContext Font-egenskap. Ställer in eller hämtar TrueType-typsnittobjektet som används för att rendera text"
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.svg.rendering/graphiccontext/font/
 ---
 ## GraphicContext.Font property
 
-Ställer in eller hämtar True Type-teckensnittsobjektet som används för att rendera text.
+Ställer in eller hämtar TrueType‑teckensnittobjektet som används för att rendera text.
 
 ```csharp
 public virtual ITrueTypeFont Font { get; set; }
@@ -18,7 +18,5 @@ public virtual ITrueTypeFont Font { get; set; }
 
 * interface [ITrueTypeFont](../../../aspose.svg.drawing/itruetypefont/)
 * class [GraphicContext](../)
-* namnutrymme [Aspose.Svg.Rendering](../../graphiccontext/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

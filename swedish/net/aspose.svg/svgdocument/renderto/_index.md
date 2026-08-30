@@ -1,7 +1,7 @@
 ---
-title: SVGDocument.RenderTo
-second_title: Aspose.SVG för .NET API Referens
-description: SVGDocument metod. Denna metod används för att skriva ut innehållet i det aktuella dokumentet till den angivna enheten.
+title: "SVGDocument.RenderTo"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGDocument RenderTo method. Denna metod används för att skriva ut innehållet i det aktuella dokumentet till den angivna enheten"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg/svgdocument/renderto/
@@ -22,7 +22,5 @@ public override void RenderTo(IDevice device)
 
 * interface [IDevice](../../../aspose.svg.rendering/idevice/)
 * class [SVGDocument](../)
-* namnutrymme [Aspose.Svg](../../svgdocument/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

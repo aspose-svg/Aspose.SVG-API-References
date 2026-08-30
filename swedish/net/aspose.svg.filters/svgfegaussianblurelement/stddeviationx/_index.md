@@ -1,28 +1,26 @@
 ---
-title: SVGFEGaussianBlurElement.StdDeviationX
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEGaussianBlurElement fast egendom. Motsvarar attributet stdDeviation på det givna elementet feGaussianBlur. Innehåller Xkomponenten av attributet stdDeviation.
+title: "SVGFEGaussianBlurElement.StdDeviationX"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEGaussianBlurElement StdDeviationX-egenskap. Motsvarar attributet stdDeviation på det angivna feGaussianBlur-elementet. Innehåller X-komponenten av attributet stdDeviation"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.filters/svgfegaussianblurelement/stddeviationx/
 ---
 ## SVGFEGaussianBlurElement.StdDeviationX property
 
-Motsvarar attributet �stdDeviation� på det givna elementet �feGaussianBlur�. Innehåller X-komponenten av attributet �stdDeviation�.
+Motsvarar attributet �stdDeviation� på det givna �feGaussianBlur� elementet. Innehåller X-komponenten av attributet �stdDeviation�.
 
 ```csharp
 public SVGAnimatedNumber StdDeviationX { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet �stdDeviationX� för det givna elementet �feGaussianBlur�.
+Attributet �stdDeviationX� på det angivna �feGaussianBlur�-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFEGaussianBlurElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfegaussianblurelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

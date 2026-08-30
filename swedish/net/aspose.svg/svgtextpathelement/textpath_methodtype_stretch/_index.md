@@ -1,7 +1,7 @@
 ---
-title: SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH
-second_title: Aspose.SVG för .NET API Referens
-description: SVGTextPathElement fält. Motsvarar värdet stretch.
+title: "SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGTextPathElement TEXTPATH_METHODTYPE_STRETCH-fält. Motsvarar värdet stretch"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg/svgtextpathelement/textpath_methodtype_stretch/
@@ -17,7 +17,5 @@ public const ushort TEXTPATH_METHODTYPE_STRETCH;
 ### Se även
 
 * class [SVGTextPathElement](../)
-* namnutrymme [Aspose.Svg](../../svgtextpathelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

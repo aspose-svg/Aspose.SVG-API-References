@@ -1,41 +1,39 @@
 ---
-title: Enum Sandbox
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Sandbox uppräkning. En sandlådeflaggauppsättning är en uppsättning av noll eller fler av följande flaggor som används för att begränsa de förmågor som potentiellt otillförlitliga resurser.
+title: "Sandbox‑enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Sandbox‑enum. En sandbox‑flaggsats är en uppsättning av noll eller fler av följande flaggor som används för att begränsa de förmågor som potentiellt icke‑betrodda resurser har."
 type: docs
-weight: 3610
+weight: 5680
 url: /sv/net/aspose.svg/sandbox/
 ---
 ## Sandbox enumeration
 
-En sandlådeflaggauppsättning är en uppsättning av noll eller fler av följande flaggor, som används för att begränsa de förmågor som potentiellt otillförlitliga resurser.
+En sandbox‑flaggsats är en uppsättning av noll eller fler av följande flaggor, som används för att begränsa de förmågor som potentiellt opålitliga resurser har.
 
 ```csharp
 [Flags]
 public enum Sandbox
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| None | `0` | Ingen flagga är inställd, varje sandlådefunktion accepteras |
-| Navigation | `1` | Den här flaggan förhindrar innehåll från att navigera i andra webbläsarkontexter än själva sandlådekontexten (eller webbläsarkontexter som är ytterligare kapslade inuti den), extra surfkontexter (som skyddas av den sandlådebaserade extranavigeringskontextflaggan som definieras härnäst) och toppnivån webbläsarkontext (som skyddas av den sandlådeformade navigeringskontextflaggan på toppnivå som definieras nedan). Om den extra navigeringskontextflaggan i sandlåde inte är inställd, tillåter restriktionerna i vissa fall ändå att popup-fönster (nya webbläsarkontexter på toppnivå) öppnas. Dessa webbläsarkontexter har alltid en tillåten sandlådenavigator, inställd när webbläsarkontexten skapas, vilket gör att webbläsarkontexten som skapade dem faktiskt kan navigera i dem. (Annars skulle den sandlådeformade navigeringskontextflaggan hindra dem från att navigeras även om de öppnades. |
-| AuxiliaryNavigation | `2` | Den här flaggan förhindrar innehåll från att skapa nya extra webbläsarkontexter, t.ex. med målattributet eller metoden window.open(). |
-| TopLevelNavigation | `4` | Den här flaggan förhindrar innehåll från att navigera i deras webbläsarkontext på toppnivå och förhindrar innehåll från att stänga deras webbläsarkontext på toppnivå. När den sandlådeförsedda toppnivånavigeringskontextflaggan inte är inställd kan innehållet navigera i dess toppnivåsurfningskontext, men andra webbläsarkontexter skyddas fortfarande av den sandlådeförsedda navigeringskontextflaggan och eventuellt sandlådenavigeringskontextflaggan. |
-| Plugins | `8` | Den här flaggan förhindrar innehåll från att instansiera insticksprogram, oavsett om du använder embed-elementet, objektelementet, appletelementet eller genom navigering av en kapslad webbläsarkontext, om inte dessa plugins kan säkras. |
-| Origin | `10` | Den här flaggan tvingar innehåll till ett unikt ursprung, vilket förhindrar det från att komma åt annat innehåll från samma ursprung. |
-| Forms | `20` | Den här flaggan blockerar formulärinlämning. |
+| None | `0` | Ingen flagga är satt, varje sandbox‑funktion accepteras. |
+| Navigation | `1` | Denna flagga förhindrar att innehåll navigerar i webbläsarkontexter annat än den sandlådade webbläsarkontexten själv (eller webbläsarkontexter som är ytterligare inbäddade i den), hjälparwebbläsarkontexter (som skyddas av flaggan för sandlådad hjälparnavigering av webbläsarkontext som definieras nedan), och toppnivåns webbläsarkontext (som skyddas av flaggan för sandlådad toppnivånavigering av webbläsarkontext som definieras nedan). Om flaggan för sandlådad hjälparnavigering av webbläsarkontext inte är satt, så tillåter begränsningarna i vissa fall ändå popup-fönster (nya toppnivåns webbläsarkontexter) att öppnas. Dessa webbläsarkontexter har alltid en tillåten sandlådad navigator, inställd när webbläsarkontexten skapas, vilket gör att den webbläsarkontext som skapade dem faktiskt kan navigera dem. (Annars skulle flaggan för sandlådad navigering av webbläsarkontext förhindra att de navigeras även om de öppnades.) |
+| AuxiliaryNavigation | `2` | Denna flagga förhindrar att innehåll skapar nya hjälparwebbläsarkontexter, t.ex. genom att använda target-attributet eller window.open()-metoden. |
+| TopLevelNavigation | `4` | Denna flagga förhindrar att innehåll navigerar sin toppnivåns webbläsarkontext och förhindrar att innehåll stänger sin toppnivåns webbläsarkontext. När flaggan för sandlådad toppnivånavigering av webbläsarkontext inte är satt, kan innehåll navigera sin toppnivåns webbläsarkontext, men andra webbläsarkontexter är fortfarande skyddade av flaggan för sandlådad navigering av webbläsarkontext och eventuellt flaggan för sandlådad hjälparnavigering av webbläsarkontext. |
+| Plugins | `8` | Denna flagga förhindrar att innehåll instansierar plugin-moduler, oavsett om embed-elementet, object-elementet, applet-elementet används eller genom navigering av en inbäddad webbläsarkontext, såvida inte dessa plugin-moduler kan säkras. |
+| Origin | `10` | Denna flagga tvingar innehåll till en unik ursprung, vilket förhindrar att det får åtkomst till annat innehåll från samma ursprung. |
+| Forms | `20` | Denna flagga blockerar formulärinlämning. |
 | PointerLock | `40` | Denna flagga inaktiverar Pointer Lock API. |
-| Scripts | `80` | Denna flagga blockerar skriptexekvering. |
-| AutomaticFeatures | `100` | Den här flaggan blockerar funktioner som utlöses automatiskt, som att automatiskt spela upp en video eller automatiskt fokusera en formulärkontroll. |
-| Fullscreen | `200` | Den här flaggan förhindrar innehåll från att använda metoden requestFullscreen(). |
-| DocumentDomain | `400` | Den här flaggan förhindrar innehåll från att använda funktionen document.domain för att ändra det effektiva skriptets ursprung. |
-| Images | `800` | Den här flaggan inaktiverar bildladdning. |
+| Scripts | `80` | Denna flagga blockerar skriptkörning. |
+| AutomaticFeatures | `100` | Denna flagga blockerar funktioner som triggas automatiskt, såsom att automatiskt spela upp en video eller automatiskt fokusera ett formulärkontroll. |
+| Fullscreen | `200` | Denna flagga förhindrar att innehåll använder requestFullscreen()‑metoden. |
+| DocumentDomain | `400` | Denna flagga förhindrar att innehåll använder document.domain-funktionen för att ändra det effektiva skriptursprunget. |
+| Images | `800` | Denna flagga inaktiverar bildladdning. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg](../../aspose.svg/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

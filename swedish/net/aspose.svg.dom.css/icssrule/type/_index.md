@@ -1,14 +1,14 @@
 ---
-title: ICSSRule.Type
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSRule fast egendom. Typen av regeln enligt definitionen ovan. Förväntningen är att bindningsspecifika castingmetoder kan användas för att casta ner från en instans av CSSRulegränssnittet till det specifika härledda gränssnittet som antyds av typen.
+title: "ICSSRule.Type"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSRule Type egenskap. Regels typ som definierats ovan. Förväntningen är att bindningsspecifika kastmetoder kan användas för att kasta ner från en instans av CSSRule-gränssnittet till det specifika härledda gränssnitt som typen antyder"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom.css/icssrule/type/
 ---
 ## ICSSRule.Type property
 
-Typen av regeln, enligt definitionen ovan. Förväntningen är att bindningsspecifika castingmetoder kan användas för att casta ner från en instans av CSSRule-gränssnittet till det specifika härledda gränssnittet som antyds av typen.
+Typen av regeln, som definierats ovan. Förväntningen är att bindningsspecifika cast‑metoder kan användas för att kasta ner från en instans av CSSRule‑gränssnittet till det specifika härledda gränssnitt som typen antyder.
 
 ```csharp
 public short Type { get; }
@@ -17,7 +17,5 @@ public short Type { get; }
 ### Se även
 
 * interface [ICSSRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icssrule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

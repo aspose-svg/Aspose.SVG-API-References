@@ -1,28 +1,26 @@
 ---
-title: SaveOptions.ResourceHandlingOptions
-second_title: Aspose.SVG för .NET API Referens
-description: SaveOptions fast egendom. Får enResourceHandlingOptions objekt som används för konfiguration av resurshantering.
+title: "SaveOptions.ResourceHandlingOptions"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SaveOptions ResourceHandlingOptions egenskap. Hämtar ett ResourceHandlingOptions-objekt som används för konfiguration av resurshantering"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.saving/saveoptions/resourcehandlingoptions/
 ---
 ## SaveOptions.ResourceHandlingOptions property
 
-Får en[`ResourceHandlingOptions`](../../resourcehandlingoptions/) objekt som används för konfiguration av resurshantering.
+Hämtar ett [`ResourceHandlingOptions`](../../resourcehandlingoptions/) objekt som används för konfiguration av resurshantering.
 
 ```csharp
 public ResourceHandlingOptions ResourceHandlingOptions { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den[`ResourceHandlingOptions`](../../resourcehandlingoptions/) objekt.
+Det [`ResourceHandlingOptions`](../../resourcehandlingoptions/) objektet.
 
 ### Se även
 
 * class [ResourceHandlingOptions](../../resourcehandlingoptions/)
 * class [SaveOptions](../)
-* namnutrymme [Aspose.Svg.Saving](../../saveoptions/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Saving](../../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../../)

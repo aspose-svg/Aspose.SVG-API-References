@@ -1,14 +1,14 @@
 ---
-title: IWindowTimers.ClearInterval
-second_title: Aspose.SVG för .NET API Referens
-description: IWindowTimers metod. Avbryter timeoutuppsättningen med setInterval identifierad av handle
+title: "IWindowTimers.ClearInterval"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IWindowTimers ClearInterval method. Avbryter timeouten som satts med setInterval och identifieras av handle"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.window/iwindowtimers/clearinterval/
 ---
 ## IWindowTimers.ClearInterval method
 
-Avbryter timeout-uppsättningen med setInterval() identifierad av handle
+Avbryter timeouten som satts med setInterval() identifierad av handle
 
 ```csharp
 public void ClearInterval(int handle)
@@ -21,7 +21,5 @@ public void ClearInterval(int handle)
 ### Se även
 
 * interface [IWindowTimers](../)
-* namnutrymme [Aspose.Svg.Window](../../iwindowtimers/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Window](../../../aspose.svg.window/)
+* assembly [Aspose.SVG](../../../)

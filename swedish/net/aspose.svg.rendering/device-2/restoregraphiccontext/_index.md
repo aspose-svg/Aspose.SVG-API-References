@@ -1,12 +1,12 @@
 ---
-title: Device2.RestoreGraphicContext
-second_title: Aspose.SVG för .NET API Referens
-description: Device metod. Återställer hela grafikkontexten till dess tidigare värde genom att poppa den från stacken.
+title: "Device-2.RestoreGraphicContext"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Device RestoreGraphicContext-metod. Återställer hela grafikkontexten till dess tidigare värde genom att poppa den från stacken"
 type: docs
-weight: 200
+weight: 230
 url: /sv/net/aspose.svg.rendering/device-2/restoregraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.RestoreGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.RestoreGraphicContext method
 
 Återställer hela grafikkontexten till dess tidigare värde genom att poppa den från stacken.
 
@@ -17,7 +17,5 @@ public virtual void RestoreGraphicContext()
 ### Se även
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namnutrymme [Aspose.Svg.Rendering](../../device-2/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering](../../../aspose.svg.rendering/)
+* assembly [Aspose.SVG](../../../)

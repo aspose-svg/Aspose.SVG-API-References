@@ -1,27 +1,25 @@
 ---
-title: Counter.Identifier
-second_title: Aspose.SVG för .NET API Referens
-description: Counter fast egendom. Det här attributet används för räknarens identifierare.
+title: "Counter.Identifier"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Counter Identifier-egenskap. Detta attribut används för identifieraren av räknaren."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.css/counter/identifier/
 ---
 ## Counter.Identifier property
 
-Det här attributet används för räknarens identifierare.
+Detta attribut används för identifieraren för räknaren.
 
 ```csharp
 public string Identifier { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Räknarens identifierare.
 
 ### Se även
 
 * class [Counter](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../counter/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

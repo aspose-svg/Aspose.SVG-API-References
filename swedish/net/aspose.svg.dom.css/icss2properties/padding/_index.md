@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.Padding
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se utfyllnadsegenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.Padding"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties Padding-egenskap. Se definitionen av egenskapen padding i CSS2"
 type: docs
-weight: 800
+weight: 830
 url: /sv/net/aspose.svg.dom.css/icss2properties/padding/
 ---
 ## ICSS2Properties.Padding property
 
-Se utfyllnadsegenskapsdefinitionen i CSS2.
+Se egendefinitionen för padding i CSS2.
 
 ```csharp
 public string Padding { get; set; }
@@ -16,12 +16,10 @@ public string Padding { get; set; }
 
 ### Returvärde
 
-stoppningsegenskap
+padding egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

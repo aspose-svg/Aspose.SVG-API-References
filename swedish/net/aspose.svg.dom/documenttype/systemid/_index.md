@@ -1,7 +1,7 @@
 ---
-title: DocumentType.SystemId
-second_title: Aspose.SVG för .NET API Referens
-description: DocumentType fast egendom. Systemidentifieraren för den externa delmängden. Detta kan vara en absolut URI eller inte.
+title: "DocumentType.SystemId"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DocumentType SystemId egenskap. Systemidentifieraren för den externa delmängden. Detta kan vara en absolut URI eller inte"
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.dom/documenttype/systemid/
@@ -14,14 +14,12 @@ Systemidentifieraren för den externa delmängden. Detta kan vara en absolut URI
 public string SystemId { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Systemidentifieraren.
 
 ### Se även
 
 * class [DocumentType](../)
-* namnutrymme [Aspose.Svg.Dom](../../documenttype/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

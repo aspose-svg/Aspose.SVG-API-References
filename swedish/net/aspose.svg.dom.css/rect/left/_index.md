@@ -1,14 +1,14 @@
 ---
-title: Rect.Left
-second_title: Aspose.SVG för .NET API Referens
-description: Rect fast egendom. Det här attributet används till vänster om rect.
+title: "Rect.Left"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Rect Left egenskap. Detta attribut används för rektangelns vänstra kant"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.css/rect/left/
 ---
 ## Rect.Left property
 
-Det här attributet används till vänster om rect.
+Detta attribut används för rektangelns vänsterkant.
 
 ```csharp
 public CSSPrimitiveValue Left { get; }
@@ -18,7 +18,5 @@ public CSSPrimitiveValue Left { get; }
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../rect/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

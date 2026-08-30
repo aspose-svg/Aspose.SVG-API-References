@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.ListStyle
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen i liststil i CSS2.
+title: "ICSS2Properties.ListStyle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties ListStyle-egenskap. Se definitionen av list-style-egenskapen i CSS2"
 type: docs
-weight: 590
+weight: 620
 url: /sv/net/aspose.svg.dom.css/icss2properties/liststyle/
 ---
 ## ICSS2Properties.ListStyle property
 
-Se egenskapsdefinitionen i liststil i CSS2.
+Se definitionen av egenskapen list-style i CSS2.
 
 ```csharp
 public string ListStyle { get; set; }
@@ -16,12 +16,10 @@ public string ListStyle { get; set; }
 
 ### Returvärde
 
-egendom i liststil
+list-style-egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

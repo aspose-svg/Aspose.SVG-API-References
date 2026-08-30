@@ -1,14 +1,14 @@
 ---
-title: Interface IInterpolationColor
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Drawing.IInterpolationColor gränssnitt. Deklarerar metoder för att få interpolationsfärg.
+title: "IInterpolationColor‑gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Drawing.IInterpolationColor‑gränssnitt. Deklarerar metoder för att hämta interpolationsfärg"
 type: docs
-weight: 1460
+weight: 3480
 url: /sv/net/aspose.svg.drawing/iinterpolationcolor/
 ---
 ## IInterpolationColor interface
 
-Deklarerar metoder för att få interpolationsfärg.
+Deklarerar metoder för att hämta interpolationsfärg.
 
 ```csharp
 public interface IInterpolationColor
@@ -16,14 +16,12 @@ public interface IInterpolationColor
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Color](../../aspose.svg.drawing/iinterpolationcolor/color/) { get; } | Få färgen som representerar färgerna som ska användas på motsvarande positioner längs en gradient. |
-| [Position](../../aspose.svg.drawing/iinterpolationcolor/position/) { get; } | Får färgpositionen. |
+| [Color](../../aspose.svg.drawing/iinterpolationcolor/color/) { get; set; } | Hämtar eller anger färgen som representerar de färger som ska användas på motsvarande positioner längs en gradient. |
+| [Position](../../aspose.svg.drawing/iinterpolationcolor/position/) { get; set; } | Hämtar eller anger färgpositionen. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

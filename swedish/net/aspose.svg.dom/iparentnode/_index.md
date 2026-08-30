@@ -1,14 +1,14 @@
 ---
-title: Interface IParentNode
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.IParentNode gränssnitt. DefinierarIParentNode gränssnitt som implementeras av eventuella föräldrar.
+title: "IParentNode-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.IParentNode-gränssnitt. Definierar IParentNode-gränssnittet som implementeras av alla möjliga föräldrar"
 type: docs
-weight: 1100
+weight: 3080
 url: /sv/net/aspose.svg.dom/iparentnode/
 ---
 ## IParentNode interface
 
-Definierar`IParentNode` gränssnitt som implementeras av eventuella föräldrar.
+Definierar `IParentNode`-gränssnittet som implementeras av alla möjliga föräldrar.
 
 ```csharp
 public interface IParentNode : IElementTraversal
@@ -16,24 +16,22 @@ public interface IParentNode : IElementTraversal
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ChildElementCount](../../aspose.svg.dom/iparentnode/childelementcount/) { get; } | Attributet childElementCount måste returnera antalet underordnade av kontextobjektet som är element. |
-| [Children](../../aspose.svg.dom/iparentnode/children/) { get; } | Returnerar de underordnade elementen. |
-| [FirstElementChild](../../aspose.svg.dom/iparentnode/firstelementchild/) { get; } | Returnerar det första underordnade som är ett element, och null annars. |
-| [LastElementChild](../../aspose.svg.dom/iparentnode/lastelementchild/) { get; } | Returnerar det sista underordnade som är ett element, och null annars. |
+| [ChildElementCount](../../aspose.svg.dom/iparentnode/childelementcount/) { get; } | Attributet childElementCount måste returnera antalet barn till kontextobjektet som är element. |
+| [Children](../../aspose.svg.dom/iparentnode/children/) { get; } | Returnerar barn‑elementen. |
+| [FirstElementChild](../../aspose.svg.dom/iparentnode/firstelementchild/) { get; } | Returnerar det första barnet som är ett element, annars null. |
+| [LastElementChild](../../aspose.svg.dom/iparentnode/lastelementchild/) { get; } | Returnerar det sista barnet som är ett element, annars null. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [QuerySelector](../../aspose.svg.dom/iparentnode/queryselector/)(string) | Returnerar det första elementet som är en avkomling av noden som matchar väljare. |
-| [QuerySelectorAll](../../aspose.svg.dom/iparentnode/queryselectorall/)(string) | Returnerar alla element avkomlingar av nod som matchar väljare. |
+| [QuerySelector](../../aspose.svg.dom/iparentnode/queryselector/)(*string*) | Returnerar det första elementet som är en ättling till noden som matchar selektorer. |
+| [QuerySelectorAll](../../aspose.svg.dom/iparentnode/queryselectorall/)(*string*) | Returnerar alla elementättlingar till noden som matchar selektorer. |
 
 ### Se även
 
 * interface [IElementTraversal](../../aspose.svg.dom.traversal/ielementtraversal/)
-* namnutrymme [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

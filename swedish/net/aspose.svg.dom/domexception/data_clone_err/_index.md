@@ -1,7 +1,7 @@
 ---
-title: DOMException.DATA_CLONE_ERR
-second_title: Aspose.SVG för .NET API Referens
-description: DOMException fält. Objektet kan inte klonas.
+title: "DOMException.DATA_CLONE_ERR"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMException DATA_CLONE_ERR-fältet. Objektet kan inte klonas"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.dom/domexception/data_clone_err/
@@ -17,7 +17,5 @@ public const ushort DATA_CLONE_ERR;
 ### Se även
 
 * class [DOMException](../)
-* namnutrymme [Aspose.Svg.Dom](../../domexception/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

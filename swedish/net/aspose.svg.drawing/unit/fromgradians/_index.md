@@ -1,14 +1,14 @@
 ---
-title: Unit.FromGradians
-second_title: Aspose.SVG för .NET API Referens
-description: Unit metod. Returnerar enAngleobjekt som representeras i nyanser.
+title: "Unit.FromGradians"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Metoden Unit FromGradians. Returnerar ett Angle-objekt som representeras i gradianer"
 type: docs
 weight: 100
 url: /sv/net/aspose.svg.drawing/unit/fromgradians/
 ---
 ## Unit.FromGradians method
 
-Returnerar en[`Angle`](../../angle/)objekt som representeras i nyanser.
+Returnerar ett [`Angle`](../../angle/)-objekt som representeras i gradianer.
 
 ```csharp
 public static Angle FromGradians(double value)
@@ -20,13 +20,11 @@ public static Angle FromGradians(double value)
 
 ### Returvärde
 
-Returnerar a[`Angle`](../../angle/) objekt.
+Returnerar ett [`Angle`](../../angle/) objekt.
 
 ### Se även
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

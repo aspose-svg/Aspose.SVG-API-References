@@ -1,33 +1,31 @@
 ---
-title: SVGElement.Id
-second_title: Aspose.SVG för .NET API Referens
-description: SVGElement fast egendom. Värdet för idattributet på det givna elementet eller den tomma strängen om id inte finns.
+title: "SVGElement.Id"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGElement Id‑egenskap. Värdet för id‑attributet på det angivna elementet eller en tom sträng om id inte finns."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/svgelement/id/
 ---
 ## SVGElement.Id property
 
-Värdet för 'id'-attributet på det givna elementet, eller den tomma strängen om 'id' inte finns.
+Värdet för attributet ‘id’ på det givna elementet, eller den tomma strängen om ‘id’ inte finns.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Identifieraren.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod NO_MODIFICATION_ALLOWED_ERR. Väcktes vid ett försök att ändra värdet på ett skrivskyddat attribut. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod NO_MODIFICATION_ALLOWED_ERR. Uppstår vid ett försök att ändra värdet på ett skrivskyddat attribut. |
 
 ### Se även
 
 * class [SVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

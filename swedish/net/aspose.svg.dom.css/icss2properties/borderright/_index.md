@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.BorderRight
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se gränshögeregenskapsdefinitionen i CSS2.
+title: "ICSS2Properties.BorderRight"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties BorderRight egenskap. Se definitionen av border-right egenskap i CSS2"
 type: docs
 weight: 190
 url: /sv/net/aspose.svg.dom.css/icss2properties/borderright/
 ---
 ## ICSS2Properties.BorderRight property
 
-Se gräns-höger-egenskapsdefinitionen i CSS2.
+Se definitionen av egenskapen border-right i CSS2.
 
 ```csharp
 public string BorderRight { get; set; }
@@ -16,12 +16,10 @@ public string BorderRight { get; set; }
 
 ### Returvärde
 
-gränsrättsegendom
+border-right egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

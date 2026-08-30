@@ -1,14 +1,14 @@
 ---
-title: Color.FromLcha
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Returnerar en ny färg med de begärda värdena för luminans chroma nyans alfa.
+title: "Color.FromLcha"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color FromLcha method. Returnerar en ny Color med de begärda luminans, chroma, nyans och alfa värdena"
 type: docs
 weight: 150
 url: /sv/net/aspose.svg.drawing/color/fromlcha/
 ---
 ## Color.FromLcha method
 
-Returnerar en ny färg med de begärda värdena för luminans, chroma, nyans, alfa.
+Returnerar en ny Color med de begärda luminance, chroma, hue, alpha‑värdena.
 
 ```csharp
 public static Color FromLcha(float luminance, float chroma, float hue, float alpha)
@@ -16,19 +16,17 @@ public static Color FromLcha(float luminance, float chroma, float hue, float alp
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| luminance | Single | En flottör som representerar färgens luminanskomponent. |
-| chroma | Single | En float som representerar färgens chroma-komponent. |
-| hue | Single | En float som representerar nyanskomponenten i färgen. |
-| alpha | Single | En float som representerar alfakomponenten i färgen. |
+| luminance | Single | En float som representerar luminance‑komponenten i färgen. |
+| kroma | Single | Ett float som representerar kromakomponenten i färgen. |
+| nyans | Single | Ett float som representerar nyanskomponenten i färgen. |
+| alfa | Single | En float som representerar alfa-komponenten i färgen. |
 
 ### Returvärde
 
-En ny instans av[`Color`](../) klass
+En ny instans av klassen [`Color`](../)
 
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: InputEvent.InputEvent
-second_title: Aspose.SVG för .NET API Referens
-description: InputEvent byggare. Initierar en ny instans avInputEvent class.
+title: "InputEvent"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "InputEvent konstruktor. Skapar en ny instans av klassen InputEvent."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.events/inputevent/inputevent/
 ---
-## InputEvent(string) {#constructor}
+## InputEvent(*string*) {#constructor}
 
-Initierar en ny instans av[`InputEvent`](../) class.
+Skapar en ny instans av klassen [`InputEvent`](../).
 
 ```csharp
 public InputEvent(string type)
@@ -21,14 +21,14 @@ public InputEvent(string type)
 ### Se även
 
 * class [InputEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../inputevent/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## InputEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## InputEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
-Initierar en ny instans av[`InputEvent`](../) class.
+Skapar en ny instans av klassen [`InputEvent`](../).
 
 ```csharp
 public InputEvent(string type, IDictionary<string, object> eventInitDict)
@@ -37,12 +37,10 @@ public InputEvent(string type, IDictionary<string, object> eventInitDict)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | type | String | Händelsetypen. |
-| eventInitDict | IDictionary`2 | Händelsens initialiseringsordbok. |
+| eventInitDict | IDictionary`2 | Händelsens initieringsordbok. |
 
 ### Se även
 
 * class [InputEvent](../)
-* namnutrymme [Aspose.Svg.Dom.Events](../../inputevent/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Events](../../../aspose.svg.dom.events/)
+* assembly [Aspose.SVG](../../../)

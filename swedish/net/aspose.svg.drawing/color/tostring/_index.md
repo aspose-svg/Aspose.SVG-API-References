@@ -1,7 +1,7 @@
 ---
-title: Color.ToString
-second_title: Aspose.SVG för .NET API Referens
-description: Color metod. Returnerar en sträng som består av RGBAkomponentvärdena.
+title: "Color.ToString"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Color ToString-metoden. Returnerar en sträng som består av RGBA-komponentvärdena"
 type: docs
 weight: 430
 url: /sv/net/aspose.svg.drawing/color/tostring/
@@ -21,7 +21,5 @@ En människoläsbar sträng.
 ### Se även
 
 * class [Color](../)
-* namnutrymme [Aspose.Svg.Drawing](../../color/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

@@ -1,18 +1,16 @@
 ---
-title: Aspose.Svg.Events
-second_title: Aspose.SVG för .NET API Referens
-description: Namnutrymmet består av klasser för händelsebaserad interaktivitet som tidshändelser och zoomning.
+title: "Aspose.Svg.Events"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Namnutrymmet består av klasser för händelsebaserad interaktivitet såsom tidshändelser och zoomning."
 type: docs
-weight: 150
+weight: 170
 url: /sv/net/aspose.svg.events/
 ---
-Namnutrymmet består av klasser för händelsebaserad interaktivitet som tidshändelser och zoomning.
+Namnrymden består av klasser för händelsebaserad interaktivitet såsom tidshändelser och zoomning.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [SVGZoomEvent](./svgzoomevent/) | Zoomhändelsen inträffar när användaren initierar en åtgärd som gör att den aktuella vyn av SVG-dokumentfragmentet skalas om. Händelsehanterare känns bara igen på "svg"-element. |
-| [TimeEvent](./timeevent/) | TimeEvent-gränssnittet tillhandahåller specifik kontextuell information associerad med Time-händelser. De olika typerna av händelser som kan inträffa är: beginEvent, endEvent och repeatEvent. |
-
-
+| [SVGZoomEvent](./svgzoomevent/) | Zoomhändelsen inträffar när användaren initierar en åtgärd som får den aktuella vyn av SVG-dokumentfragmentet att skalas om. Händelsehanterare känns endast igen på ‘svg’-element. |
+| [TimeEvent](./timeevent/) | TimeEvent‑gränssnittet tillhandahåller specifik kontextuell information som är associerad med tidshändelser. De olika typerna av händelser som kan förekomma är: beginEvent, endEvent och repeatEvent. |

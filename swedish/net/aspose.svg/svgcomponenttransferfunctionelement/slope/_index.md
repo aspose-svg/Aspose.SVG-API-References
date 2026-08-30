@@ -1,28 +1,26 @@
 ---
-title: SVGComponentTransferFunctionElement.Slope
-second_title: Aspose.SVG för .NET API Referens
-description: SVGComponentTransferFunctionElement fast egendom. Motsvarar attributet lutning på det givna elementet.
+title: "SVGComponentTransferFunctionElement.Slope"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGComponentTransferFunctionElement Slope-egenskap. Motsvarar attributet slope på det givna elementet"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/svgcomponenttransferfunctionelement/slope/
 ---
 ## SVGComponentTransferFunctionElement.Slope property
 
-Motsvarar attributet 'lutning' på det givna elementet.
+Motsvarar attributet ‘slope’ på det givna elementet.
 
 ```csharp
 public SVGAnimatedNumber Slope { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'lutning' för det givna elementet.
+Attributet ‘slope’ för det givna elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* namnutrymme [Aspose.Svg](../../svgcomponenttransferfunctionelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

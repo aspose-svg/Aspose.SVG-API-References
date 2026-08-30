@@ -1,28 +1,26 @@
 ---
-title: SVGFEDropShadowElement.Width
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEDropShadowElement fast egendom. Motsvarar attributet width på det givna feDropShadowelementet.
+title: "SVGFEDropShadowElement.Width"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEDropShadowElement Width-egenskap. Motsvarar attributet width på det givna feDropShadow-elementet"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.filters/svgfedropshadowelement/width/
 ---
 ## SVGFEDropShadowElement.Width property
 
-Motsvarar attributet 'width' på det givna 'feDropShadow'-elementet.
+Motsvarar attributet ‘width’ på det givna ‘feDropShadow’-elementet.
 
 ```csharp
 public SVGAnimatedLength Width { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'width' för det givna 'feDropShadow'-elementet.
+Attributet ‘width’ för det givna ‘feDropShadow’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGFEDropShadowElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfedropshadowelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

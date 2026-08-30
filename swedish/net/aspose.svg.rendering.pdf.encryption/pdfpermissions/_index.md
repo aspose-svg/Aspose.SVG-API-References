@@ -1,36 +1,34 @@
 ---
-title: Enum PdfPermissions
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Rendering.Pdf.Encryption.PdfPermissions uppräkning. Denna uppräkning representerar användarens behörigheter för en pdf.
+title: "PdfPermissions‑enum"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Rendering.Pdf.Encryption.PdfPermissions enum. Denna enum representerar användarbehörigheter för en pdf."
 type: docs
-weight: 2930
+weight: 5000
 url: /sv/net/aspose.svg.rendering.pdf.encryption/pdfpermissions/
 ---
 ## PdfPermissions enumeration
 
-Denna uppräkning representerar användarens behörigheter för en pdf.
+Denna enum representerar användarens behörigheter för en pdf.
 
 ```csharp
 [Flags]
 public enum PdfPermissions
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| PrintDocument | `4` | (Säkerhetshanterare av revision 2) Skriv ut dokumentet. (Säkerhetshanterare av version 3 eller högre) Skriv ut dokumentet (möjligen inte på högsta kvalitetsnivå, beroende på om PrintingQuality också är inställd). |
-| ModifyContent | `8` | Ändra innehållet i dokumentet med andra operationer än de som kontrolleras av ModifyTextAnnotations, FillForm och 11. |
-| ExtractContent | `10` | Säkerhetshanterare för revision 2) Kopiera eller på annat sätt extrahera text och grafik från dokumentet, inklusive extrahering av text och grafik (till stöd för tillgänglighet för användare med funktionsnedsättning eller för andra ändamål). (Säkerhetshanterare av version 3 eller högre) Kopia eller på annat sätt extrahera text och grafik från dokumentet genom andra operationer än de som kontrolleras av ExtractContentWithDisabilities. |
-| ModifyTextAnnotations | `20` | Lägg till eller ändra textkommentarer, fyll i interaktiva formulärfält och, om ModifyContent också är inställt, skapa eller ändra interaktiva formulärfält (inklusive signaturfält). |
-| FillForm | `100` | (Säkerhetshanterare av version 3 eller senare) Fyll i befintliga interaktiva formulärfält (inklusive signaturfält), även om ModifyTextAnnotations är tydligt. |
-| ExtractContentWithDisabilities | `200` | (Säkerhetshanterare av version 3 eller senare) Extrahera text och grafik (till stöd för tillgänglighet för användare med funktionshinder eller för andra ändamål). |
-| AssembleDocument | `400` | (Säkerhetshanterare av version 3 eller senare) Sätt ihop dokumentet (infoga, rotera eller ta bort sidor och skapa bokmärken eller miniatyrbilder), även om ModifyContent är tydligt. |
-| PrintingQuality | `800` | (Säkerhetshanterare av version 3 eller högre) Skriv ut dokumentet till en representation från vilken en trogen digital kopia av PDF-innehållet kan genereras. När denna bit är klar (och bit 3 är inställd) begränsas utskriften till en låg -nivårepresentation av utseendet, möjligen av försämrad kvalitet. |
+| PrintDocument | `4` | (Säkerhetshanterare för revision 2) Skriv ut dokumentet. (Säkerhetshanterare för revision 3 eller högre) Skriv ut dokumentet (möjligen inte på högsta kvalitet, beroende på om PrintingQuality också är inställd). |
+| ModifyContent | `8` | Ändra dokumentets innehåll genom operationer som inte styrs av ModifyTextAnnotations, FillForm och 11. |
+| ExtractContent | `10` | (Säkerhetshanterare för revision 2) Kopiera eller på annat sätt extrahera text och grafik från dokumentet, inklusive extrahering av text och grafik (för att stödja tillgänglighet för användare med funktionsnedsättningar eller för andra ändamål). (Säkerhetshanterare för revision 3 eller högre) Kopiera eller på annat sätt extrahera text och grafik från dokumentet genom operationer som inte styrs av ExtractContentWithDisabilities. |
+| ModifyTextAnnotations | `20` | Lägg till eller ändra textanteckningar, fyll i interaktiva formulärfält och, om ModifyContent också är inställt, skapa eller ändra interaktiva formulärfält (inklusive signaturfält). |
+| FillForm | `100` | (Säkerhetshanterare för revision 3 eller högre) Fyll i befintliga interaktiva formulärfält (inklusive signaturfält), även om ModifyTextAnnotations är avstängt. |
+| ExtractContentWithDisabilities | `200` | (Säkerhetshanterare för revision 3 eller högre) Extrahera text och grafik (för att stödja tillgänglighet för användare med funktionsnedsättningar eller för andra ändamål). |
+| AssembleDocument | `400` | (Säkerhetshanterare för revision 3 eller högre) Sätt ihop dokumentet (infoga, rotera eller ta bort sidor samt skapa bokmärken eller miniatyrbilder), även om ModifyContent är avstängt. |
+| PrintingQuality | `800` | (Säkerhetshanterare för revision 3 eller högre) Skriv ut dokumentet till en representation från vilken en exakt digital kopia av PDF‑innehållet kan genereras. När denna bit är avstängd (och bit 3 är på), begränsas utskriften till en låg‑nivå representation av utseendet, möjligen med försämrad kvalitet. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf.Encryption](../../aspose.svg.rendering.pdf.encryption/)
+* assembly [Aspose.SVG](../../)

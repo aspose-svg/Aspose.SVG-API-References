@@ -1,14 +1,14 @@
 ---
-title: IDOMImplementation.CreateDocumentType
-second_title: Aspose.SVG för .NET API Referens
-description: IDOMImplementation metod. Skapar en tom DocumentTypenod. Enhetsdeklarationer och noteringar görs inte tillgängliga. Entitetsreferensutvidgningar och tillägg av standardattribut förekommer inte.
+title: "IDOMImplementation.CreateDocumentType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IDOMImplementation CreateDocumentType-metoden. Skapar en tom DocumentType-nod. Entity-deklarationer och notationer görs inte tillgängliga. Expansioner av entity-referenser och tillägg av standardattribut sker inte."
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom/idomimplementation/createdocumenttype/
 ---
 ## IDOMImplementation.CreateDocumentType method
 
-Skapar en tom DocumentType-nod. Enhetsdeklarationer och noteringar görs inte tillgängliga. Entitetsreferensutvidgningar och tillägg av standardattribut förekommer inte.
+Skapar en tom DocumentType-nod. Entitetsdeklarationer och notationer görs inte tillgängliga. Utökningar av entitetsreferenser och standardattributsläggningar sker inte.
 
 ```csharp
 public DocumentType CreateDocumentType(string qualifiedName, string publicId, string systemId)
@@ -16,19 +16,17 @@ public DocumentType CreateDocumentType(string qualifiedName, string publicId, st
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| qualifiedName | String | Namn på den kvalificerade. |
-| publicId | String | Det offentliga id. |
-| systemId | String | System-id. |
+| qualifiedName | String | Namnet på den kvalificerade. |
+| publicId | String | Det offentliga id:t. |
+| systemId | String | System-id:t. |
 
 ### Returvärde
 
-De[`DocumentType`](../../documenttype/).
+Den [`DocumentType`](../../documenttype/).
 
 ### Se även
 
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* namnutrymme [Aspose.Svg.Dom](../../idomimplementation/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

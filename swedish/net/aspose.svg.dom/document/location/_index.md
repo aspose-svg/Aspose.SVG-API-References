@@ -1,7 +1,7 @@
 ---
-title: Document.Location
-second_title: Aspose.SVG för .NET API Referens
-description: Document fast egendom. Dokumentets plats.
+title: "Document.Location"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document Location-egenskapen. Dokumentets plats."
 type: docs
 weight: 160
 url: /sv/net/aspose.svg.dom/document/location/
@@ -14,7 +14,7 @@ Dokumentets plats.
 public Location Location { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Platsen.
 
@@ -22,7 +22,5 @@ Platsen.
 
 * class [Location](../../../aspose.svg.window/location/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

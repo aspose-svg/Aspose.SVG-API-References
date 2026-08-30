@@ -1,14 +1,14 @@
 ---
-title: Document.CreateDocumentFragment
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Skapar ett tomt DocumentFragmentobjekt.
+title: "Document.CreateDocumentFragment"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document CreateDocumentFragment‑metoden. Skapar ett nytt tomt DocumentFragment där DOM‑noder kan läggas till för att bygga ett offscreen‑DOM‑träd"
 type: docs
 weight: 830
 url: /sv/net/aspose.svg.dom/document/createdocumentfragment/
 ---
 ## Document.CreateDocumentFragment method
 
-Skapar ett tomt DocumentFragment-objekt.
+Skapar ett nytt tomt [`DocumentFragment`](../../documentfragment/) där DOM‑noder kan läggas till för att bygga ett offscreen‑DOM‑träd.
 
 ```csharp
 public DocumentFragment CreateDocumentFragment()
@@ -16,13 +16,11 @@ public DocumentFragment CreateDocumentFragment()
 
 ### Returvärde
 
-Den[`DocumentFragment`](../../documentfragment/) .
+Det [`DocumentFragment`](../../documentfragment/).
 
 ### Se även
 
 * class [DocumentFragment](../../documentfragment/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

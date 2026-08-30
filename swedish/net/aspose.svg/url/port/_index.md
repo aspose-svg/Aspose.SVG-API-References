@@ -1,27 +1,25 @@
 ---
-title: Url.Port
-second_title: Aspose.SVG för .NET API Referens
-description: Url fast egendom. Hämtar eller ställer in en strängrepresentation för den angivna URLporten.
+title: "Url.Port"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Url Port-egenskap. Hämtar eller anger en strängrepresentation för den angivna URL-porten"
 type: docs
 weight: 90
 url: /sv/net/aspose.svg/url/port/
 ---
 ## Url.Port property
 
-Hämtar eller ställer in en strängrepresentation för den angivna URL-porten.
+Hämtar eller anger en strängrepresentation för den angivna URL-porten.
 
 ```csharp
 public string Port { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Porten.
 
 ### Se även
 
 * class [Url](../)
-* namnutrymme [Aspose.Svg](../../url/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

@@ -1,7 +1,7 @@
 ---
-title: SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFEConvolveMatrixElement fält. Motsvarar värdet wrap.
+title: "SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFEConvolveMatrixElement SVG_EDGEMODE_WRAP-fält. Motsvarar värdet wrap"
 type: docs
 weight: 210
 url: /sv/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_wrap/
@@ -17,7 +17,5 @@ public const ushort SVG_EDGEMODE_WRAP;
 ### Se även
 
 * class [SVGFEConvolveMatrixElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfeconvolvematrixelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

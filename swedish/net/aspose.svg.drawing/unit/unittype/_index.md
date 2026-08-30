@@ -1,28 +1,26 @@
 ---
-title: Unit.UnitType
-second_title: Aspose.SVG för .NET API Referens
-description: Unit fast egendom. Hämtar enhetstypen förUnit .
+title: "Unit.UnitType"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Unit UnitType-egenskapen. Hämtar enhetstypen för Unit."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/unit/unittype/
 ---
 ## Unit.UnitType property
 
-Hämtar enhetstypen för[`Unit`](../) .
+Hämtar enhetstypen för [`Unit`](../).
 
 ```csharp
 public UnitType UnitType { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av enhet.
+Typen av enheten.
 
 ### Se även
 
 * class [UnitType](../../unittype/)
 * class [Unit](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

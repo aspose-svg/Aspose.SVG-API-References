@@ -1,9 +1,9 @@
 ---
-title: Class SVGSaveOptions
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Saving.SVGSaveOptions klass. Representerar SVGsparalternativ.
+title: "SVGSaveOptions Klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Saving.SVGSaveOptions klass. Representerar SVG‑sparalternativ"
 type: docs
-weight: 3670
+weight: 5790
 url: /sv/net/aspose.svg.saving/svgsaveoptions/
 ---
 ## SVGSaveOptions class
@@ -16,21 +16,19 @@ public class SVGSaveOptions : SaveOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SVGSaveOptions](svgsaveoptions/)() | Default_Constructor |
+| [SVGSaveOptions](svgsaveoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Får en[`ResourceHandlingOptions`](../resourcehandlingoptions/) objekt som används för konfiguration av resurshantering. |
-| [VectorizeText](../../aspose.svg.saving/svgsaveoptions/vectorizetext/) { get; set; } | Hämtar eller ställer in om textelement ska ersättas med sökvägar. |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions/) { get; } | Hämtar ett [`ResourceHandlingOptions`](../resourcehandlingoptions/)‑objekt som används för konfiguration av resurshantering. |
+| [VectorizeText](../../aspose.svg.saving/svgsaveoptions/vectorizetext/) { get; set; } | Hämtar eller anger om textelement ersätts med banor. |
 
 ### Se även
 
 * class [SaveOptions](../saveoptions/)
-* namnutrymme [Aspose.Svg.Saving](../../aspose.svg.saving/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Saving](../../aspose.svg.saving/)
+* assembly [Aspose.SVG](../../)

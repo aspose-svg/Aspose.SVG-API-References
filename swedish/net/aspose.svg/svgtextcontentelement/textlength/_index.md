@@ -1,28 +1,26 @@
 ---
-title: SVGTextContentElement.TextLength
-second_title: Aspose.SVG för .NET API Referens
-description: SVGTextContentElement fast egendom. Motsvarar attributet textLength på det givna elementet.
+title: "SVGTextContentElement.TextLength"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGTextContentElement TextLength-egenskap. Motsvarar attributet textLength på det angivna elementet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/svgtextcontentelement/textlength/
 ---
 ## SVGTextContentElement.TextLength property
 
-Motsvarar attributet 'textLength' på det givna elementet.
+Motsvarar attributet ‘textLength’ på det angivna elementet.
 
 ```csharp
 public SVGAnimatedLength TextLength { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'textLength' för det givna elementet.
+Attributet ‘textLength’ på det angivna elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGTextContentElement](../)
-* namnutrymme [Aspose.Svg](../../svgtextcontentelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

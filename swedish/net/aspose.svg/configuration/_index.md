@@ -1,43 +1,43 @@
 ---
-title: Class Configuration
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Configuration klass. Representerar konfigurationskontextobjektet som används för att ställa in miljöinställningarna för programmet.
+title: "Konfigurationsklass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Configuration-klass. Representerar kontextobjektet för konfiguration som används för att ställa in miljöinställningarna för applikationen"
 type: docs
-weight: 60
+weight: 2050
 url: /sv/net/aspose.svg/configuration/
 ---
 ## Configuration class
 
-Representerar konfigurationskontextobjektet som används för att ställa in miljöinställningarna för programmet.
+Representerar kontextobjektet för konfiguration som används för att ställa in miljöinställningarna för applikationen.
 
 ```csharp
-public class Configuration : IServiceContainer
+public class Configuration : IDisposable, IServiceProvider
 ```
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Configuration](configuration/)() | Initierar en ny instans av`Configuration` class. |
+| [Configuration](configuration/)() | Initierar en ny instans av `Configuration`-klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Security](../../aspose.svg/configuration/security/) { get; set; } | Hämtar eller ställer in sandlådeflaggan för konfigurationen. |
+| [Security](../../aspose.svg/configuration/security/) { get; set; } | Denna egenskap låter dig ange ett antal begränsningar för innehållet som laddas i ramen, till exempel blockera formulär och skript. Se artikeln om [sandboxing](https://docs.aspose.com/html/net/environment-configuration/#sandboxing). |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AddService&lt;TService&gt;](../../aspose.svg/configuration/addservice/)(TService) | Lägger till den angivna tjänsten i konfigurationen. |
-| [Dispose](../../aspose.svg/configuration/dispose/)() | Utför programdefinierade uppgifter associerade med att frigöra, frigöra eller återställa ohanterade resurser. |
-| [GetService&lt;TService&gt;](../../aspose.svg/configuration/getservice/)() | Får den begärda tjänsten. |
+| static [Create](../../aspose.svg/configuration/create/#create)() | Skapa och konfigurera instansen av Configuration-objektet. |
+| static [Create](../../aspose.svg/configuration/create/#create_1)(*Action&lt;IConfigurationBuilder&gt;*) | Skapa och konfigurera instansen av Configuration-objektet. |
+| [Dispose](../../aspose.svg/configuration/dispose/)() | Utför applikationsdefinierade uppgifter som är relaterade till att frigöra, släppa eller återställa ohanterade resurser. |
+| [GetService](../../aspose.svg/configuration/getservice/#getservice)(*Type*) | Hämtar den begärda tjänsten. |
+| [GetService<T>](../../aspose.svg/configuration/getservice/#getservice_1)() | Hämtar den begärda tjänsten. |
+| static [SetExtension](../../aspose.svg/configuration/setextension/)(*[IConfigurationExtension](../iconfigurationextension/)*) | Ställer in tillägget för konfigurationen. |
 
 ### Se även
 
-* interface [IServiceContainer](../../aspose.svg.services/iservicecontainer/)
-* namnutrymme [Aspose.Svg](../../aspose.svg/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg](../../aspose.svg/)
+* assembly [Aspose.SVG](../../)

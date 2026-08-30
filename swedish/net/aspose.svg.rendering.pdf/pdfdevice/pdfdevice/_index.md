@@ -1,14 +1,14 @@
 ---
-title: PdfDevice.PdfDevice
-second_title: Aspose.SVG för .NET API Referens
-description: PdfDevice byggare. Initierar en ny instans avPdfDevice class.
+title: "PdfDevice"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "PdfDevice konstruktor. Initierar en ny instans av PdfDevice-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
-## PdfDevice(ICreateStreamProvider) {#constructor}
+## PdfDevice(*[ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor}
 
-Initierar en ny instans av[`PdfDevice`](../) class.
+Initierar en ny instans av klassen [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -22,14 +22,14 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)*) {#constructor_1}
 
-Initierar en ny instans av[`PdfDevice`](../) klass genom renderingsalternativ och strömleverantör.
+Initierar en ny instans av klassen [`PdfDevice`](../) med renderingsalternativ och strömleverantör.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Återgivningsalternativ. |
-| streamProvider | ICreateStreamProvider | Objekt som implementerar[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) gränssnitt |
+| alternativ | PdfRenderingOptions | Renderingsalternativ. |
+| streamProvider | ICreateStreamProvider | Objekt som implementerar gränssnittet [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/). |
 
 ### Se även
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(string) {#constructor_5}
+## PdfDevice(*string*) {#constructor_5}
 
-Initierar en ny instans av[`PdfDevice`](../) class.
+Initierar en ny instans av klassen [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(string file)
@@ -60,19 +60,19 @@ public PdfDevice(string file)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| file | String | Utdatafilens namn. |
+| fil | String | Utdatafilens namn. |
 
 ### Se även
 
 * class [PdfDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), string*) {#constructor_3}
 
-Initierar en ny instans av[`PdfDevice`](../) klass genom att rendera alternativ och utdatafilnamn.
+Initierar en ny instans av klassen [`PdfDevice`](../) med renderingsalternativ och utdatafilnamn.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Återgivningsalternativ. |
-| file | String | Utdatafilens namn. |
+| alternativ | PdfRenderingOptions | Renderingsalternativ. |
+| fil | String | Utdatafilens namn. |
 
 ### Se även
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(Stream) {#constructor_4}
+## PdfDevice(*Stream*) {#constructor_4}
 
-Initierar en ny instans av[`PdfDevice`](../) class.
+Initierar en ny instans av klassen [`PdfDevice`](../).
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -107,14 +107,14 @@ public PdfDevice(Stream stream)
 ### Se även
 
 * class [PdfDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* hopsättning [Aspose.SVG](../../../)
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), Stream*) {#constructor_2}
 
-Initierar en ny instans av[`PdfDevice`](../) klass genom att rendera alternativ och utdataström.
+Initierar en ny instans av klassen [`PdfDevice`](../) med renderingsalternativ och utdataström.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -122,14 +122,12 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Återgivningsalternativ. |
-| stream | Stream | Utgångsströmmen. |
+| alternativ | PdfRenderingOptions | Renderingsalternativ. |
+| stream | Stream | Utdataströmmen. |
 
 ### Se även
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* namnutrymme [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Rendering.Pdf](../../../aspose.svg.rendering.pdf/)
+* assembly [Aspose.SVG](../../../)

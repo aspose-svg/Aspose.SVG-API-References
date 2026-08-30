@@ -1,14 +1,14 @@
 ---
-title: Document.OnEnded
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnEndedhändelse.
+title: "Document.OnEnded"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnEnded‑händelse. Hämtar eller anger händelsehanterare för OnEnded‑händelse."
 type: docs
 weight: 390
 url: /sv/net/aspose.svg.dom/document/onended/
 ---
 ## Document.OnEnded event
 
-Hämtar eller ställer in händelsehanterare för OnEnded-händelse.
+Hämtar eller anger händelsehanterare för OnEnded‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnEnded;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnEnded;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

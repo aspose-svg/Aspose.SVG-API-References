@@ -1,14 +1,14 @@
 ---
-title: Unit.FromKiloHertz
-second_title: Aspose.SVG för .NET API Referens
-description: Unit metod. Returnerar enFrequency objekt som representeras i kiloHertz.
+title: "Unit.FromKiloHertz"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Unit FromKiloHertz‑metod. Returnerar ett Frequency‑objekt som representeras i kiloHertz."
 type: docs
 weight: 130
 url: /sv/net/aspose.svg.drawing/unit/fromkilohertz/
 ---
 ## Unit.FromKiloHertz method
 
-Returnerar en[`Frequency`](../../frequency/) objekt som representeras i kiloHertz.
+Returnerar ett [`Frequency`](../../frequency/)-objekt som representeras i kilohertz.
 
 ```csharp
 public static Frequency FromKiloHertz(double value)
@@ -20,13 +20,11 @@ public static Frequency FromKiloHertz(double value)
 
 ### Returvärde
 
-Returnerar a[`Frequency`](../../frequency/) objekt.
+Returnerar ett [`Frequency`](../../frequency/) objekt.
 
 ### Se även
 
 * class [Frequency](../../frequency/)
 * class [Unit](../)
-* namnutrymme [Aspose.Svg.Drawing](../../unit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

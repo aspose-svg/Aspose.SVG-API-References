@@ -1,28 +1,26 @@
 ---
-title: SVGFESpotLightElement.LimitingConeAngle
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFESpotLightElement fast egendom. Motsvarar attributet limitingConeAngle på det givna feSpotLightelementet.
+title: "SVGFESpotLightElement.LimitingConeAngle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFESpotLightElement LimitingConeAngle‑egenskap. Motsvarar attributet limitingConeAngle på det angivna feSpotLight‑elementet."
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.filters/svgfespotlightelement/limitingconeangle/
 ---
 ## SVGFESpotLightElement.LimitingConeAngle property
 
-Motsvarar attributet 'limitingConeAngle' på det givna 'feSpotLight'-elementet.
+Motsvarar attributet ‘limitingConeAngle’ på det angivna ‘feSpotLight’-elementet.
 
 ```csharp
 public SVGAnimatedNumber LimitingConeAngle { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'limitingConeAngle' för det givna 'feSpotLight'-elementet.
+Attributet ‘limitingConeAngle’ för det angivna ‘feSpotLight’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumber](../../../aspose.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* namnutrymme [Aspose.Svg.Filters](../../svgfespotlightelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Filters](../../../aspose.svg.filters/)
+* assembly [Aspose.SVG](../../../)

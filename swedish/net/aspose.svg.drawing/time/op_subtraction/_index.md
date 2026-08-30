@@ -1,7 +1,7 @@
 ---
-title: Time.op_Subtraction
-second_title: Aspose.SVG för .NET API Referens
-description: Time metod. Implementerar operatorn .
+title: "Time.op_Subtraction"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Time op_Subtraction metod. Implementerar operatorn -"
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.drawing/time/op_subtraction/
@@ -25,15 +25,13 @@ Resultatet av operatorn.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | Argumenten är ogiltiga |
-| ArgumentException | Argument har olika typer eller Argument har olika upplösningar eller |
+| ArgumentNullException | Argumenten är null |
+| ArgumentException | Argumenten har olika typer eller Argumenten har olika upplösningar eller |
 
 ### Se även
 
 * class [Time](../)
-* namnutrymme [Aspose.Svg.Drawing](../../time/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

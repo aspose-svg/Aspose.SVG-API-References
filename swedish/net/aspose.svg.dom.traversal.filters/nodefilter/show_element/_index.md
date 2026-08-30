@@ -1,14 +1,14 @@
 ---
-title: NodeFilter.SHOW_ELEMENT
-second_title: Aspose.SVG för .NET API Referens
-description: NodeFilter fält. Visa elementnoder.
+title: "NodeFilter.SHOW_ELEMENT"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "NodeFilter SHOW_ELEMENT-fältet. Visa Element-noder"
 type: docs
 weight: 130
 url: /sv/net/aspose.svg.dom.traversal.filters/nodefilter/show_element/
 ---
 ## NodeFilter.SHOW_ELEMENT field
 
-Visa elementnoder.
+Visa Element-noder.
 
 ```csharp
 public const long SHOW_ELEMENT;
@@ -17,7 +17,5 @@ public const long SHOW_ELEMENT;
 ### Se även
 
 * class [NodeFilter](../)
-* namnutrymme [Aspose.Svg.Dom.Traversal.Filters](../../nodefilter/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal.Filters](../../../aspose.svg.dom.traversal.filters/)
+* assembly [Aspose.SVG](../../../)

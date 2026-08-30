@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.TryGetValue
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserverInit metod. Hämtar värdet som är kopplat till den angivna nyckeln.
+title: "MutationObserverInit.TryGetValue"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserverInit TryGetValue-metod. Hämtar värdet som är associerat med den angivna nyckeln"
 type: docs
 weight: 210
 url: /sv/net/aspose.svg.dom.mutations/mutationobserverinit/trygetvalue/
 ---
 ## MutationObserverInit.TryGetValue method
 
-Hämtar värdet som är kopplat till den angivna nyckeln.
+Hämtar värdet som är associerat med den angivna nyckeln.
 
 ```csharp
 public bool TryGetValue(string key, out object value)
@@ -16,17 +16,15 @@ public bool TryGetValue(string key, out object value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Nyckeln till värdet att få. |
-| value | Object& | När den här metoden returnerar, innehåller den värdet associerat med den angivna nyckeln, om nyckeln hittas; annars null. |
+| nyckel | String | Nyckeln för värdet att hämta. |
+| value | Object& | När den här metoden returnerar innehåller den värdet som är associerat med den angivna nyckeln, om nyckeln hittas; annars null. |
 
 ### Returvärde
 
-Sant om[`MutationObserverInit`](../) innehålla en specificerad nyckel; annars falskt.
+Sant om [`MutationObserverInit`](../) innehåller en angiven nyckel; annars falskt.
 
 ### Se även
 
 * class [MutationObserverInit](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

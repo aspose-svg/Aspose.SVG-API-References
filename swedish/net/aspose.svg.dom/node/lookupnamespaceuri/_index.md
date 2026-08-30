@@ -1,14 +1,14 @@
 ---
-title: Node.LookupNamespaceURI
-second_title: Aspose.SVG för .NET API Referens
-description: Node metod. Slå upp namnutrymmesURI som är kopplat till det givna prefixet med början från denna nod.
+title: "Node.LookupNamespaceURI"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Node LookupNamespaceURI-metod. Slå upp namnrymds-URI som är associerad med det givna prefixet med början från denna nod"
 type: docs
-weight: 260
+weight: 240
 url: /sv/net/aspose.svg.dom/node/lookupnamespaceuri/
 ---
 ## Node.LookupNamespaceURI method
 
-Slå upp namnutrymmes-URI som är kopplat till det givna prefixet, med början från denna nod.
+Slå upp namespace‑URI:n som är associerad med det givna prefixet, med början från denna nod.
 
 ```csharp
 public string LookupNamespaceURI(string prefix)
@@ -20,12 +20,10 @@ public string LookupNamespaceURI(string prefix)
 
 ### Returvärde
 
-Returnerar namnutrymmes-URI
+Returnerar namnrymds-URI
 
 ### Se även
 
 * class [Node](../)
-* namnutrymme [Aspose.Svg.Dom](../../node/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

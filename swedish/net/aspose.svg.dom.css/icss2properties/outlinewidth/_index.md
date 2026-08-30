@@ -1,14 +1,14 @@
 ---
-title: ICSS2Properties.OutlineWidth
-second_title: Aspose.SVG för .NET API Referens
-description: ICSS2Properties fast egendom. Se egenskapsdefinitionen outlinewidth i CSS2.
+title: "ICSS2Properties.OutlineWidth"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSS2Properties OutlineWidth egenskap. Se definitionen av outline-width‑egenskapen i CSS2"
 type: docs
-weight: 780
+weight: 810
 url: /sv/net/aspose.svg.dom.css/icss2properties/outlinewidth/
 ---
 ## ICSS2Properties.OutlineWidth property
 
-Se egenskapsdefinitionen outline-width i CSS2.
+Se egendefinitionen för outline-width i CSS2.
 
 ```csharp
 public string OutlineWidth { get; set; }
@@ -16,12 +16,10 @@ public string OutlineWidth { get; set; }
 
 ### Returvärde
 
-konturbreddsegenskap
+outline-width egenskap
 
 ### Se även
 
 * interface [ICSS2Properties](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icss2properties/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

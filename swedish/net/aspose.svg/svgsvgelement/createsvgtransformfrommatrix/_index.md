@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGTransformFromMatrix
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSVGElement metod. Skapar ett SVGTransformobjekt utanför alla dokumentträd. Objektet initieras till den givna matristransformen dvs SVG_TRANSFORM_MATRIX. Värdena från parametermatrisen kopieras matrisparametern används inte som SVGTransformmatrix.
+title: "SVGSVGElement.CreateSVGTransformFromMatrix"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSVGElement CreateSVGTransformFromMatrix-metod. Skapar ett SVGTransform-objekt utanför alla dokumentträd. Objektet initieras till den angivna matrisomvandlingen, d.v.s. SVG_TRANSFORM_MATRIX. Värdena från parameter‑matrisen kopieras; matris‑parametern antas inte som SVGTransform‑matris."
 type: docs
 weight: 190
 url: /sv/net/aspose.svg/svgsvgelement/createsvgtransformfrommatrix/
 ---
 ## SVGSVGElement.CreateSVGTransformFromMatrix method
 
-Skapar ett SVGTransform-objekt utanför alla dokumentträd. Objektet initieras till den givna matristransformen (dvs SVG_TRANSFORM_MATRIX). Värdena från parametermatrisen kopieras, matrisparametern används inte som SVGTransform::matrix.
+Skapar ett SVGTransform-objekt utanför alla dokumentträd. Objektet initieras till den angivna matrisomvandlingen (dvs. SVG_TRANSFORM_MATRIX). Värdena från parameter‑matrisen kopieras, matris‑parametern antas inte som SVGTransform::matrix.
 
 ```csharp
 public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)
@@ -16,7 +16,7 @@ public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| matrix | SVGMatrix | Transformeringsmatrisen. |
+| matrix | SVGMatrix | Transformationsmatrisen. |
 
 ### Returvärde
 
@@ -27,7 +27,5 @@ Ett SVGTransform-objekt.
 * class [SVGTransform](../../../aspose.svg.datatypes/svgtransform/)
 * class [SVGMatrix](../../../aspose.svg.datatypes/svgmatrix/)
 * class [SVGSVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgsvgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

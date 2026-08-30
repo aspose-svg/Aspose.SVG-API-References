@@ -1,14 +1,14 @@
 ---
-title: Document.OnError
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnErrorhändelse.
+title: "Document.OnError"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnError‑händelse. Hämtar eller anger händelsehanterare för OnError‑händelsen."
 type: docs
 weight: 400
 url: /sv/net/aspose.svg.dom/document/onerror/
 ---
 ## Document.OnError event
 
-Hämtar eller ställer in händelsehanterare för OnError-händelse.
+Hämtar eller anger händelsehanterare för OnError‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnError;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnError;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

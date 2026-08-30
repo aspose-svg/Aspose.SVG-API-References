@@ -1,14 +1,14 @@
 ---
-title: SVGSVGElement.CreateSVGAngle
-second_title: Aspose.SVG för .NET API Referens
-description: SVGSVGElement metod. Skapar ett SVGAngleobjekt utanför alla dokumentträd. Objektet initieras till värdet 0 grader enhetslös.
+title: "SVGSVGElement.CreateSVGAngle"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGSVGElement CreateSVGAngle-metod. Skapar ett SVGAngle-objekt utanför alla dokumentträd. Objektet initieras till värdet 0 grader utan enhet."
 type: docs
 weight: 120
 url: /sv/net/aspose.svg/svgsvgelement/createsvgangle/
 ---
 ## SVGSVGElement.CreateSVGAngle method
 
-Skapar ett SVGAngle-objekt utanför alla dokumentträd. Objektet initieras till värdet 0 grader (enhetslös).
+Skapar ett SVGAngle-objekt utanför alla dokumentträd. Objektet initieras till värdet 0 grader (utan enhet).
 
 ```csharp
 public SVGAngle CreateSVGAngle()
@@ -22,7 +22,5 @@ Ett SVGAngle-objekt.
 
 * class [SVGAngle](../../../aspose.svg.datatypes/svgangle/)
 * class [SVGSVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgsvgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

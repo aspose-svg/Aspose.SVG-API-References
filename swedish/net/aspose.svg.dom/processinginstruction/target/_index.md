@@ -1,7 +1,7 @@
 ---
-title: ProcessingInstruction.Target
-second_title: Aspose.SVG för .NET API Referens
-description: ProcessingInstruction fast egendom. Målet för denna bearbetningsinstruktion.
+title: "ProcessingInstruction.Target"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ProcessingInstruction Target property. Målet för denna bearbetningsinstruktion"
 type: docs
 weight: 40
 url: /sv/net/aspose.svg.dom/processinginstruction/target/
@@ -14,14 +14,12 @@ Målet för denna bearbetningsinstruktion.
 public string Target { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Målet.
 
 ### Se även
 
 * class [ProcessingInstruction](../)
-* namnutrymme [Aspose.Svg.Dom](../../processinginstruction/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

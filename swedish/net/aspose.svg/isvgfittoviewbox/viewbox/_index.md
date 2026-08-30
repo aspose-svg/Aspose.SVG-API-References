@@ -1,28 +1,26 @@
 ---
-title: ISVGFitToViewBox.ViewBox
-second_title: Aspose.SVG för .NET API Referens
-description: ISVGFitToViewBox fast egendom. Motsvarar attributet viewBox på det givna elementet.
+title: "ISVGFitToViewBox.ViewBox"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ISVGFitToViewBox ViewBox-egenskap. Motsvarar attributet viewBox på det givna elementet"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg/isvgfittoviewbox/viewbox/
 ---
 ## ISVGFitToViewBox.ViewBox property
 
-Motsvarar attributet 'viewBox' på det givna elementet.
+Motsvarar attributet ‘viewBox’ på det givna elementet.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-'viewBox' för det givna elementet.
+‘viewBox’-värdet för det angivna elementet.
 
 ### Se även
 
 * class [SVGAnimatedRect](../../../aspose.svg.datatypes/svganimatedrect/)
 * interface [ISVGFitToViewBox](../)
-* namnutrymme [Aspose.Svg](../../isvgfittoviewbox/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

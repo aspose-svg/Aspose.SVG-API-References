@@ -1,14 +1,14 @@
 ---
-title: IFileList.Item
-second_title: Aspose.SVG för .NET API Referens
-description: IFileList fast egendom. Returnerar indexfilen i listan.
+title: "IFileList.Item"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IFileList Item egenskap. Returnerar den indexte filen i listan"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.io/ifilelist/item/
 ---
 ## IFileList indexer
 
-Returnerar indexfilen i listan.
+Returnerar den indexte filen i listan.
 
 ```csharp
 public IFile this[int index] { get; }
@@ -26,7 +26,5 @@ Filen.
 
 * interface [IFile](../../ifile/)
 * interface [IFileList](../)
-* namnutrymme [Aspose.Svg.IO](../../ifilelist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.IO](../../../aspose.svg.io/)
+* assembly [Aspose.SVG](../../../)

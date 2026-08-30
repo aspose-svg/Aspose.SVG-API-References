@@ -1,14 +1,14 @@
 ---
-title: Interface ICSSStyleRule
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.Css.ICSSStyleRule gränssnitt. CSSStyleRulegränssnittet representerar en enda regeluppsättning i en CSSformatmall.
+title: "ICSSStyleRule-gränssnitt"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.Css.ICSSStyleRule-gränssnitt. CSSStyleRule-gränssnittet representerar en enskild regeluppsättning i ett CSS‑stilmall."
 type: docs
-weight: 650
+weight: 2650
 url: /sv/net/aspose.svg.dom.css/icssstylerule/
 ---
 ## ICSSStyleRule interface
 
-CSSStyleRule-gränssnittet representerar en enda regeluppsättning i en CSS-formatmall.
+CSSStyleRule‑gränssnittet representerar en enskild regeluppsättning i en CSS-stilmall.
 
 ```csharp
 public interface ICSSStyleRule : ICSSRule
@@ -16,15 +16,13 @@ public interface ICSSStyleRule : ICSSRule
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SelectorText](../../aspose.svg.dom.css/icssstylerule/selectortext/) { get; } | Textrepresentationen av väljaren för regeluppsättningen. Implementeringen kan ha tagit bort obetydliga blanksteg när väljaren analyserades. |
+| [SelectorText](../../aspose.svg.dom.css/icssstylerule/selectortext/) { get; } | Den textuella representationen av selektorn för regeluppsättningen. Implementeringen kan ha tagit bort insignifikant blanksteg vid parsning av selektorn. |
 | [Style](../../aspose.svg.dom.css/icssstylerule/style/) { get; } | Deklarationsblocket för denna regeluppsättning. |
 
 ### Se även
 
 * interface [ICSSRule](../icssrule/)
-* namnutrymme [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../)

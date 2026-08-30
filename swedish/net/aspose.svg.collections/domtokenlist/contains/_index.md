@@ -1,14 +1,14 @@
 ---
-title: DOMTokenList.Contains
-second_title: Aspose.SVG för .NET API Referens
-description: DOMTokenList metod. Returnerar sant om listan innehåller den givna token annars false.
+title: "DOMTokenList.Contains"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "DOMTokenList Contains-metod. Returnerar true om listan innehåller den angivna tokenen, annars false"
 type: docs
 weight: 50
 url: /sv/net/aspose.svg.collections/domtokenlist/contains/
 ---
 ## DOMTokenList.Contains method
 
-Returnerar sant om listan innehåller den givna token, annars false.
+Returnerar true om listan innehåller den angivna token, annars false.
 
 ```csharp
 public bool Contains(string token)
@@ -16,16 +16,14 @@ public bool Contains(string token)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| token | String | Token att hitta i listan. |
+| token | String | Tokenen att hitta i listan. |
 
 ### Returvärde
 
-En Boolean, vilket är sant om anropslistan innehåller token, annars falskt.
+Ett Boolean, som är true om den anropande listan innehåller tokenen, annars false.
 
 ### Se även
 
 * class [DOMTokenList](../)
-* namnutrymme [Aspose.Svg.Collections](../../domtokenlist/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Collections](../../../aspose.svg.collections/)
+* assembly [Aspose.SVG](../../../)

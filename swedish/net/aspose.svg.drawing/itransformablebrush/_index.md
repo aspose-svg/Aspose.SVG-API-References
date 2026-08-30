@@ -1,14 +1,14 @@
 ---
-title: Interface ITransformableBrush
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Drawing.ITransformableBrush gränssnitt. Deklarerar metoder för att hämta transformationsmatris och radbrytningsläge.
+title: "ITransformableBrush‑interface"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Drawing.ITransformableBrush interface. Deklarerar metoder för att hämta transformationsmatris och omslagsläge."
 type: docs
-weight: 1500
+weight: 3530
 url: /sv/net/aspose.svg.drawing/itransformablebrush/
 ---
 ## ITransformableBrush interface
 
-Deklarerar metoder för att hämta transformationsmatris och radbrytningsläge.
+Deklarerar metoder för att hämta transformationsmatris och omslagsläge.
 
 ```csharp
 public interface ITransformableBrush : IBrush
@@ -16,15 +16,13 @@ public interface ITransformableBrush : IBrush
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix/) { get; } | Hämta transformationen. Transformen definierar en lokal geometrisk transformation för denna pensel. |
-| [WrapMode](../../aspose.svg.drawing/itransformablebrush/wrapmode/) { get; } | Hämtar eller ställer in radbrytningsläget. Radbrytningsläge anger hur en textur eller gradient är tiled när den är mindre än området som fylls. |
+| [SpreadMode](../../aspose.svg.drawing/itransformablebrush/spreadmode/) { get; set; } | Hämtar eller anger SpreadMode‑läget. SpreadMode‑läget specificerar hur en textur eller gradient tileas när den är mindre än det område som fylls. |
+| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix/) { get; set; } | Hämta transformationen. Transformationen definierar en lokal geometrisk transformation för denna pensel. |
 
 ### Se även
 
 * interface [IBrush](../ibrush/)
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../)

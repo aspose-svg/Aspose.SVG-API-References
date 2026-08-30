@@ -1,14 +1,14 @@
 ---
-title: Document.OnCanPlayThrough
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnCanPlayThroughhändelse.
+title: "Document.OnCanPlayThrough"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnCanPlayThrough‑händelse. Hämtar eller anger händelsehanterare för OnCanPlayThrough‑händelse."
 type: docs
 weight: 320
 url: /sv/net/aspose.svg.dom/document/oncanplaythrough/
 ---
 ## Document.OnCanPlayThrough event
 
-Hämtar eller ställer in händelsehanterare för OnCanPlayThrough-händelse.
+Hämtar eller anger händelsehanterare för OnCanPlayThrough‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnCanPlayThrough;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnCanPlayThrough;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

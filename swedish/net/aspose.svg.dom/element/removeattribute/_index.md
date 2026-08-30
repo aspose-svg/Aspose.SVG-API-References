@@ -1,7 +1,7 @@
 ---
-title: Element.RemoveAttribute
-second_title: Aspose.SVG för .NET API Referens
-description: Element metod. Tar bort ett attribut efter namn.
+title: "Element.RemoveAttribute"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Element RemoveAttribute metod. Tar bort ett attribut med namn"
 type: docs
 weight: 370
 url: /sv/net/aspose.svg.dom/element/removeattribute/
@@ -11,17 +11,15 @@ url: /sv/net/aspose.svg.dom/element/removeattribute/
 Tar bort ett attribut efter namn.
 
 ```csharp
-public void RemoveAttribute(string name)
+public void RemoveAttribute(string qualifiedName)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Attributnamnet. |
+| qualifiedName | String | Attributnamnet. |
 
 ### Se även
 
 * class [Element](../)
-* namnutrymme [Aspose.Svg.Dom](../../element/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

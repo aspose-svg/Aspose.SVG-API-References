@@ -1,14 +1,14 @@
 ---
-title: Document.OnAbort
-second_title: Aspose.SVG för .NET API Referens
-description: Document händelse. Hämtar eller ställer in händelsehanterare för OnAborthändelse.
+title: "Document.OnAbort"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document OnAbort‑händelse. Hämtar eller anger händelsehanterare för OnAbort‑händelsen"
 type: docs
 weight: 280
 url: /sv/net/aspose.svg.dom/document/onabort/
 ---
 ## Document.OnAbort event
 
-Hämtar eller ställer in händelsehanterare för OnAbort-händelse.
+Hämtar eller anger händelsehanterare för OnAbort‑händelsen.
 
 ```csharp
 public event DOMEventHandler OnAbort;
@@ -18,7 +18,5 @@ public event DOMEventHandler OnAbort;
 
 * delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

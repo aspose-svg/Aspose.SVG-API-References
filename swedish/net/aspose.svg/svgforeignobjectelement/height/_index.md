@@ -1,28 +1,26 @@
 ---
-title: SVGForeignObjectElement.Height
-second_title: Aspose.SVG för .NET API Referens
-description: SVGForeignObjectElement fast egendom. Motsvarar attributet höjd på det givna foreignObjectelementet.
+title: "SVGForeignObjectElement.Height"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGForeignObjectElement Height-egenskap. Motsvarar attributet height på det angivna foreignObject-elementet"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg/svgforeignobjectelement/height/
 ---
 ## SVGForeignObjectElement.Height property
 
-Motsvarar attributet 'höjd' på det givna 'foreignObject'-elementet.
+Motsvarar attributet ‘height’ på det angivna ‘foreignObject’-elementet.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'height' för det givna 'foreignObject'-elementet.
+Attributet ‘height’ för det angivna ‘foreignObject’-elementet.
 
 ### Se även
 
 * class [SVGAnimatedLength](../../../aspose.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* namnutrymme [Aspose.Svg](../../svgforeignobjectelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

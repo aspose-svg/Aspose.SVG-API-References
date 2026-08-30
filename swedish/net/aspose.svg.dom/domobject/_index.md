@@ -1,14 +1,14 @@
 ---
-title: Class DOMObject
-second_title: Aspose.SVG för .NET API Referens
-description: Aspose.Svg.Dom.DOMObject klass. DOMObjecttypen används för att representera ett basobjekt för hela dokumentobjektmodellen. För Java och ECMAScript är DOMObject bundet till objekttypen.
+title: "DOMObject‑klass"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Aspose.Svg.Dom.DOMObject‑klass. DOMObject‑typen används för att representera ett basobjekt för hela Document Object Model. För Java och ECMAScript är DOMObject bundet till Object‑typen."
 type: docs
-weight: 800
+weight: 2800
 url: /sv/net/aspose.svg.dom/domobject/
 ---
 ## DOMObject class
 
-DOMObject-typen används för att representera ett basobjekt för hela dokumentobjektmodellen. För Java och ECMAScript är DOMObject bundet till objekttypen.
+DOMObject‑typen används för att representera ett basobjekt för hela Document Object Model. För Java och ECMAScript är DOMObject bunden till Object‑typen.
 
 ```csharp
 public class DOMObject : INotifyPropertyChanged
@@ -16,19 +16,17 @@ public class DOMObject : INotifyPropertyChanged
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DOMObject](domobject/)() | Default_Constructor |
+| [DOMObject](domobject/)() | Standardkonstruktorn. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektets typ. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Dom](../../aspose.svg.dom/)
-* hopsättning [Aspose.SVG](../../)
-
-
+* namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../)

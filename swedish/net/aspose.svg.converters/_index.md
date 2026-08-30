@@ -1,17 +1,15 @@
 ---
-title: Aspose.Svg.Converters
-second_title: Aspose.SVG för .NET API Referens
-description: Den Aspose.Svg.Converters namnområdets mål är enkel tillgång till konverteringsmetoder. Det ger ett brett utbud av konverteringar till de populära formaten såsom PDF XPS bildformat etc. Mer specifika konvertering rendering sparande användarfall presenteras av väl kända och dokumenterade lågnivå APIfunktioner i ämnesorienterade namnområden.
+title: "Aspose.Svg.Converters"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Målet med namnutrymmet Aspose.Svg.Converters är enkel åtkomst till konverteringsmetoder. Det tillhandahåller ett brett utbud av konverteringar till populära format såsom PDF, XPS, bildformat etc. Mer specifika konverterings‑, renderings‑ och sparningsfall presenteras av välkända och dokumenterade låg‑nivå‑API‑funktioner i ämnesspecifika namnrymder."
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.svg.converters/
 ---
-Den **Aspose.Svg.Converters** namnområdets mål är enkel tillgång till konverteringsmetoder. Det ger ett brett utbud av konverteringar till de populära formaten, såsom PDF, XPS, bildformat, etc. Mer specifika konvertering (rendering, sparande) användarfall presenteras av väl kända och dokumenterade lågnivå API-funktioner i ämnesorienterade namnområden.
+Målet med namnrymden **Aspose.Svg.Converters** är enkel åtkomst till konverteringsmetoder. Den tillhandahåller ett brett utbud av konverteringar till populära format, såsom PDF, XPS, bildformat osv. Mer specifika konverterings‑ (renderings‑, sparnings‑) användningsfall presenteras av välkända och dokumenterade lågnivå‑API‑funktioner i ämnesorienterade namnrymder.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [Converter](./converter/) | Delad fasad endast för de flesta konverteringsscenarier. Det ger ett brett utbud av konverteringar till de populära formaten, såsom PDF, XPS, bildformat, etc. Mer specifika konverteringar (rendering, sparande) presenteras av välkända och dokumenterade API-funktioner på låg nivå. |
-
-
+| [Converter](./converter/) | Delad fasad endast för de vanligaste konverteringsscenarierna. Den tillhandahåller ett brett utbud av konverteringar till populära format, såsom PDF, XPS, bildformat etc. Mer specifika konverterings‑ (renderings‑, sparnings‑) användningsfall presenteras av välkända och dokumenterade låg‑nivå‑API‑funktioner. |

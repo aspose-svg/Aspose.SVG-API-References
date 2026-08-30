@@ -1,33 +1,31 @@
 ---
-title: SVGScriptElement.Type
-second_title: Aspose.SVG för .NET API Referens
-description: SVGScriptElement fast egendom. Motsvarar attributet type på det givna scriptelementet.
+title: "SVGScriptElement.Type"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGScriptElement Type-egenskap. Motsvarar attributet type på det angivna script-elementet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svgscriptelement/type/
 ---
 ## SVGScriptElement.Type property
 
-Motsvarar attributet 'type' på det givna 'script'-elementet.
+Motsvarar attributet ‘type’ på det givna ‘script’-elementet.
 
 ```csharp
 public string Type { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'type' för det givna 'script'-elementet.
+Attributet ‘type’ för det angivna ‘script’-elementet.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception/) | Kod[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . Höjd vid ett försök att ändra värdet på ett skrivskyddat attribut. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | Kod [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/). Uppstått vid ett försök att ändra värdet på ett skrivskyddat attribut. |
 
 ### Se även
 
 * class [SVGScriptElement](../)
-* namnutrymme [Aspose.Svg](../../svgscriptelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

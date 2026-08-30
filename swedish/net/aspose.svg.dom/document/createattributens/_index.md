@@ -1,14 +1,14 @@
 ---
-title: Document.CreateAttributeNS
-second_title: Aspose.SVG för .NET API Referens
-description: Document metod. Skapar ett attribut för det angivna kvalificerade namnet och namnutrymmets URI.
+title: "Document.CreateAttributeNS"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "Document CreateAttributeNS‑metod. Denna metod skapar ett nytt attribut‑nod och returnerar det. Det skapade objektet är ett nod som implementerar Attr‑klassen. DOM‑en påtvingar inte vilken typ av attribut som kan läggas till ett specifikt element på detta sätt."
 type: docs
 weight: 800
 url: /sv/net/aspose.svg.dom/document/createattributens/
 ---
 ## Document.CreateAttributeNS method
 
-Skapar ett attribut för det angivna kvalificerade namnet och namnutrymmets URI.
+Denna metod skapar ett nytt attributnod och returnerar det. Det skapade objektet är ett nod som implementerar [`Attr`](../../attr/)‑klassen. DOM‑en påtvingar inte vilken typ av attribut som kan läggas till ett specifikt element på detta sätt.
 
 ```csharp
 public Attr CreateAttributeNS(string namespaceURI, string qualifiedName)
@@ -16,18 +16,16 @@ public Attr CreateAttributeNS(string namespaceURI, string qualifiedName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceURI | String | Namnutrymmets URI. |
-| qualifiedName | String | Namn på den kvalificerade. |
+| namespaceURI | String | Namespace‑URI:n för attributet. |
+| qualifiedName | String | är en sträng som innehåller attributets namn. |
 
 ### Returvärde
 
-Den[`Attr`](../../attr/) .
+Den [`Attr`](../../attr/).
 
 ### Se även
 
 * class [Attr](../../attr/)
 * class [Document](../)
-* namnutrymme [Aspose.Svg.Dom](../../document/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)

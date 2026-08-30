@@ -1,28 +1,26 @@
 ---
-title: SVGFilterElement.Href
-second_title: Aspose.SVG för .NET API Referens
-description: SVGFilterElement fast egendom. Motsvarar attributet xlinkhref på det givna elementet.
+title: "SVGFilterElement.Href"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGFilterElement Href-egenskap. Motsvarar attributet xlinkhref på det givna elementet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svgfilterelement/href/
 ---
 ## SVGFilterElement.Href property
 
-Motsvarar attributet 'xlink:href' på det givna elementet.
+Motsvarar attributet ‘xlink:href’ på det angivna elementet.
 
 ```csharp
 public SVGAnimatedString Href { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-'xlink:href' för det givna elementet.
+‘xlink:href’-värdet för det angivna elementet.
 
 ### Se även
 
 * class [SVGAnimatedString](../../../aspose.svg.datatypes/svganimatedstring/)
 * class [SVGFilterElement](../)
-* namnutrymme [Aspose.Svg](../../svgfilterelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

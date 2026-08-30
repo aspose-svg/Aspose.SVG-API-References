@@ -1,14 +1,14 @@
 ---
-title: MutationObserverInit.Clear
-second_title: Aspose.SVG för .NET API Referens
-description: MutationObserverInit metod. Tar bort alla element frånMutationObserverInitsamling.
+title: "MutationObserverInit.Clear"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "MutationObserverInit Clear-metod. Tar bort alla element från MutationObserverInit-samlingen."
 type: docs
 weight: 150
 url: /sv/net/aspose.svg.dom.mutations/mutationobserverinit/clear/
 ---
 ## MutationObserverInit.Clear method
 
-Tar bort alla element från[`MutationObserverInit`](../)samling.
+Tar bort alla element från [`MutationObserverInit`](../)-samlingen.
 
 ```csharp
 public void Clear()
@@ -17,7 +17,5 @@ public void Clear()
 ### Se även
 
 * class [MutationObserverInit](../)
-* namnutrymme [Aspose.Svg.Dom.Mutations](../../mutationobserverinit/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Mutations](../../../aspose.svg.dom.mutations/)
+* assembly [Aspose.SVG](../../../)

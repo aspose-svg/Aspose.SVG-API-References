@@ -1,27 +1,25 @@
 ---
-title: SVGElement.ViewportElement
-second_title: Aspose.SVG för .NET API Referens
-description: SVGElement fast egendom. Elementet som etablerade den aktuella visningsporten. Ofta är det närmaste förfaderns svgelement. Null om det givna elementet är det yttersta svgelementet.
+title: "SVGElement.ViewportElement"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGElement ViewportElement‑egenskap. Elementet som etablerade den aktuella viewporten. Ofta det närmaste förfäders‑svg‑elementet. Null om det angivna elementet är det yttersta svg‑elementet."
 type: docs
 weight: 50
 url: /sv/net/aspose.svg/svgelement/viewportelement/
 ---
 ## SVGElement.ViewportElement property
 
-Elementet som etablerade den aktuella visningsporten. Ofta är det närmaste förfaderns "svg"-element. Null om det givna elementet är det yttersta svg-elementet.
+Elementet som etablerade den aktuella viewporten. Ofta det närmaste förfäders‑elementet ‘svg’. Null om det givna elementet är det yttersta svg‑elementet.
 
 ```csharp
 public SVGElement ViewportElement { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Viewport-elementet.
+Viewport‑elementet.
 
 ### Se även
 
 * class [SVGElement](../)
-* namnutrymme [Aspose.Svg](../../svgelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

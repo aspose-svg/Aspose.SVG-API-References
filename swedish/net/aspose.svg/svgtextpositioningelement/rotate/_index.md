@@ -1,28 +1,26 @@
 ---
-title: SVGTextPositioningElement.Rotate
-second_title: Aspose.SVG för .NET API Referens
-description: SVGTextPositioningElement fast egendom. Motsvarar attributet rotate på det givna elementet.
+title: "SVGTextPositioningElement.Rotate"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGTextPositioningElement Rotate egenskap. Motsvarar attributet rotate för det angivna elementet"
 type: docs
 weight: 30
 url: /sv/net/aspose.svg/svgtextpositioningelement/rotate/
 ---
 ## SVGTextPositioningElement.Rotate property
 
-Motsvarar attributet 'rotate' på det givna elementet.
+Motsvarar attributet ‘rotate’ på det angivna elementet.
 
 ```csharp
 public SVGAnimatedNumberList Rotate { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Attributet 'rotate' för det givna elementet.
+Attributet ‘rotate’ för det angivna elementet.
 
 ### Se även
 
 * class [SVGAnimatedNumberList](../../../aspose.svg.datatypes/svganimatednumberlist/)
 * class [SVGTextPositioningElement](../)
-* namnutrymme [Aspose.Svg](../../svgtextpositioningelement/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg](../../../aspose.svg/)
+* assembly [Aspose.SVG](../../../)

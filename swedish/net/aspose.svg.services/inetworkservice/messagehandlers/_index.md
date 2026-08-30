@@ -1,20 +1,20 @@
 ---
-title: INetworkService.MessageHandlers
-second_title: Aspose.SVG för .NET API Referens
-description: INetworkService fast egendom. Får en lista överMessageHandler instanser som ska åberopas som enRequestMessage körs.
+title: "INetworkService.MessageHandlers"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "INetworkService MessageHandlers egenskap. Hämtar en lista med MessageHandler-instansier som ska anropas när ett RequestMessage körs"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.services/inetworkservice/messagehandlers/
 ---
 ## INetworkService.MessageHandlers property
 
-Får en lista över[`MessageHandler`](../../../aspose.svg.net/messagehandler/) instanser som ska åberopas som en[`RequestMessage`](../../../aspose.svg.net/requestmessage/) körs.
+Hämtar en lista med [`MessageHandler`](../../../aspose.svg.net/messagehandler/) instanser som ska anropas när en [`RequestMessage`](../../../aspose.svg.net/requestmessage/) körs.
 
 ```csharp
 public MessageHandlerCollection MessageHandlers { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Meddelandehanterarna.
 
@@ -22,7 +22,5 @@ Meddelandehanterarna.
 
 * class [MessageHandlerCollection](../../../aspose.svg.net/messagehandlercollection/)
 * interface [INetworkService](../)
-* namnutrymme [Aspose.Svg.Services](../../inetworkservice/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Services](../../../aspose.svg.services/)
+* assembly [Aspose.SVG](../../../)

@@ -1,14 +1,14 @@
 ---
-title: SVGMatrix.Multiply
-second_title: Aspose.SVG för .NET API Referens
-description: SVGMatrix metod. Utför matrismultiplikation. Denna matris eftermultipliceras med en annan matris vilket returnerar den resulterande nya matrisen.
+title: "SVGMatrix.Multiply"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "SVGMatrix Multiply-metoden. Utför matris‑multiplikation. Denna matris post‑multipliceras med en annan matris och returnerar den resulterande nya matrisen."
 type: docs
 weight: 70
 url: /sv/net/aspose.svg.datatypes/svgmatrix/multiply/
 ---
 ## SVGMatrix.Multiply method
 
-Utför matrismultiplikation. Denna matris eftermultipliceras med en annan matris, vilket returnerar den resulterande nya matrisen.
+Utför matris‑multiplikation. Denna matris multipliceras post‑multiplikativt med en annan matris och returnerar den resulterande nya matrisen.
 
 ```csharp
 public SVGMatrix Multiply(SVGMatrix secondMatrix)
@@ -16,7 +16,7 @@ public SVGMatrix Multiply(SVGMatrix secondMatrix)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| secondMatrix | SVGMatrix | Matrisen som eftermultipliceras till denna matris. |
+| secondMatrix | SVGMatrix | Matrisen som post‑multipliceras med denna matris. |
 
 ### Returvärde
 
@@ -25,7 +25,5 @@ Den resulterande matrisen.
 ### Se även
 
 * class [SVGMatrix](../)
-* namnutrymme [Aspose.Svg.DataTypes](../../svgmatrix/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.DataTypes](../../../aspose.svg.datatypes/)
+* assembly [Aspose.SVG](../../../)

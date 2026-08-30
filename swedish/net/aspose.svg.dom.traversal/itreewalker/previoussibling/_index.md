@@ -1,14 +1,14 @@
 ---
-title: ITreeWalker.PreviousSibling
-second_title: Aspose.SVG för .NET API Referens
-description: ITreeWalker metod. Flyttar TreeWalker till föregående syskon till den nuvarande noden och returnerar den nya noden. Om den nuvarande noden har no synlig tidigare syskon returnerar null och behåller nuvarande nod.
+title: "ITreeWalker.PreviousSibling"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ITreeWalker PreviousSibling-metod. Flyttar TreeWalker till föregående syskon till den aktuella noden och returnerar den nya noden. Om den aktuella noden inte har ett synligt föregående syskon returneras null och den aktuella noden behålls."
 type: docs
 weight: 80
 url: /sv/net/aspose.svg.dom.traversal/itreewalker/previoussibling/
 ---
 ## ITreeWalker.PreviousSibling method
 
-Flyttar TreeWalker till föregående syskon till den nuvarande noden och returnerar den nya noden. Om den nuvarande noden har no synlig tidigare syskon, returnerar null och behåller nuvarande nod.
+Flyttar TreeWalker till föregående syskon till den aktuella noden och returnerar den nya noden. Om den aktuella noden inte har något synligt föregående syskon returneras null och den aktuella noden behålls.
 
 ```csharp
 public Node PreviousSibling()
@@ -16,13 +16,11 @@ public Node PreviousSibling()
 
 ### Returvärde
 
-Den nya noden, eller null om den nuvarande noden har no tidigare syskon. i TreeWalkers logiska vy.
+Den nya noden, eller null om den aktuella noden inte har ett föregående syskon i TreeWalkers logiska vy.
 
 ### Se även
 
 * class [Node](../../../aspose.svg.dom/node/)
 * interface [ITreeWalker](../)
-* namnutrymme [Aspose.Svg.Dom.Traversal](../../itreewalker/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Traversal](../../../aspose.svg.dom.traversal/)
+* assembly [Aspose.SVG](../../../)

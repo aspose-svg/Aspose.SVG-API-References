@@ -1,7 +1,7 @@
 ---
-title: ICSSPageRule.Style
-second_title: Aspose.SVG för .NET API Referens
-description: ICSSPageRule fast egendom. Deklarationsblocket för denna regel.
+title: "ICSSPageRule.Style"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "ICSSPageRule Style-egenskap. Deklarationsblocket för denna regel"
 type: docs
 weight: 20
 url: /sv/net/aspose.svg.dom.css/icsspagerule/style/
@@ -18,7 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSPageRule](../)
-* namnutrymme [Aspose.Svg.Dom.Css](../../icsspagerule/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom.Css](../../../aspose.svg.dom.css/)
+* assembly [Aspose.SVG](../../../)

@@ -1,23 +1,21 @@
 ---
-title: IInterpolationColor.Color
-second_title: Aspose.SVG för .NET API Referens
-description: IInterpolationColor fast egendom. Få färgen som representerar färgerna som ska användas på motsvarande positioner längs en gradient.
+title: "IInterpolationColor.Color"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "IInterpolationColor Color property. Hämtar eller anger färgen som representerar färgerna att använda vid motsvarande positioner längs en gradient"
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.drawing/iinterpolationcolor/color/
 ---
 ## IInterpolationColor.Color property
 
-Få färgen som representerar färgerna som ska användas på motsvarande positioner längs en gradient.
+Hämtar eller anger färgen som representerar de färger som ska användas på motsvarande positioner längs en gradient.
 
 ```csharp
-public Color Color { get; }
+public Color Color { get; set; }
 ```
 
 ### Se även
 
 * interface [IInterpolationColor](../)
-* namnutrymme [Aspose.Svg.Drawing](../../iinterpolationcolor/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Drawing](../../../aspose.svg.drawing/)
+* assembly [Aspose.SVG](../../../)

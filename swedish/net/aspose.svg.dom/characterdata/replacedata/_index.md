@@ -1,14 +1,14 @@
 ---
-title: CharacterData.ReplaceData
-second_title: Aspose.SVG för .NET API Referens
-description: CharacterData metod. Ersätt tecknen som börjar med den angivna 16bitars enhetsoffset med den angivna strängen.
+title: "CharacterData.ReplaceData"
+second_title: "Aspose.SVG för .NET API-referens"
+description: "CharacterData ReplaceData method. Ersätter tecknen som börjar vid den angivna 16-bitars offseten med den angivna strängen"
 type: docs
 weight: 60
 url: /sv/net/aspose.svg.dom/characterdata/replacedata/
 ---
 ## CharacterData.ReplaceData method
 
-Ersätt tecknen som börjar med den angivna 16-bitars enhetsoffset med den angivna strängen.
+Ersätt tecknen som börjar vid den angivna 16‑bit‑offseten med den angivna strängen.
 
 ```csharp
 public virtual void ReplaceData(int offset, int count, string data)
@@ -16,14 +16,12 @@ public virtual void ReplaceData(int offset, int count, string data)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| offset | Int32 | Offset. |
-| count | Int32 | Räkningen. |
+| offset | Int32 | Förskjutningen. |
+| count | Int32 | Antalet. |
 | data | String | Innehållsdata. |
 
 ### Se även
 
 * class [CharacterData](../)
-* namnutrymme [Aspose.Svg.Dom](../../characterdata/)
-* hopsättning [Aspose.SVG](../../../)
-
-
+* namespace [Aspose.Svg.Dom](../../../aspose.svg.dom/)
+* assembly [Aspose.SVG](../../../)
