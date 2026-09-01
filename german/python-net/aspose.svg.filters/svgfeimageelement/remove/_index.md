@@ -1,0 +1,28 @@
+﻿---
+title: remove method
+second_title: Aspose.SVG for Python via .NET API References
+description: 
+type: docs
+weight: 290
+url: /de/python-net/aspose.svg.filters/svgfeimageelement/remove/
+is_root: false
+---
+
+## remove {#}
+
+Removes this instance.
+
+
+
+```python
+def remove(self):
+    ...
+```
+
+
+
+
+
+### See Also
+* module [`aspose.svg.filters`](../../)
+* class [`SVGFEImageElement`](/svg/python-net/aspose.svg.filters/svgfeimageelement)
