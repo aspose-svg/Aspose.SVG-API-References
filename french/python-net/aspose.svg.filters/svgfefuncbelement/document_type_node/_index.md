@@ -1,0 +1,18 @@
+﻿---
+title: DOCUMENT_TYPE_NODE property
+second_title: Aspose.SVG for Python via .NET API References
+description: 
+type: docs
+weight: 470
+url: /fr/python-net/aspose.svg.filters/svgfefuncbelement/document_type_node/
+is_root: false
+---
+
+## DOCUMENT_TYPE_NODE property
+
+
+A document type node
+
+### See Also
+* module [`aspose.svg.filters`](../../)
+* class [`SVGFEFuncBElement`](/svg/python-net/aspose.svg.filters/svgfefuncbelement)
