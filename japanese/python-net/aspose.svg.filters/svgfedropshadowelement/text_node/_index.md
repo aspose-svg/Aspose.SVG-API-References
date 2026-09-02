@@ -1,0 +1,18 @@
+﻿---
+title: TEXT_NODE property
+second_title: Aspose.SVG for Python via .NET API References
+description: 
+type: docs
+weight: 540
+url: /ja/python-net/aspose.svg.filters/svgfedropshadowelement/text_node/
+is_root: false
+---
+
+## TEXT_NODE property
+
+
+A text node
+
+### See Also
+* module [`aspose.svg.filters`](../../)
+* class [`SVGFEDropShadowElement`](/svg/python-net/aspose.svg.filters/svgfedropshadowelement)
