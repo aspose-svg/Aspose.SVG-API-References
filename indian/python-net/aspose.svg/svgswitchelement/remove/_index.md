@@ -1,0 +1,28 @@
+﻿---
+title: remove method
+second_title: Aspose.SVG for Python via .NET API References
+description: 
+type: docs
+weight: 320
+url: /hi/python-net/aspose.svg/svgswitchelement/remove/
+is_root: false
+---
+
+## remove {#}
+
+Removes this instance.
+
+
+
+```python
+def remove(self):
+    ...
+```
+
+
+
+
+
+### See Also
+* module [`aspose.svg`](../../)
+* class [`SVGSwitchElement`](/svg/python-net/aspose.svg/svgswitchelement)
